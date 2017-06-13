@@ -1,0 +1,74 @@
+--- 
+title: "BUSINESS705: Qualitative research methods"
+author: "Peter Smith"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+csl: apa.csl
+github-repo: psmith1303/business705
+url: 'http\://courseguide.info/business705/'
+cover-image: 'images/cover.jpg'
+favicon: "favicon.ico"
+link-citations: yes
+description: "This is the Course Book for BUSINESS705, a postgraduate course in qualitative research methods."
+---
+
+
+# Quick-start guide {-}
+
+Welcome to the BUSINESS705, Qualitative Research Methods.
+
+Over the coming six weeks, I hope that you will find this an engaging
+and fun course.
+
+My overarching goal for this course is to prepare you to undertake
+your first (and perhaps only) research project of any size; e.g., a
+masters (60-point) dissertation or an honours (30-point) dissertation.
+This is my touchstone in all my thinking regarding BUSINESS 705. To
+that end, I want you to be able to *select* qualitative research
+methods that are *appropriate* for your chosen academic conversation
+[@huff_2009_designingresearchpublication], and to *use* those methods
+in a *proficient* manner.
+
+This course guide includes details of
+the [assessments](#assessment-overview), leading to
+an [overview](#course-overview) of the course, and a list of
+the [readings](#readings).
+
+If you have not already done so, you should familiarize yourself with
+the formal [course outline](#course-outline).
+
+![warning](images/warning.png) In order to learn about qualitative
+research methods, you will actually use a range of research methods
+and techniques. In doing so, you will act both as an *investigator* in
+research and as a research *participant*. Undertaking those dual roles
+is a fundamental part of the course's design. Your enrolment in this
+course is taken as your implicit agreement to the being a research
+participant as explained in the [participant information sheet](#pis).
+
+
+## Getting started {-}
+
+1. Read how the course fits together
+([assessments](#assessment-overview),
+[course overview](#course-overview), and
+the [course outline](#course-outline))
+2. Print out the [To Do checklist](#todo-checklist) for the course.
+   This will remind you of the tasks and milestones you need to meet
+3. Get any [equipment you might need](#equipment)
+
+Once you have done those four steps, you will be well positioned to be
+successful in this course. If you have questions, please checkout
+the [Frequently Asked Questions](#faq) chapter.
+
+## Beyond the basics {-}
+
+For those who are interested, there is information on the 'back story'
+of the course. This includes:
+
+1. How the course relates to the [MCom Postgraduate profile](#profile)
+2. The [design decisions](#course-design) that guided much of what goes on
+3. The [history of the course](#course-history)
