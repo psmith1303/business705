@@ -17,9 +17,9 @@ When I talk of learning, I following Terry Doyle, in that:
 
 > Learning is the ability to use information after a significant
 > period of disuse 
-
+>
 > and 
-
+>
 > It is the ability to use the information to solve problems in a
 > context different (if only slightly) from the context in which the
 > information was originally learnt.
