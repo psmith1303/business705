@@ -5,7 +5,7 @@
 
 There are four types of assessment in this course:
 
-+---+--------------------------------------+---------------------------------+-------------+
++---+---------------------------------------+--------------------------------+-------------+
 |   |                                       |                                | Approximate |
 |   | Assessment                            | When and where due             | Weighting   |
 +---+---------------------------------------+--------------------------------+-------------+
@@ -124,9 +124,10 @@ with previous classes, the main problems are:
 
 ### Task objectives {-}
 
-Reflexivity---as distinct from reflection [e.g.,
-@hibbert_2010_reflexivityrecursionrelationality]---is an important
-characteristic of qualitative research and its researchers [@haynes_2012_reflexivityqualitativeresearch].
+Reflexivity---as distinct from reflection
+[@hibbert_2010_reflexivityrecursionrelationality]---is an important
+characteristic of qualitative research and its researchers
+[@haynes_2012_reflexivityqualitativeresearch].
 
 * Through evaluating and commenting on the reflections of your peers,
   this assignment seeks to engender greater reflexivity.

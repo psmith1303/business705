@@ -67,19 +67,3 @@ identifying and reading around your specific research conversation, and bringing
 
 You will do most of the tasks around work streams 2 and 3 outside of
 the classroom.
-
-
-## Week-by-week overview
-
-
-|Week | Work stream 1      | Work stream 2  | Work stream 3             |
-|-----|--------------------|----------------|---------------------------|
-| 1   | Data collection    | See            | The design of qualitative research |
-| 2   |                    | the detailed   | Action research           |
-| 3   |                    | week-by-week   | Case study research       |
-| 4   | Data analysis      | guide          | Ethnographic research     |
-| 5   |                    |                | Grounded theory           |
-| 6   | Presenting results |                |                           |
-
-
-
