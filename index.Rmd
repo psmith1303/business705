@@ -6,7 +6,7 @@ site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib]
-biblio-style: apalike
+biblio-style: apa
 csl: apa.csl
 github-repo: psmith1303/business705
 url: 'http\://courseguide.info/business705/'
@@ -35,8 +35,7 @@ in a *proficient* manner.
 
 This course guide includes details of
 the [assessments](#assessment-overview), leading to
-an [overview](#course-overview) of the course, and a list of
-the [readings](#readings).
+an [overview](#course-overview) of the course.
 
 If you have not already done so, you should familiarize yourself with
 the formal [course outline](#course-outline).
@@ -58,7 +57,6 @@ participant as explained in the [participant information sheet](#pis).
 the [course outline](#course-outline))
 2. Print out the [To Do checklist](#todo-checklist) for the course.
    This will remind you of the tasks and milestones you need to meet
-3. Get any [equipment you might need](#equipment)
 
 Once you have done those four steps, you will be well positioned to be
 successful in this course. If you have questions, please checkout

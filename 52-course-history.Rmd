@@ -4,7 +4,8 @@
 
 Why do yet another qualitative methods course? Many---and maybe even
 most---universities offer qualitative research methods course. There
-are also a plethora of textbooks on the subject. Then, there are a wide array of on-line resources; videos, web pages, and so on.
+are also a plethora of textbooks on the subject. Then, there are a
+wide array of on-line resources; videos, web pages, and so on.
 
 So, there has to be a question about why re-invent the wheel.
 
@@ -15,11 +16,29 @@ is the result of the input of many people including Brigid Carroll,
 Michael Myers, Cathy Urquhart, Margarita Mooney, and Ann Langley;
 drawing on existing expertise and resources.
 
-And so. I have tried to take their advice and ideas and synthesis something that
-is a good fit for students in Management & International Business,
-here at the University of Auckland.
+And so. I have tried to take their advice and ideas and synthesis
+something that is a good fit for students in Management &
+International Business, here at the University of Auckland.
 
 
 ## The history of the course
 
-This course has a relatively short history.
+Research has been taught in this department, at a postgraduate level,
+for at least 20 years that I know of. In 1997, there were two courses,
+Research Methods I and II, that sought to "ensure that all ...
+master's students have the basic research skills and concepts to
+enable them to do a master's thesis".
+
+By 2000, the courses had morphed into on the *Foundations of
+Research*, addressing the "theory and philosophy of social science
+research methods" and *Research Practice*, focusing on "applying
+research methods in organisational contexts".
+
+With the change from being MGMT courses to BUSINESS courses, the focus
+of became something that would be familiar to current students, a
+courses on *Research design*, *Qualitative research*, and
+*Quantitative research*.
+
+It was only in 2017 that the *Advanced qualitative research* and
+*Advanced qualitative research* courses were introduced to meet needs
+of PhD candidates.

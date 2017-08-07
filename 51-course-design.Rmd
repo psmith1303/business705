@@ -1,11 +1,6 @@
 # Course design {#course-design}
 
-A lot of thought went into the design of the course to make it
-something good.
-
-
-My teaching and your learning
------------------------------
+## My teaching and your learning
 
 My approach to teaching is shaped by three concerns. First, "What is it
 that I want you to be able to do at the end of the course?" What

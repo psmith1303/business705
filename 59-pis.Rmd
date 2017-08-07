@@ -1,67 +1,116 @@
 # Participant information sheet {#pis}
 
+Participant information sheet for individuals
+Title: BUSINESS 705
+
+Dear Participant,
+
+My name is Peter Smith, and I am the course director for the course
+BUSINESS 705 (Qualitative Research Methods), and I would like to
+invite you to participate the research activities of the course.
+
+## Introduction
+
+The purpose of this Participant Information Sheet, and the important
+information it contains is to provide you with enough detail so you
+can make an informed decision about taking part in the research
+activities in BUSINESS 705. The goal here is one of informed consent;
+that is good ethics practice.
+
+If you review the course's learning objectives, you will see that
+participating in the research activities of the course will lead to
+you becoming a better qualitative researcher, and to better understand
+the implications of doing qualitative research. That is the goal of
+the research activities in class.
+
+If having read everything here, you decide this is not the course for
+you, as with any course, you can withdraw from the course without
+penalty for the first two weeks. In that case, you should contact
+either the MCom advisor or the BComHons advisor to find an alternative
+methods course.
+
+Note, that if you are planning to do BUSINESS 712 (Advanced
+Qualitative Methods), the timing of that course may mean you will not
+be able to do it this semester (remember, BUSINESS 705 is in the first
+half of this semester, and BUSINESS 712 is in the second half of the
+semester).
+
 ## Research in BUSINESS 705
 
-There is old saw says that *practice makes perfect*. As this course is
-about qualitative research methods---and in particular, about preparing
-you to undertake your own research in the future---an important part of
-this course is actually doing the stuff of qualitative research. To
-build your skills in this area, you will practice common qualitative
-research techniques. For example, you will design an interview
-guide and then conduct interviews using that guide. 
+There is an old saw says that practice makes perfect. As this course
+is about qualitative research methods—and in particular, about
+preparing you to undertake your own research in the future—an
+important part of this course is actually doing the stuff of
+qualitative research. To build your skills in this area, you will
+practice common qualitative research techniques. For example, you will
+design an interview guide and then conduct interviews using that
+guide.
 
-More formally, you will act as an *investigator* and actually use
-the tools of qualitative research to collect data from your classmates; this
-implies that you will also act as a *participant* when it is the turn of
-your classmates act as investigators.
+More formally, you will act as an investigator and actually use the
+tools of qualitative research to collect data from your classmates;
+this implies that you will also act as a participant when it is the
+turn of your classmates to act as investigators. As a participant, you
+need to be fully informed about the consequences of your participation
+in the research activities that will take place within the BUSINESS
+705 classroom. In what follows, the research activities that will take
+place in BUSINESS 705 are explained.
 
-As a participant, you need to be fully informed about the consequences
-of your participant in the research activities that will take place
-within the BUSINESS 705 classroom. The remainder of this chapter
-explains the research activities that will take place in BUSINESS 705.
+To be explicit, you—and your classmates—will be the ones carrying out
+the research procedures (e.g., conducting the interviews). Peter, your
+lecturer, is there to help and assist, but not to 'do'; he is not
+collecting any research data.
 
 ## The nature of your participation
 
-As detailed in the Chapter \@ref(assessments), a significant method of
-assessing your learning is through a (reflective) auto-ethnography
-centred the nature of your learning about qualitative research
-methods. As a form of participant observation, auto-ethnography
-combines the roles of investigator and participant. Thus being an
+As described in the section on Assessments (in the course guide), a
+significant method of assessing your learning is through a reflective
+learning journal, centered the nature of your learning about
+qualitative research methods. Such work has auto-ethnographical
+components, and so is a form of participant observation that combines
+the roles of investigator and participant. Thus, being both an
 investigator and as a participant are integral parts of this course.
-Your enrolment in this course is taken as implicit consent to this.
+Your enrollment in this course is taken as implicit consent to this.
 
-As part of your auto-ethnography you will be party to:
+As part of your work in the class you will be party to, and participate in:
 
- * Participant and non-participant observations
- * Interviews
- * Focus-groups
- * Questionnaires
- * Repertory Grids
+* Participant and non-participant observations
+* Interviews
+* Focus groups
 
 Given that you will be doing participant observation, everything that
-you, and your peers, do and say in the class---either formally or
-informally---may become data.
+you, and your peers, do and say in the class—either formally or
+informally—may become data.
 
 At times your participation may be recorded (either by video or by
 digital audio). This is so you can compare and contrast the impact of
 recording (versus note taking) both from the perspective of the
-participant and that of the investigator. 
-
-You should assume that everything you do and say in the class may be
-recorded; as novice researchers it is possible that someone (when
+participant and that of the investigator. Such recordings will not be
+kept; at the end of the class they will be deleted. Even so, you
+should assume that everything you do and say in the class may be
+recorded; as novice researchers, it is possible that someone (when
 acting as an investigator) neglects to notify participants that they
 are being recorded.
+
+At any time—without giving any reason—you may:
+
+* Withdraw from participation
+* Elect not to be recorded
+
+If you opt-out you will be given alternative work to do (typically
+involving readings and videos from the SAGE Research Methods website).
+It is not possible to replicate the learning that comes from 'doing'
+and so if you do opt-out you will have a qualitatively different
+experience and probably a different type of learning.
 
 ## Purpose of the research
 
 The primary purpose of the research activities in BUSINESS 705 is to
 give you and your peers the opportunity to practice techniques of
-qualitative research. There is no intent on my part that the data
-collected will intended to lead to a published output, say, a journal
-article.
+qualitative research. There is no intent on Peter's part that the data
+collected will lead to a published output, say, a journal article.
 
-The research question that frames activities in which you will
-participate is "My learning of qualitative research methods".
+The overarching topic that frames activities in which you will
+participate in is "My learning of qualitative research methods".
 
 ## Location of the research
 
@@ -71,45 +120,52 @@ time of BUSINESS 705.
 ## Confidentiality
 
 Given the nature of the class, it is not possible to promise
-confidentiality around either your participation in general, or your
+confidentiality around either your participation in general or your
 data in particular. Your classmates will know that you are 'in the
 class', they will see, for example, the interviews in which you
-participate, and thus everyone in the class will---to some degree or
-other---have access to the data that is elicited from one other.
+participate, and thus everyone in the class will—to some degree or
+other—have access to the data that is elicited from one other.
+
+Furthermore, other people not in the class will know that you have
+(mostly like) participated in the research activities in the class;
+e.g., administrative staff with access to details of the course on
+Canvas.
 
 ## Potential risks
 
 Give the topic of the research activities, and the nature of those
 research activities, it is anticipated that there are no potential
-risks that are materially different from any other class where you
-might be required to keep a learning journal, or other reflective
-pieces of work.
+risks of significance that are materially different from any other
+class where you might be required to keep a learning journal or other
+reflective pieces of work.
 
 ## Data retention
 
 You should be aware that the data collected by your peers may be
-retained by them (as part of their auto-ethnography) indefinitely.
+retained by them (as part of their learning journals) indefinitely.
 
+As noted earlier, electronic recordings are to be deleted at the end
+of the classes in which they are made.
 
 ## If you have questions or concerns
 
-If you have any queries about what is discussed here, you can  email me,
-phone me, visit me in my office, or talk to me in class. 
+If you have any queries about what is discussed here, you can email
+me, phone me, visit me in my office, or talk to me in class.
 
-You may also contact my Dead of Department, at the address below:
+You may also contact my Head of Department, Professor Rod McNaughton,
+Department of Management and International Business, The University of
+Auckland Business School, Private Bag 92019, Auckland; Telephone 09
+923 7524.
 
-> Professor Rod McNaughton, Department of Management and International
-> Business, The University of Auckland Business School, Private Bag
-> 92019, Auckland; Telephone 09 923 7524.
+For any queries regarding ethical concerns, you may contact the Chair,
+The University of Auckland Human Participants Ethics Committee, The
+University of Auckland, Research Office, Private Bag 92019,
+Auckland 1142. Telephone 09 373-7599 ext. 83711. Email:
+ro-thics@auckland.ac.nz
 
-For any queuries regarding ethical concerns, please contact:
 
-> The Chair, The University of Auckland Human Participants Ethics
-> Committee, The University of Auckland Research Office -- Office of
-> the Vice Chancellor; Private Bag 92019, Auckland; Telephone 09 923
-> 97830.
 
 ## Approvals
 
 Approved by the University of Auckland Human Participants Committee on
-____________ for three (3) years, Reference number 019395.
+28 July 2017 for three (3) years, Reference number 019395.
