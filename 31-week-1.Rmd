@@ -1,0 +1,244 @@
+# Week one {#w1-details}
+
+Having successfully completed the research design course (BUSINESS
+710), you already know a lot about doing research, and so, as we set
+the scene this week _re_ qualitative research methods, many of issues
+and ideas raised this week will be familiar to you.
+
+But we will be going beyond 'just' reading and start practising some
+to the tools and techniques of qualitative research.
+
+## First class {-}
+
+### Overview {-}
+
+In this first session, we hit the ground running and find out about
+you (as a academic) and your research interests (in terms of the
+academic conversation in which you wish to participate).
+
+Thinking about that participation, an important change that you may
+have begun to notice is that staff increasingly treat you as junior
+(academic) colleagues, rather than simply as students
+[@breuer_2007_issueslearningteaching]; well, I certainly do. This has
+many implications from expectations around your self-regulation
+[@schunk_2005_selfregulatedlearningeducational] through to how you
+present yourself as a researcher.
+
+Qualitative research does not take place in a vacuum. It is shaped by
+many factors [e.g., @huff_2009_designingresearchpublication p.86].
+Consequently, it makes sense for you to have an understanding of how
+those factors can affect your decisions vis-à-vis any qualitative
+research you might undertake. So, the starting point of this course is
+to surface your understanding of the academic conversation in which
+you wish to participate (see the discussion on assumptions in Chapter
+\@ref(course-structure)).
+
+
+### Class plan {-}
+
+* Welcome to BUSINESS 705
+
+* As academics, what would be useful to know about one another?"
+```{theorem, echo=FALSE}
+Go round the class and ask them to introduce themselves. Prompt: What 
+does an 'academic' introduction look like?
+```
+* What do you want to know about the course?
+```{theorem, echo=FALSE}
+What questions do the students have about the course?
+Note them on the white board if they are not answered immediately.
+If they could reasonably know the answer, get the class to answer it.
+```
+
+* How are qualitative and quantitative research different?
+```{theorem, echo=FALSE} 
+This should focus on two levels;
+epistemologically/ontologically, and on the practicalities of doing
+the two types of research.
+
+What does this mean for mixed methods
+```
+
+* What role will qualitative research play in your academic life?
+```{theorem, echo=FALSE}
+Split into groups of three or four, and discussion each others' research 
+conversations. Which elements/factors matter the most re qualitative 
+research methods?
+
+How do the epistemological and ontological factors play out?
+```
+* What does ethics in  qualitative research look like?
+```{theorem, echo=FALSE}
+Question: if you undertake an auto-ethnography, are you required to get 
+approval from UAHPEC?
+```
+
+### Prep and tasks {-}
+
+Throughout this chapter---and also for subsequent chapters and
+weeks---you should think of the tasks you need to complete as
+'deliverables'; you should bring the product of you work to class in a
+form that you can use and share with others; i.e., for each
+deliverable, a single A4 page will usually suffice (it may comprise
+notes, diagrams, mind maps, etc; whatever works for you and is
+intelligible to your colleagues).
+
+1. Review "Choosing an academic home"
+  [@huff_2009_designingresearchpublication]
+  &mdash; 30 minutes;
+
+  - *Describe* the academic conversation to which you wish to make a
+    contribution &mdash; 30 minutes.
+
+  - Given the characteristics of your choose academic conversation,
+    *discuss* the extent to which there are well understood patterns
+    of research; i.e., is it the case that you are "in the midst of a
+    conversation where many choices have been previously debated and
+    an overarching agenda has been established"
+    [@huff_2009_designingresearchpublication p. 87]. What are the
+    implications of those patterns for the choice of methods in your
+    conversation? &mdash; 60 minutes.
+	  
+
+2. Read "Part I" and "Part 2" of Myers
+  [-@myers_2013_qualitativeresearchbusiness p. 3--56] &mdash; 120
+  minutes.
+
+  - *Summarise* the main 'big ideas' that underpin Chapter 2 of the
+    textbook. What parallels, if any, are there with other books and
+    articles you have read? &mdash; 20 minutes.
+  
+  - *Compare and contrast* the role of philosophic assumptions as
+	presented by Myers [-@myers_2013_qualitativeresearchbusiness] and
+	Huff [-@huff_2009_designingresearchpublication] &mdash; 40
+	minutes.
+
+3. The University of Auckland has a processes and policies around
+   conducting research. One of the most important documents is
+   entitled "Guiding principles for conducting research with human
+   participants." A copy of these guidelines can be found on the
+   University's website at:
+   https://www.auckland.ac.nz/en/about/research/re-ethics/re-uahpec.html.
+   Read the "Guiding Principles for conducting research with human
+   participants"
+   [@theuniversityofauckland_2013_guidingprinciplesconducting] &mdash;
+   40 minutes.
+
+   - *Discuss* the relationships that exist---or their lack---between
+	  Myers [-@myers_2013_qualitativeresearchbusiness], Huff
+	  [-@huff_2009_designingresearchpublication] and the University's
+	  "Guiding principles ..." with regard to ethics in conducting
+	  research &mdash; 20 minutes.
+
+## Second class {-}
+
+### Overview {-}
+
+In this class we move from talking about qualitative research into
+actually practising with some of the tools and techniques; and in
+particular doing some interviewing (and hopefully, a lot of doing).
+
+Looking at the big-picture, you need to work out how interviewing fits
+(or does not fit) with your epistemic/ontological position. And, if it
+does fit, in what way does it fit. At a gross level, how you go about
+doing an interview---say, the types of questions--will change
+depending on how critical/interpretivist/positivist is your stance.
+
+### Class plan {-}
+
+* What questions and comments do you have arising from the first class?
+
+* Where do you place yourself and the research conversation that you
+  are interested in? Positivist, interpretivist, critical, something
+  else? 
+```{theorem, echo=FALSE}
+In terms of it being positivist (yes,
+  one can do positivist qualitative research; see chapter 1 of the 4th edition of The SAGE Handbook of Qualitative Research **DENZIN 2011 REF**), interpretivist,
+  critical, or something else?
+  
+Does the 'criticality' of your stance impact on the ethical
+requirements of the University of Auckland.
+```
+* In small groups, who has the best interview guidelines for the structured interview?
+```{theorem, echo=FALSE}
+What makes it good?
+What was a problem? (e.g, how long should the interview take?)
+The do it again, with the semi-structured guidelines. 
+```
+* How easy is it to do a structured interview?
+```{theorem, echo=FALSE}
+In groups of 3 (or 4), one person be the interviewer, one the interviewee, the others being the observers. 
+Debrief the quality of the process (not the content of the interview).
+
+Not if anyone doesn't want to be a participant, they can limit themselves to being observers.
+15 + 5 minutes.
+```
+* How easy is it to do a semi-structured interview?
+```{theorem, echo=FALSE}
+In new groups of 3 (or 4), one person be the interviewer, one the interviewee, the others being the observers. 
+Debrief the quality of the process (not the content of the interview).
+
+Note if anyone doesn't want to be a participant, they can limit themselves to being observers.
+15 + 5 minutes.
+```
+* How does note-taking versus recording impact the interview process?
+```{theorem, echo=FALSE}
+Do an unstructured interview on the topic of "The pros and cons of public transport in Auckland"
+
+First interview, do it with note-taking but not recording.
+
+Do an unstructured interview on the topic of "The best techniques for writing an essay"
+
+This time record the interview using a recorder.
+
+What are the pros and cons of each (and both)
+
+```
+* Looking ahead to your learning journals, are you clear what you need
+  to do (as opposed to being clear as to what you will do --- ends and
+  means).
+
+### Prep and tasks {-}
+
+1. Read chapter 9 of Huff [-@huff_2009_designingresearchpublication]
+   &mdash; 20 minutes.
+   
+   - *Identify* the likely types of goals when using interviews, for
+     positivist, interpretivist, and critical research &mdash; 40
+     minutes.
+
+
+2. Read the start of "Part IV" of Myers
+  [-@myers_2013_qualitativeresearchbusiness p. 117--135] &mdash; 60 minutes.
+  
+3. *Develop* a script [-@myers_2013_qualitativeresearchbusiness p. 129]
+   (including an interview guide) for a structured interview on the
+   topic of "The difference between interpretivist, positivist, and
+   critical forms of research" &mdash; 30 minutes.
+
+4. *Develop* a script (including an interview guide) for a
+   semi-structured interview on the topic of "The most useful article
+   (not book) you ever read about research methods" &mdash; 30 minutes.
+
+
+5. Explore the 'little blue books' at SAGE research methods site
+   http://methods.sagepub.com.ezproxy.auckland.ac.nz/.
+   - Select one book that focuses on interviewing; spend an hour skim
+     reading, and then *summarise* the book &mdash; 90 minutes.
+
+6. Use the SAGE research methods site again, and find "The SAGE
+   Handbook of interview research: The complexity of the craft" and
+   read Chapter 15 [@wang_2017_sagehandbookinterview] &mdash; 60
+   minutes.
+   
+   - *Identify* that chapter's main message &mdash; 10 minutes.
+   
+7. Having done tasks 4--6, do you need to revise your interview
+   scripts (yes/no)? &mdash; 10 minutes.
+
+## End of week {-}
+
+With the week's classes behind you, it is time to do your learning
+journal (Section \@ref(ass1) &dash; 60 minutes) and then do your
+review the learning journals of your peers (Section \@ref(ass1) &dash;
+60 minutes).

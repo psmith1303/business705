@@ -1,0 +1,256 @@
+# Week two {#w2-details}
+
+This week we start to look at our first qualitative research method:
+action research.
+
+For Myers a qualitative research method is "a strategy of enquiry ...
+of finding empirical data about the (social) world"
+[-@myers_2013_qualitativeresearchbusiness p. 4]. In a practical sense,
+a qualitative research method might drawn a variety of approaches to
+collecting and analysing qualitative data; for example, a case study
+might use interviews and observations, or may just be archival
+research, with the data being analysed through thematic analysis.
+
+That does not mean the researcher necessarily has a free reign to mix
+and match from all of the data collection and analysis techniques.
+Depending on the stricutures of any particular research method, only
+some combinations might be appropriate [@gehman_2017_findingtheorymethod].
+
+Focus groups and participant observation are two approaches to data
+collection that are often employed in action research. So, your
+in-class 'doings' will centre on these techniques.
+
+
+## First class {-}
+
+### Overview {-}
+
+As you are exposed to new research methods, you should think about the
+degree to which they fit with your personal agenda as a researcher.
+Although many approaches to conducting research are intended to not
+materially impact the organisations and individuals who participate in
+the research, some forms of research---such as action research---are
+intended to change the status quo. You may or may not want to take on
+such a responsibility, as organisational interventions may not always
+make things better (and if they do, better for whom).
+
+Last week we explored several forms of interviewing, such as the
+semi-structured interview. In this class we will consider the focus
+group (sometimes called a group interview). A popular approach to
+collecting data in marketing, focus groups are less used in management
+and other disciplines, nevertheless, they an import tool in most
+researchers repertoires.
+
+### Class plan {-}
+
+* What were your big takeaways, and questions from last week?
+
+* Why do you think Peter likes the SAGE Research Methods website so much?
+
+* How can you find action research projects?
+```{theorem, echo=FALSE}
+Myers [-@myers_2013_qualitativeresearchbusiness p. 65], suggests that you can locate through your existing network.
+
+How does that fit with the idea of pursuing a 'research conversation'?
+
+```
+* How would you 'do' an action research project? 
+```{theorem, echo=FALSE} 
+A family friend has a business design and making smart
+light switches that can be controlled through the internet (i.e., the
+Internet of Things). They offer to pay you to investigate how they can
+start selling their product into Japan.
+
+How could you re-frame this as an action research project; what
+challenges would be introduced in so doing? This should touch on the
+ethical consequences (e.g., of making changes to the status quo).
+
+```
+*  What makes a good plan for doing a focus group?
+```{theorem, echo=FALSE}
+
+In small groups share each others plans. Which is best? Where did the
+ideas/concerns/issues that drove the design come from? Did the
+exemplars help.
+
+Choose the best plan, and two or three people run the focus group.
+```
+
+### Prep and tasks {-}
+
+1. Read the start of "Part III" of Myer
+  [-@myers_2013_qualitativeresearchbusiness p. 57--72] &mdash; 40
+  minutes.
+
+  - *Discuss* the pros and cons of doing action research in a 60-point
+    dissertation &mdash; 20 minutes.
+
+  - *Describe* the difference between engaging in a consulting project
+    and a action research project &mdash; 20 minutes.
+
+2. Go to the SAGE Research Methods website
+   (http://methods.sagepub.com), and search for 'action research', you
+   will see there are a lot of resources (including specialised texts)
+   available to you. 
+   
+   - *Identify* one of the texts that you think would be appropriately
+     helpful to you if you were to do action research as part of a
+     year long thesis (you may need to make and state, some
+     assumptions). Summarise your reasons for you choice, and be
+     prepared to share it with your colleagues &mdash; 30 minutes.
+   
+3. Beyond that, the SAGE Research Methods website also has a range of
+   video clips. Find the 45 minute video called "David Coghlan
+   Discusses Action Research", and review it &mdash; 50 minutes.
+
+   - *Describe* the biggest difference between David Coghlan's 'take' on
+     action research compared to Myers
+     [-@myers_2013_qualitativeresearchbusiness] &mdash; 10 minutes.
+	 
+ 4. Search the leading journal in your field (e.g., if you are in
+    'innovation' you might choose Technovation) for research based
+    data from focus groups. If you get no 'hits' you might need to
+    widen the scope of your search (note some journals publish little
+    if any qualitative research). Skim read 3 or 4 of the articles,
+    and select one as an exemplar &mdash; 60 minutes.
+	
+	- *Sumamrise* the method (not the content), and *evaluate* the
+      quality of the focus groups that were undertaken (include a
+      description of the criteria you used for that evaluation, and
+      why you did not chose the other aritcles you skimmed) &mdash; 60
+      minutes.
+	  
+	- Hint: You might also look at Huff again [e.d.,
+      @huff_2009_designingresearchpublication p. 251--268]]
+
+
+5. Design a focus group session to explore the factors behind the
+   choices of how people travel to work (or university) &mdash; 40
+   minutes.
+
+## Second class {-}
+
+### Overview {-}
+
+I think we all develop favourite ways of collecting data; and
+observation (participant or non-participant) is my personal 'weapon of
+choice' when I want to understand what is going on for people. It is
+also the weapon of choice in the particular research conversation in
+which I participate: strategy-as-practice.
+
+In the case of strategy as practice, it is possible to trace its
+'popularity' from strategy-as-practice (as exemplified by the works of
+Jarzabakowsi), back to the process/processual studies of the Warwick
+group (where Jarzabkowsi did her PhD), to Pettigrew (who was at
+Warwick for many years)a and his classic work on ICI
+[@pettigrew_1985_awakinggiant].
+
+All this provides a rich hinterland of 'how to go about' research in
+that research conversation. Of course, there are other
+influences---e.g. Gioia and his method
+[@gioia_2013_seekingqualitativerigor]---but, it is key figures in the
+strategy-as-practice 'converstation' who have, to a greater or lesser
+extent, determined what other methodological influences are seen as
+appropriate.
+
+Over time you should become familiar with the history and trajectory
+of your particular research conversation.
+
+
+### Class plan {-}
+
+* Any questions?
+
+* What matters in participant observation?
+```{theorem, echo=FALSE}
+Small group sharing of the concept maps. Draw a new and better map.
+```
+* What do we see when we observe?
+```{theorem, echo=FALSE}
+Do the HEC exercise with objects.
+```
+* Do we see the same thing?
+```{theorem, echo=FALSE}
+Have two or three people play 'FLUX'. The other observe and make
+notes.
+
+Q. What framework will they use to guide their observations.
+
+Get the observers to report what they found particularly 'noteworthy'.
+```
+* Do we see the same thing? Part 2
+```{theorem, echo=FALSE}
+Change the observers and participants.
+
+Prime one of the participants to respond/react/engage with one of the
+observers.
+
+Get the observers to report what they found particularly 'noteworthy'.
+```
+* What are the challenges of participant observation?
+```{theorem, echo=FALSE}
+Play "Mornington Crescent"
+Prime a couple of players.
+
+Everyone is an observer.
+
+Get the observers to report what they found particularly 'noteworthy'.
+
+What was challenging about being participant observer?
+
+```
+* What the solution to the need for a *quid pro quo*?
+
+* Does going native matter to your conversation? (and what drives that).
+
+### Prep and tasks {-}
+
+1. Read chapter 11 of Myers [-@myers_2013_qualitativeresearchbusiness
+   p. 136--150] &mdash; 30 minutes.
+   
+2. Read the chapter in 'Social Research: Theory, Methods and
+   Techniques' on participant observation
+   [@corbetta_2003_socialresearchtheory] &mdash; 30 minutes.
+
+   - Based on the two readings, draw a concept map (look it up if you
+     need to) of the main concepts and their relationship &mdash; 30
+     minutes.
+
+3. Read the methods section of Jarzabkowski's paper on doing
+   ethnography, where she talks about observations
+   [@jarzabkowski_2015_conductingglobalteambased] Read the methods
+   section &mdash; 30 minutes.
+   
+4. How do you know what you are observing? Read "how I learnt what a
+   crock was" [@becker_1993_howlearnedwhat] &mdash; 30 minutes.
+
+   - One issue the previous two readings either allude to, or
+     explicitly address is "How do you know what people are talking
+     about?" In situations where the people you are observing have
+     significantly different knowledge than you---say, software
+     engineers or lawyers---how do you decide what to pay attention
+     to? How do you know when people a making in-jokes? &mdash; 10 minutes.
+	 	 
+   - Use the SAGE Research methods site to explore this issue, and
+     develop an approach for overcoming this problem &mdash; 60 minutes.
+
+5. Lookup the term "Going native" in Dictionary of Statistics &
+   Methodology, and in The SAGE Encyclopedia of Social Science
+   Research Methods (both available through the SAGE Research Methods
+   website). In the tradition of your desired research conversation,
+   is going-native seen as problematical?  &mdash; 60 minutes.
+   
+6. Myers [-@myers_2013_qualitativeresearchbusiness], in talking about
+   participant observation, talks about the notion of reciprocity.
+   This issue exists almost all the time in qualitative research; what
+   kind of *quid pro quo* can you give participants and what danagers
+   might exist. Hint: Think about the notion of free and informed
+   consent
+   [@theuniversityofauckland_2013_guidingprinciplesconducting]  &mdash; 30 minutes.
+
+## End of week {-}
+
+With the week's classes behind you, it is time to do your learning
+journal (Section \@ref(ass1) &dash; 60 minutes) and then do your
+review the learning journals of your peers (Section \@ref(ass1) &dash;
+60 minutes).

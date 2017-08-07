@@ -1,0 +1,183 @@
+# Week three {#w3-details}
+
+This week we look at our second qualitative research method, case
+study research. In some disciplines/sub-fields, case study research is
+perhaps the most prevalent way of doing research. However, I think it
+is important not to be side-tracked by the use of cases in teaching
+(e.g., the Harvard method). Rather, we need to concentrate on case
+studies as a strategy for doing research.
+
+This week sees us rounding out they ways in which with collect data,
+by considering archival (or secondary data) research. We then
+transition into the analysis of qualitative data. For many students
+(and academics), they analysis of the data is the most challenging
+part of qualitative research.
+
+## First class {-}
+
+### Overview {-}
+
+I am somewhat biased as I mainly read in my own area (strategizing in
+professional service firms), and within that milieu the case study
+reins supreme. So, I perhaps over estimate its importance; but it is a
+very important methodology. So this week, you will undertake the first
+steps toward doing a research case study; writing a case-description.
+
+Think back to the journal articles where you have seen case
+descriptions. If you are not sure what a case description is, no
+worries, you have a task to do this week that will address that.
+
+### Class plan {-}
+
+* In what ways are case study research and action research similar?
+
+* How are units of analysis and levels of analysis related?
+```{theorem, echo=FALSE}
+Review the maps that students have made. Put them up on the wall
+
+Have the students present their articles
+```
+* Review the case studies
+```{theorem, echo=FALSE}
+Both the units/level of analysis 'exemplars' and the ones the students wrote on Beca.
+
+What were the challenges they faced?
+
+What are the levels and units of analysis in the Beca cases?
+
+Make copies of one and evaluate it.
+```
+
+
+### Prep and tasks {-}
+
+For many of these tasks, you will need to engage in some independent research.
+
+1. What is an embedded case? &mdash; 10 minutes.
+
+2. What is a concept map? This should be easy as you used looked at
+   them last week &mdash; 10 minutes.
+
+3. Given your ontological/epistemological position, draw a concept map
+   that connects the ideas of "unit of analysis" and "level of
+   analysis". Your concept map should contain citations to the
+   sources of the ideas you present &mdash; 30 minutes.
+   
+4. Select an empirically-based journal article you have enjoyed (it
+   should be an article with which you are already familiar). Be
+   prepared to present/discuss/describe the units of analysis and
+   level of analysis &mdash; 30 minutes.
+
+5. Read Chapter 7 of Myers
+  [-@myers_2013_qualitativeresearchbusiness p. 73--91] &mdash; 60 minutes.
+
+6. Read Chapter 12 of Myers
+  [-@myers_2013_qualitativeresearchbusiness p. 151--162] &mdash; 40 minutes.
+
+7. What is a case description in the context of qualitative research?
+   (Hint, check out Yin's work) &mdash; 10 minutes.
+   
+8. Where would you place Yin on a positivist --- interpretivist spectrum?
+
+9. Write a short case description. Combine what you know about using
+   documents to collect data, and case study research to write a case
+   description, with a view to investigating focusing on Beca's
+   internationalisation &mdash; 180 minutes.
+   
+    - Your are time constrained; you will only be making a initial/draft case.
+    - Beca is a New Zealand based engineering consultancy.
+    - You may only use secondary (archival) data; you must not do any primary data collection
+    - You should consider this to be the exploratory phase of research
+      into how professional service firms internationalise.
+    - Spend about one third of your time collecting data, and the rest
+      of it writing the case (mainly as referenced quotes).
+    - Keep a research log of what you did and why you did it.
+    - Bring your case description (and research log) to class.
+
+
+## Second class {-}
+
+### Overview {-}
+
+Qualitative data analysis (QDA): anecdotally, one of the big
+differences between quantitative research and qualitative research is
+that, in quantitative research one spends a lot of time at the
+'front-end' working out what is to be done, and the analysis is
+relative quick. Whereas, with qualitative research, there is less work
+at the front-end, but the analysis takes much longer. When talking
+with masters and PhD students about their research plans, we often end
+up doubling or tripling the amount of time they set aside to do
+analysis.
+
+In many ways, thematic analysis, is the swiss-army knife of QDA, and
+so we start our journey with a look at this flexible tool that can be
+used in a variety of paradigms. The 'go-to' references for thematic
+analysis are by Miles and Huberman
+[@miles_1994_qualitativedataanalysis;
+@huberman_2002_qualitativeresearchercompanion]. Many qualitative
+research methods courses have Miles and Huberman's work as required
+reading.
+
+### Class plan {-}
+
+* How do you do thematic analysis?
+```{theorem, echo=FALSE}
+In groups describe the process of doing thematic analysis. 
+
+Make a crib-sheet.
+```
+* Which is the better tool, Dedoose or nVivo?
+
+* Is your coding the same?
+```{theorem, echo=FALSE}
+What are the implications for the quality of your research?
+
+How can you make it the same (and why would you want that)?
+```
+
+* Is your coding the same?
+```{theorem, echo=FALSE}
+In groups describe the process of doing thematic analysis. 
+
+Make a crib-sheet.
+```
+* Is thematic coding essentially positivist, interpretivist, or
+  critical in orientation?
+  
+* Is thematic analysis geared towards a top-down or bottom-up
+  approach?
+
+
+### Prep and tasks {-}
+
+1. Read Chapter 13 of Myers 
+  [-@myers_2013_qualitativeresearchbusiness p. 165--181] &mdash; 40 minutes.
+
+2. Explore the
+   [SAGE Research Methods](http://methods.sagepub.com.ezproxy.auckland.ac.nz/) site
+   and read about thematic analysis &mdash; 40 minutes.
+
+3. Summarise 'thematic analysis' in a paragraph or two, as if it were
+   to be included in chapter 13 of the Myers' text book  &mdash; 40
+   minutes.
+   
+4. Again, using
+   the
+   [SAGE Research Methods](http://methods.sagepub.com.ezproxy.auckland.ac.nz/) site
+   search and examine  instructions or videos on 'how' to do thematic analysis (rather
+   than 'what' it is). You might need to use the word "coding" as one
+   of your search terms &mdash; 60 minutes.
+      
+4. Sign-up for a free account at [Dedoose](http://dedoose.com). Spend
+   some time getting familiar with this QDA software by coding the text
+   in Appendix \@ref(engineering) &mdash; 90 minutes.
+   
+5. Now, on a PC in one of the labs, do the same thing but try out
+   nVivo &mdash; 90 minutes.
+
+## End of week {-}
+
+With the week's classes behind you, it is time to do your learning
+journal (Section \@ref(ass1) &dash; 60 minutes) and then do your
+review the learning journals of your peers (Section \@ref(ass1) &dash;
+60 minutes).

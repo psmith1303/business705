@@ -1,0 +1,104 @@
+# Week four {#w4-details}
+
+The data collection tools we have explored thus far---interviewing,
+focus groups, participant and non-participant observation, and
+document collection---can (and are) fruitfully employed the research
+methods of action research and case studies. You will find that these
+tools have their uses in ethnographic research (this week) and ground
+theory (next week).
+
+Following on from your excursion into thematic analysis, this week you
+will be taking a deeper dive into hermeneutics and semiotics.
+
+However, so far, the course has centred on taking research methods
+(and various tools of conducting qualitative research) and looking at
+individual parts; e.g., case studies have been considered somewhat
+separately to interviewing. Thus far, this has led to a rather general
+understanding of the topics of the first half of the week. For
+example, how interviewing fits with something like ethnographic
+research---in particular---has not been considered.
+
+For the remainder of the course, the goal is to start to integrate the
+components that, until now, we have been treating a separate and
+distinct.
+
+## First class {-}
+
+* How is interviewing (in general) different to ethnographic interviewing?
+
+* What is the reason for those changes?
+
+* How have Smet/Jarzabkowski and colleagues addressed the adavantages
+  and disadvantages of ethnographic research?
+
+### Overview {-}
+
+### Class plan {-}
+
+* Ethnographic research
+
+
+### Prep and tasks {-}
+
+
+1. Read Chapter 8 of Myers
+  [-@myers_2013_qualitativeresearchbusiness p. 92--103] &mdash; 30 minutes.
+
+2. Draw a concept map that distinguishes/highlights the differences
+   between interview (as you currently understand it) and
+   ethnographic interviewing (hint: you might find something useful
+   in the Handbook of Ethnography on the SAGE Research Methods
+   website &mdash; 45 minutes.
+
+3. Review the notion of transferability on the SAGE Research Methods
+   website &mdash; 30 minutes.
+
+4. Read Smets _et al_., [@smets_2015_reinsurancetradinglloyd] and the
+   the complimentary article by Jarzabkowski and colleagues
+   [@jarzabkowski_2015_conductingglobalteambased] &mdash; 60 minutes.
+
+5. The _quid pro quo_ of that research was primarily an industry
+   report which can be found at  https://www.sbs.ox.ac.uk/sites/default/files/research_showcase/Smets-lloyds/beyond-borders-resinsurance-industry-cass-knowledge.pdf. Skim the report &mdash; 15 minutes.
+   
+   
+6. Be prepared to answer the following questions regarding the aforementioned research:
+
+   - What was the over-arching research method?
+   - How was data collected?
+   - How was the data analyses?
+   - How much work the academic research probably took?
+   - How much work the industry report took?
+   - Evaluate the quality of their research.
+   - How have they achieved transferability?
+   - And any other insights about their approach they went about doing
+     qualitative research in that project &mdash; 60 minutes in total.
+
+7. Go to Google Scholar and search for "smets reinsurance", skim the
+   articles. How many publications (and over what period) can you identify that
+   Smet/Jarzabkowski and colleagues produced from their ethnographic
+   data set? &mdash; 30 minutes.
+   
+8. Consider the advantages and disadvantages of ethnography research
+   identified by Myers. How do you see those playing out in the work
+   of Smets/Jarzabkowski and colleagues? &mdash; 30 minutes.
+   
+
+## Second class {-}
+
+
+
+### Overview {-}
+
+### Class plan {-}
+* Hermenuetics
+
+* Semiotics
+
+### Prep and tasks {-}
+
+## End of week {-}
+
+With the week's classes behind you, it is time to do your learning
+journal (Section \@ref(ass1) &dash; 60 minutes) and then do your
+review the learning journals of your peers (Section \@ref(ass1) &dash;
+60 minutes).
