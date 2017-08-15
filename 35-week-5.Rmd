@@ -30,8 +30,8 @@ Our first class of the week will focus on (a) bringing you speed on
   [@smets_2015_reinsurancetradinglloyd], what type of coding do you
   now think they did?
 
-* Looking back, what type of coding did you employ when you first
-  tried to do thematic analysis of Appendix \@ref(engineering) (e.g.,
+* Looking back, what type of coding did you _actually_ do when you first
+  tried thematic analysis of Appendix \@ref(engineering) (e.g.,
   bottom-up, top-down, middle-range, or thematic)?
 
 * Regarding your open coding of Appendix \@ref(engineering), which of your
@@ -50,8 +50,8 @@ Our first class of the week will focus on (a) bringing you speed on
    used. Be prepared to report back on your findings &mdash; 30 minutes
 
 3. Visit the SAGE Research methods website: read chapters 1--3 and
-   chapter 5 of (Urquhart's
-   book)[http://methods.sagepub.com/book/grounded-theory-for-qualitative-research] [@urquhart_2017_groundedtheoryqualitative] on
+   chapter 5 of [Urquhart's
+   book]([http://methods.sagepub.com/book/grounded-theory-for-qualitative-research) [@urquhart_2017_groundedtheoryqualitative] on
    grounded theory &mdash 210 minutes.
    
    
@@ -63,9 +63,9 @@ Our first class of the week will focus on (a) bringing you speed on
    Appendix \@ref(engineering) and try open coding it &mdash; 30
    minutes.
 
-6. Return to the 'discussion' on StackExchange Academia on work-life
-   balance re teaching and research
-   (https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-resear).
+6. Return to the 'discussion'
+   on
+   [StackExchange Academia on work-life balance re teaching and research](https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-resear).
    Apply the stages of open, selective, and theoretical coding to it?
    Start with a general research problem. Draw some diagrams and make
    a few theoretical notes. Generate some research questions based on
