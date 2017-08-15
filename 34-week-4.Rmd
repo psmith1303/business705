@@ -4,8 +4,8 @@ The data collection tools we have explored thus far---interviewing,
 focus groups, participant and non-participant observation, and
 document collection---can (and are) fruitfully employed the research
 methods of action research and case studies. You will find that these
-tools have their uses in ethnographic research (this week) and ground
-theory (next week).
+tools also have their uses in ethnographic research (this week) and
+ground theory (next week).
 
 Following on from your excursion into thematic analysis, this week you
 will be taking a deeper dive into hermeneutics and semiotics.
@@ -14,7 +14,7 @@ However, so far, the course has centred on taking research methods
 (and various tools of conducting qualitative research) and looking at
 individual parts; e.g., case studies have been considered somewhat
 separately to interviewing. Thus far, this has led to a rather general
-understanding of the topics of the first half of the week. For
+understanding of the topics of the first half of the course. For
 example, how interviewing fits with something like ethnographic
 research---in particular---has not been considered.
 
@@ -24,18 +24,21 @@ distinct.
 
 ## First class {-}
 
-* How is interviewing (in general) different to ethnographic interviewing?
-
-* What is the reason for those changes?
-
-* How have Smet/Jarzabkowski and colleagues addressed the adavantages
-  and disadvantages of ethnographic research?
-
 ### Overview {-}
+
+In this first week, we obstensively focus on ethnography as a
+qualitative method. However, the goal in this class is to take a more
+wholistic stance, and consider a suite of publications arising from
+group of researchers who collaborated in an ethnographic study.
 
 ### Class plan {-}
 
-* Ethnographic research
+* How is interviewing (in general) different to ethnographic interviewing?
+
+* What is the reason for those differences?
+
+* How have Smet/Jarzabkowski and colleagues addressed the adavantages
+  and disadvantages of ethnographic research?
 
 
 ### Prep and tasks {-}
@@ -45,17 +48,20 @@ distinct.
   [-@myers_2013_qualitativeresearchbusiness p. 92--103] &mdash; 30 minutes.
 
 2. Draw a concept map that distinguishes/highlights the differences
-   between interview (as you currently understand it) and
-   ethnographic interviewing (hint: you might find something useful
-   in the Handbook of Ethnography on the SAGE Research Methods
-   website &mdash; 45 minutes.
+   between interview (as you currently understand it) and ethnographic
+   interviewing (hint: you might find something useful in the Handbook
+   of Ethnography on the SAGE Research Methods website. You should
+   focus on the major features of the two data collection methods, and
+   how those features are connected to one another &mdash; 45 minutes.
 
 3. Review the notion of transferability on the SAGE Research Methods
    website &mdash; 30 minutes.
 
 4. Read Smets _et al_., [@smets_2015_reinsurancetradinglloyd] and the
    the complimentary article by Jarzabkowski and colleagues
-   [@jarzabkowski_2015_conductingglobalteambased] &mdash; 60 minutes.
+   [@jarzabkowski_2015_conductingglobalteambased]. You should
+   concentrate on the methods (data collection and analysis) rather
+   than on the topic of the research &mdash; 60 minutes.
 
 5. The _quid pro quo_ of that research was primarily an industry
    report which can be found at  https://www.sbs.ox.ac.uk/sites/default/files/research_showcase/Smets-lloyds/beyond-borders-resinsurance-industry-cass-knowledge.pdf. Skim the report &mdash; 15 minutes.
@@ -85,16 +91,61 @@ distinct.
 
 ## Second class {-}
 
-
-
 ### Overview {-}
 
-### Class plan {-}
-* Hermenuetics
+More analysis of qualitative data :) As a result there are less topics
+for class, and more reviewing how you did the analysis and the results
+that you produced.
 
-* Semiotics
+In many ways, thematic analysis is one of the most straight forward
+approaches to analysing qualitative data. But it is not without it
+limitations, and so we look to hermeneutics and semiotics.
+
+### Class plan {-}
+
+* How do hermeneutics and semiotics differ?
+
+* How does that play out in the results of your analysis?
+
+* Give the three analsyis techniques you have been exposed to, which
+  do you think is the one you are most likely to use?
 
 ### Prep and tasks {-}
+
+
+1. Read Chapter 14 of Myers [-@myers_2013_qualitativeresearchbusiness
+  p. 183--196]. Make sure that you track down and read the exemplar
+  discussed on page 191; i.e., Myers
+  [-@myers_1994_disastereveryonesee] &mdash; 75 minutes.
+
+
+2. Read Chapter 15 of Myers [-@myers_2013_qualitativeresearchbusiness
+  p. 197--208] &mdash; 60 minutes.
+
+3. Read the paper by Barley [-@barley_1990_imagesimagingnotes] on his
+   classic study [-@barley_1986_technologyoccasionstructuring  whic
+   you do not need to read] &mdash; 60 minutes.
+
+4. Your final reading is by Denzin
+   [-@denzin_1987_semioticssymbolicinteractionism] and locates
+   symbolic interactionism---re, Barley---and semiotics. It is dense at
+   times, and you should skip over the bits that do not make sense to
+   you. Focus on the examples of analysis &mdash; 45 minutes.
+
+3. Having read about thematic analysis, hermeneutics and semiotics
+   draw a concept map show how they are different from one another
+   (this should help you focus on how they are different in 'doing'
+   them as an analysis technique) &mdash; 30 minutes.
+   
+
+4. Read the 'discussion' on StackExchange Academia on work-life
+   balance re teaching and research
+   (https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-resear).
+   Do a 'first cut' analysis, first using hermeneutics, then using
+   semiotics. What insights do you get? &mdash; 120 minutes.
+   
+   Note the discussion is not perfectly suited to either form of
+   analysis; then again, what data ever is perfect?
 
 ## End of week {-}
 

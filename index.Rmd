@@ -70,3 +70,34 @@ of the course. This includes:
 1. How the course relates to the [MCom Postgraduate profile](#profile)
 2. The [design decisions](#course-design) that guided much of what goes on
 3. The [history of the course](#course-history)
+
+## Some tips and tricks for using this e-book  {-}
+
+### The toolbar {-}
+
+If you are using the website version of this e-book, you should see a
+toolbar at the top of the screen. Something like this:
+
+![warning](images/toolbar.png)
+
+The first 'button' turns the table of contents display on and off.
+
+The second button allows you to search the contents of the book.
+
+The third button, looking like a letter A, controls the styling of the
+page, changing the type of font, its size, and the colour palette of
+the page.
+
+The next button allows you to edit the content of the book. More
+correctly, it takes you to a copy of the source of this book
+on [GitHub](https://www.github.com). If you have a GitHub account you
+can then make changes to the book, for example, if you want to fix a
+typo.
+
+The final button allows you to download either a PDF or an epub
+version of the book in its entirety.
+
+### The social bar {-}
+
+On the website version of this e-book, there are buttons to allow you
+to share details of the book on Twitter, Facebook, etc.
