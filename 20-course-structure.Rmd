@@ -47,7 +47,7 @@ in Figure \@ref(fig:huff51).
 
 ```{r huff51, fig.show='hold', fig.cap='Design decisions connecting research purpose and outcomes [@huff_2009_designingresearchpublication p. 86].', echo=FALSE}
 
-knitr::include_graphics('images/Huff-2009-fig5.1.pdf')
+knitr::include_graphics('images/Huff-2009-fig5.1.png')
 ```
 
 ## The general structure of the course

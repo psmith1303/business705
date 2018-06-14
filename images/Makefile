@@ -4,8 +4,8 @@
 
 SVGFILES := $(wildcard *.svg)
 
-all: $(SVGFILES:%.svg=%.pdf)
+all: $(SVGFILES:%.svg=%.png)
 
-%.pdf : %.svg
-	inkscape --export-pdf $*.pdf $*.svg
+%.png : %.svg
+	inkscape --export-png $*.png $*.svg
 
