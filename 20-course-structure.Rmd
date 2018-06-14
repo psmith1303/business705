@@ -22,7 +22,7 @@ of: the discipline/sub-field to which it belongs; the ontology and
 epistemology upon which the conversation is based; the (types) of
 theories that are typically used; the journals that are relevant; and
 the appropriate methodological position
-[@huff_2009_designingresearchpublication p. 7]. Everything else being
+[@huff_2009_designingresearchpublication p. 7]. Everything else being
 equal, your choices regarding research method are a function of your
 choice of academic conversation. 
 
@@ -47,7 +47,7 @@ in Figure \@ref(fig:huff51).
 
 ```{r huff51, fig.show='hold', fig.cap='Design decisions connecting research purpose and outcomes [@huff_2009_designingresearchpublication p. 86].', echo=FALSE}
 
-knitr::include_graphics('images/Huff-2009-fig5.1.svg')
+knitr::include_graphics('images/Huff-2009-fig5.1.pdf')
 ```
 
 ## The general structure of the course

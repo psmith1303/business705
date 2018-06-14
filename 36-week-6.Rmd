@@ -13,77 +13,87 @@ literature, extra data, more analysis. Writing up can often be the
 trigger for further iterations through the research cycle. It is not
 unusual, having submitted a piece of work that we thought was
 'perfectly fine', to have reviewers ask for "an additional comparative
-case", or for the inclusion of a particular piece of literature than
-means additional interviews have to be done; there are few researchers
-who haven't been told "There are two papers here", or "Your research
-question needs some work", resulting in almost new papers being
-written.
+case", or for the inclusion of a particular piece of literature that
+then means additional interviews have to be done. It is also the case
+that there are few researchers who haven't been told "There are two
+papers here", or "Your research question needs some work", resulting
+in almost new papers being written.
 
-So, writing-up is not always the end. 
+So, writing-up is not always the end.
 
 Even so, as your summative learning journal looms large on the
 horizon, the plan for this week is relatively light to allow you to
-focus on task.
+focus on that task.
 
 ### Class plan {-}
 
 * Reflecting on the readings by Gioia and Jarzabkowski, what is their
   impact on how you think about qualitative research design?
 
-* What question do you have about your summative learning, ?
+* What tools and techniques from the course will you use in completing
+  your summative learning journal?
 
 * What lessons from Myers [-@myers_2013_qualitativeresearchbusiness
    p. 221--250] will you bring through to your summative learning
    journal?
 
-* Pair and share your summative learning journals. What actionable
-  feedback can you give to help your colleagues?
+* What question do you have about your summative learning?
+
+* 'Pair and share' the outlines of your summative learning journal.
+  What actionable feedback can you give to help your colleagues?
+
 
 ### Prep and tasks {-}
 
 1. Read "Part IV" of Myers [-@myers_2013_qualitativeresearchbusiness
-   p. 221--250] &mdash; 30 minutes.
+   p. 221--250] --- 30 minutes.
    
    - *List* two or three ideas from this reading, that you will apply to
-     your summative learning journal &mdash; 10 minutes.
+     your summative learning journal --- 10 minutes.
 	 
 2. *Discuss* the idea that, "As used in this course, a summative
-   learning journal is a form of auto-ethnography". &mdash; 30 minutes.
+   learning journal is a form of auto-ethnography". --- 30 minutes.
    
 3. *Discuss* the question, "Does an auto-ethnographic study require
    approval from the University of Auckland Human Participants Ethics
-   Committee?" &mdash; 20 minutes.
+   Committee?" --- 20 minutes.
 
 4. There are many papers on presenting your research. These often
-   spill over into how you should collect and analyse your data. Read
-   the papers on the Gioia method
-   [@gioia_2013_seekingqualitativerigor] and on presenting field notes
-   [@jarzabkowski_2015_conductingglobalteambased] &mdash 120 minutes.
+   spill over into how you should collect and analyse your data. You
+   have already read one by Gioia et al.
+   [-@gioia_2013_seekingqualitativerigor]. Review the paper by
+   Jarazabkowski and her colleagues on producing persausive findings
+   [@jarzabkowski_2014_producingpersuasivefindings]. How do papers
+   like these shape how you intend to present your summative learning
+   journal ? --- 90 minutes.
    
 
-5. Write a detailed outline of your summative learning journal and
-   bring it to class &mdash; 180 minutes.
+5. Write a detailed *outline* (not a draft, unless you are feeling
+   ambitious) of your summative learning journal and bring it to class
+   --- 180 minutes.
 
 ## Second class {-}
 
 ### Overview {-}
 
-This class is focused on your summative learning journals. If you have no question or concerns, can consider spending the time working on your final piece of work.
+This class is dedicated to your summative learning journals. If you have no question or concerns, can consider spending the time working on your final piece of work.
 
 ### Class plan {-}
 
-* Forshadowing your summative learning journals, what are your big take aways?
+* Foreshadowing your summative learning journals, what are your big takeaways?
 
 * Wrapping it up
+
+* Class party? (Class lunch?)
 
 ### Prep and tasks {-}
 
 1. Do more revisions/iterations on your summative learning journal
-   &mdash; 360 minutes.
+   --- 360 minutes.
 
 
 ## End of week {-}
 
 The course is pretty much over now. All you need to do now is polish
-up your summative learning journal (Section \@ref(ass3)) &mdash; 120
+up your summative learning journal (Section \@ref(ass3)) --- 120
 minutes.

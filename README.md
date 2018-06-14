@@ -1,2 +1,2 @@
 # business705
-My course book for BUSINESS705 rended through bookdown
+My course book for BUSINESS705 rendered through bookdown

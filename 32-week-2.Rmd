@@ -79,14 +79,14 @@ Choose the best plan, and two or three people run the focus group.
 ### Prep and tasks {-}
 
 1. Read the start of "Part III" of Myer
-  [-@myers_2013_qualitativeresearchbusiness p. 57--72] &mdash; 40
+  [-@myers_2013_qualitativeresearchbusiness p. 57--72] --- 40
   minutes.
 
   - *Discuss* the pros and cons of doing action research in a 60-point
-    dissertation &mdash; 20 minutes.
+    dissertation --- 20 minutes.
 
   - *Describe* the difference between engaging in a consulting project
-    and a action research project &mdash; 20 minutes.
+    and a action research project --- 20 minutes.
 
 2. Go to the SAGE Research Methods website
    (http://methods.sagepub.com), and search for 'action research', you
@@ -97,27 +97,27 @@ Choose the best plan, and two or three people run the focus group.
      helpful to you if you were to do action research as part of a
      year long thesis (you may need to make and state, some
      assumptions). Summarise your reasons for you choice, and be
-     prepared to share it with your colleagues &mdash; 30 minutes.
+     prepared to share it with your colleagues --- 30 minutes.
    
 3. Beyond that, the SAGE Research Methods website also has a range of
    video clips. Find the 45 minute video called "David Coghlan
-   Discusses Action Research", and review it &mdash; 50 minutes.
+   Discusses Action Research", and review it --- 50 minutes.
 
    - *Describe* the biggest difference between David Coghlan's 'take' on
      action research compared to Myers
-     [-@myers_2013_qualitativeresearchbusiness] &mdash; 10 minutes.
+     [-@myers_2013_qualitativeresearchbusiness] --- 10 minutes.
 	 
  4. Search the leading journal in your field (e.g., if you are in
     'innovation' you might choose Technovation) for research based
     data from focus groups. If you get no 'hits' you might need to
     widen the scope of your search (note some journals publish little
     if any qualitative research). Skim read 3 or 4 of the articles,
-    and select one as an exemplar &mdash; 60 minutes.
+    and select one as an exemplar --- 60 minutes.
 	
 	- *Sumamrise* the method (not the content), and *evaluate* the
       quality of the focus groups that were undertaken (include a
       description of the criteria you used for that evaluation, and
-      why you did not chose the other aritcles you skimmed) &mdash; 60
+      why you did not chose the other aritcles you skimmed) --- 60
       minutes.
 	  
 	- Hint: You might also look at Huff again [e.d.,
@@ -125,7 +125,7 @@ Choose the best plan, and two or three people run the focus group.
 
 
 5. Design a focus group session to explore the factors behind the
-   choices of how people travel to work (or university) &mdash; 40
+   choices of how people travel to work (or university) --- 40
    minutes.
 
 ## Second class {-}
@@ -206,39 +206,39 @@ What was challenging about being participant observer?
 ### Prep and tasks {-}
 
 1. Read chapter 11 of Myers [-@myers_2013_qualitativeresearchbusiness
-   p. 136--150] &mdash; 30 minutes.
+   p. 136--150] --- 30 minutes.
    
 2. Read the chapter in 'Social Research: Theory, Methods and
    Techniques' on participant observation
-   [@corbetta_2003_socialresearchtheory] &mdash; 30 minutes.
+   [@corbetta_2003_socialresearchtheory] --- 30 minutes.
 
    - Based on the two readings, draw a concept map (look it up if you
-     need to) of the main concepts and their relationship &mdash; 30
+     need to) of the main concepts and their relationship --- 30
      minutes.
 
 3. Read the methods section of Jarzabkowski's paper on doing
    ethnography, where she talks about observations
    [@jarzabkowski_2015_conductingglobalteambased] Read the methods
-   section &mdash; 30 minutes.
+   section --- 30 minutes.
    
 4. How do you know what you are observing? Read "how I learnt what a
-   crock was" [@becker_1993_howlearnedwhat] &mdash; 30 minutes.
+   crock was" [@becker_1993_howlearnedwhat] --- 30 minutes.
 
    - One issue the previous two readings either allude to, or
      explicitly address is "How do you know what people are talking
      about?" In situations where the people you are observing have
      significantly different knowledge than you---say, software
      engineers or lawyers---how do you decide what to pay attention
-     to? How do you know when people a making in-jokes? &mdash; 10 minutes.
+     to? How do you know when people a making in-jokes? --- 10 minutes.
 	 	 
    - Use the SAGE Research methods site to explore this issue, and
-     develop an approach for overcoming this problem &mdash; 60 minutes.
+     develop an approach for overcoming this problem --- 60 minutes.
 
 5. Lookup the term "Going native" in Dictionary of Statistics &
    Methodology, and in The SAGE Encyclopedia of Social Science
    Research Methods (both available through the SAGE Research Methods
    website). In the tradition of your desired research conversation,
-   is going-native seen as problematical?  &mdash; 60 minutes.
+   is going-native seen as problematical?  --- 60 minutes.
    
 6. Myers [-@myers_2013_qualitativeresearchbusiness], in talking about
    participant observation, talks about the notion of reciprocity.
@@ -246,7 +246,7 @@ What was challenging about being participant observer?
    kind of *quid pro quo* can you give participants and what danagers
    might exist. Hint: Think about the notion of free and informed
    consent
-   [@theuniversityofauckland_2013_guidingprinciplesconducting]  &mdash; 30 minutes.
+   [@theuniversityofauckland_2013_guidingprinciplesconducting]  --- 30 minutes.
 
 ## End of week {-}
 

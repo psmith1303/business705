@@ -1,0 +1,2927 @@
+\documentclass[]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={BUSINESS705: Qualitative research methods},
+            pdfauthor={Peter Smith},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage[style=apa]{biblatex}
+
+\addbibresource{book.bib}
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{BUSINESS705: Qualitative research methods}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{Peter Smith}
+    \preauthor{\centering\large\emph}
+  \postauthor{\par}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{2018-06-15}
+
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\usepackage[british]{babel}
+\DeclareLanguageMapping{british}{british-apa}
+
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{proposition}{Proposition}[chapter]
+\theoremstyle{definition}
+\newtheorem{example}{Example}[chapter]
+\theoremstyle{definition}
+\newtheorem{exercise}{Exercise}[chapter]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+\newtheorem*{solution}{Solution}
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{quick-start-guide}{%
+\chapter*{Quick-start guide}\label{quick-start-guide}}
+\addcontentsline{toc}{chapter}{Quick-start guide}
+
+Welcome to the BUSINESS705, Qualitative Research Methods.
+
+Over the coming six weeks, I hope that you will find this an engaging
+and fun course.
+
+My overarching goal for this course is to prepare you to undertake your
+first (and perhaps only) research project of any size; e.g., a masters
+(60-point) dissertation or an honours (30-point) dissertation. This is
+my touchstone in all my thinking regarding BUSINESS 705. To that end, I
+want you to be able to \emph{select} qualitative research methods that
+are \emph{appropriate} for your chosen academic conversation
+\autocite{huff_2009_designingresearchpublication}, and to \emph{use}
+those methods in a \emph{proficient} manner.
+
+This course guide includes details of the
+\protect\hyperlink{assessment-overview}{assessments}, leading to an
+\protect\hyperlink{course-overview}{overview} of the course.
+
+If you have not already done so, you should familiarize yourself with
+the formal \protect\hyperlink{course-outline}{course outline}.
+
+\includegraphics{images/warning.png} In order to learn about qualitative
+research methods, you will actually use a range of research methods and
+techniques. In doing so, you will act both as an \emph{investigator} in
+research and as a research \emph{participant}. Undertaking those dual
+roles is a fundamental part of the course's design. Your enrolment in
+this course is taken as your implicit agreement to the being a research
+participant as explained in the \protect\hyperlink{pis}{participant
+information sheet}.
+
+\hypertarget{getting-started}{%
+\section*{Getting started}\label{getting-started}}
+\addcontentsline{toc}{section}{Getting started}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Read how the course fits together
+  (\protect\hyperlink{assessment-overview}{assessments},
+  \protect\hyperlink{course-overview}{course overview}, and the
+  \protect\hyperlink{course-outline}{course outline})
+\item
+  Print out the \protect\hyperlink{todo-checklist}{To Do checklist} for
+  the course. This will remind you of the tasks and milestones you need
+  to meet
+\end{enumerate}
+
+Once you have done those four steps, you will be well positioned to be
+successful in this course. If you have questions, please checkout the
+\protect\hyperlink{faq}{Frequently Asked Questions} chapter.
+
+\hypertarget{beyond-the-basics}{%
+\section*{Beyond the basics}\label{beyond-the-basics}}
+\addcontentsline{toc}{section}{Beyond the basics}
+
+For those who are interested, there is information on the `back story'
+of the course. This includes:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  How the course relates to the \protect\hyperlink{profile}{MCom
+  Postgraduate profile}
+\item
+  The \protect\hyperlink{course-design}{design decisions} that guided
+  much of what goes on
+\item
+  The \protect\hyperlink{course-history}{history of the course}
+\end{enumerate}
+
+\hypertarget{some-tips-and-tricks-for-using-this-e-book}{%
+\section*{Some tips and tricks for using this
+e-book}\label{some-tips-and-tricks-for-using-this-e-book}}
+\addcontentsline{toc}{section}{Some tips and tricks for using this
+e-book}
+
+\hypertarget{the-toolbar}{%
+\subsection*{The toolbar}\label{the-toolbar}}
+\addcontentsline{toc}{subsection}{The toolbar}
+
+If you are using the website version of this e-book, you should see a
+toolbar at the top of the screen. Something like this:
+
+\begin{figure}
+\centering
+\includegraphics{images/toolbar.png}
+\caption{warning}
+\end{figure}
+
+The first `button' turns the table of contents display on and off.
+
+The second button allows you to search the contents of the book.
+
+The third button, looking like a letter A, controls the styling of the
+page, changing the type of font, its size, and the colour palette of the
+page.
+
+The next button allows you to edit the content of the book. More
+correctly, it takes you to a copy of the source of this book on
+\href{https://www.github.com}{GitHub}. If you have a GitHub account you
+can then make changes to the book, for example, if you want to fix a
+typo.
+
+The final button allows you to download either a PDF or an epub version
+of the book in its entirety.
+
+\hypertarget{the-social-bar}{%
+\subsection*{The social bar}\label{the-social-bar}}
+\addcontentsline{toc}{subsection}{The social bar}
+
+On the website version of this e-book, there are buttons to allow you to
+share details of the book on Twitter, Facebook, etc.
+
+\hypertarget{assessments}{%
+\chapter{Assessment package}\label{assessments}}
+
+\begin{quote}
+For most students, assessment requirements literally define the
+curriculum. \autocite[ p.~7]{james_2002_assessinglearningaustralian}
+\end{quote}
+
+There are four types of assessment in this course:
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.04\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.39\columnwidth}\raggedright
+Assessment\strut
+\end{minipage} & \begin{minipage}[t]{0.32\columnwidth}\raggedright
+When and where due\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+Approximate Weighting\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.04\columnwidth}\raggedright
+1\strut
+\end{minipage} & \begin{minipage}[t]{0.39\columnwidth}\raggedright
+\protect\hyperlink{ass1}{Weekly learning journal (LJ)}\strut
+\end{minipage} & \begin{minipage}[t]{0.32\columnwidth}\raggedright
+17:00 on Thursday (weeks 1--5) Via canvas\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+25 \%\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.04\columnwidth}\raggedright
+2\strut
+\end{minipage} & \begin{minipage}[t]{0.39\columnwidth}\raggedright
+\protect\hyperlink{ass2}{Peer evaluation of LJs}\strut
+\end{minipage} & \begin{minipage}[t]{0.32\columnwidth}\raggedright
+17:00 on Friday (weeks 1--5) Via canvas\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+15 \%\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.04\columnwidth}\raggedright
+3\strut
+\end{minipage} & \begin{minipage}[t]{0.39\columnwidth}\raggedright
+\protect\hyperlink{ass3}{Summative learning journal}\strut
+\end{minipage} & \begin{minipage}[t]{0.32\columnwidth}\raggedright
+17:00 on 1 September Via canvas\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+50 \%\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.04\columnwidth}\raggedright
+4\strut
+\end{minipage} & \begin{minipage}[t]{0.39\columnwidth}\raggedright
+\protect\hyperlink{ass4}{Participation}\strut
+\end{minipage} & \begin{minipage}[t]{0.32\columnwidth}\raggedright
+In-class, every class\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\raggedright
+10 \%\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+All of the assessments are relevant to the
+\protect\hyperlink{learning-objectives}{learning objectives}.
+
+There is no final examination; all the assessment takes place during the
+six weeks of the course.
+
+\hypertarget{LO}{%
+\section{Learning objectives}\label{LO}}
+
+At the completion of this course you should be able to \emph{select}
+qualitative research methods that are \emph{appropriate} for your chosen
+academic conversation \autocite{huff_2009_designingresearchpublication},
+and to \emph{use} those methods in a \emph{proficient} manner.
+
+In other words, by the end of this course it is expected that you will
+be able to:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  select qualitative research methods that are appropriate to the
+  research conversation in which the student wishes to participate;
+\item
+  be proficient in use tools and techniques to collect qualitative data;
+\item
+  be proficient in use tools and techniques to analyse qualitative data;
+\item
+  effectively communicate the findings arising from the collection and
+  analysis of qualitative data;
+\item
+  describe how the choices you make around the collection, analysis, and
+  presentation of qualitative data is congruent with your chosen
+  research conversation;
+\item
+  evaluate the quality of qualitatively-based research methods; while,
+\item
+  employing the tools and techniques of qualitative research methods in
+  a manner that is ethical.
+\end{enumerate}
+
+\hypertarget{ass1}{%
+\section{Weekly learning journals}\label{ass1}}
+
+\hypertarget{task-objectives}{%
+\subsection*{Task objectives}\label{task-objectives}}
+\addcontentsline{toc}{subsection}{Task objectives}
+
+\begin{itemize}
+\item
+  To foster self-reflection on (a) the theory presented in the course,
+  and (b) your experiences in being both an investigator and a
+  participant in qualitative research.
+\item
+  To help with your sense making
+  \autocite{weick_1995_sensemakingorganizations} regarding this course.
+\end{itemize}
+
+A casual search using Google Scholar for learning journals provides a
+plethora of articles extolling their virtues. Broadly, learning journals
+foster high quality self-reflection and increase critical thinking.
+
+You are to maintain a weekly learning journal. Later, you are to use the
+your weekly journal as the `data' for a
+\protect\hyperlink{ass4}{summative learning journal}/essay on your major
+learnings from this course.
+
+\hypertarget{task-overview}{%
+\subsection*{Task overview}\label{task-overview}}
+\addcontentsline{toc}{subsection}{Task overview}
+
+For each of the first five weeks of the course you are to write a
+learning journal entry of at least 300 words. The more you write the
+more grist you will have for your \protect\hyperlink{ass4}{summative
+learning journal}.
+
+In each of your learning journal entries, you are to explore the
+linkages between the theoretical content of the course; e.g., the
+readings and class sessions with your practical experience e.g., doing
+and using qualitative research tools and techniques. As well as content
+(theory) from this course, you may, if appropriate, draw on material
+from other courses; indeed, you should make linkages to BUSINESS 710.
+
+Ultimately, you should be considering the real difference the course is
+making to your thinking and behaviour.
+
+\hypertarget{what-does-a-good-learning-journal-look-like}{%
+\subsection*{What does a good learning journal look
+like?}\label{what-does-a-good-learning-journal-look-like}}
+\addcontentsline{toc}{subsection}{What does a good learning journal look
+like?}
+
+Let's begin by looking at the common problems. Based on experience with
+previous classes, the main problems are:
+
+\begin{itemize}
+\item
+  Many journals do not have a logical structure; the approach
+  recommended by Daudelin
+  \autocite*{daudelin_1996_learningexperiencereflection}, should be your
+  model. Using Daudelin's method is the one most significant changes
+  that most people could make when trying to improve their learning
+  journals.
+\item
+  When using theory in their journals, people often use it to label
+  things; e.g., `Interviews with more than two people are often called
+  focus groups'. Very few (if any) people are using theory to either
+  explain what is happening, or predict what might happen.
+\item
+  This is closely tied to the focus of some journals (i.e, not
+  substantively addressing a real issue). My assumption is that this is
+  partly because people aren't drawing on particular theory to address a
+  particular problem; instead they are drawing on the `theory of the
+  week'. I really encourage you to use Daudeline's approach, select
+  theory that supports that issue (and that won't necessarily be theory
+  of the week).
+\item
+  Finally, many journals read like a `stream of conscious', rather than
+  a considered (and edited) reflection upon the week's learning and
+  writing up that reflection.
+\end{itemize}
+
+\hypertarget{ass2}{%
+\section{Peer review of learning journals}\label{ass2}}
+
+\hypertarget{task-objectives-1}{%
+\subsection*{Task objectives}\label{task-objectives-1}}
+\addcontentsline{toc}{subsection}{Task objectives}
+
+Reflexivity---as distinct from reflection
+\autocite{hibbert_2010_reflexivityrecursionrelationality}---is an
+important characteristic of qualitative research and its researchers
+\autocite{haynes_2012_reflexivityqualitativeresearch}.
+
+\begin{itemize}
+\item
+  Through evaluating and commenting on the reflections of your peers,
+  this assignment seeks to engender greater reflexivity.
+\item
+  To provide developmental feedback on your peers' thinking about their
+  stance and approach to qualitative research.
+\end{itemize}
+
+\hypertarget{task-overview-1}{%
+\subsection*{Task overview}\label{task-overview-1}}
+\addcontentsline{toc}{subsection}{Task overview}
+
+Each week you must review, provide feedback on, and evaluate the
+learning journals of two of your colleagues. Over the course you will
+write 10 sets of feedback. Your primary goal in providing feedback is to
+help the author do a better job next time. If you feedback does not
+achieve that, then the author can rightly complain about the quality of
+your feedback (and that will affect your marks).
+
+The feedback should, as a minimum, address:
+
+\begin{itemize}
+\tightlist
+\item
+  How well the journal meets the guidelines provided by Daudelin
+  \autocite*{daudelin_1996_learningexperiencereflection}.
+\item
+  The extent to which the journal demonstrates achievement in the higher
+  levels of Bloom et al.'s
+  \autocite*{bloom_1956_taxonomyeducationalobjectives} taxonomy of the
+  cognitive domain.
+\item
+  The quality of the writing.
+\end{itemize}
+
+In all cases, you should suggest how they might improve their journal;
+it is insufficient to point out the weaknesses in their journal without
+providing specific actionable ways they might improve. For example, it
+is not good enough to say, ``Check your grammar''. Rather you explain
+the nature of the problem and how they might fix it. Having said that,
+items like grammar and spelling are `hygiene' factors---you should first
+provide feedback on more material aspects of journals, and then move on
+to the smaller matters (if warranted).
+
+That being said, the secondary goal---and a characteristic of the best
+reviews--is to foster the development of greater reflexivity in your
+peers' and your own approach to qualitative research.
+
+\hypertarget{ass3}{%
+\section{Summative learning journal}\label{ass3}}
+
+\hypertarget{task-objectives-2}{%
+\subsection*{Task objectives}\label{task-objectives-2}}
+\addcontentsline{toc}{subsection}{Task objectives}
+
+\begin{itemize}
+\item
+  Build on the weekly learning journals to enable an integrative
+  reflection of your learning across the whole course.
+\item
+  To demonstrate what you regard as being most important in being a
+  qualitative researcher.
+\item
+  To provide a basis for the evaluation of your achievement of the
+  course's learning objectives.
+\end{itemize}
+
+\hypertarget{task-overview-2}{%
+\subsection*{Task overview}\label{task-overview-2}}
+\addcontentsline{toc}{subsection}{Task overview}
+
+This final part of the assignment is a summative evaluation of your
+weekly journals. Drawing on your weekly journal entries, you are to
+write a final, summative journal entry of at least 2,000 words.
+
+Your summative learning journal is quite different to your weekly
+learning journals.
+
+\begin{itemize}
+\tightlist
+\item
+  It should focus on something that you have learnt throughout the
+  course and demonstrate what you can do better now than what you could
+  do before the course.
+\item
+  It must demonstrate the breadth as well as the depth, of what you have
+  learnt.
+\item
+  It should provide good evidence of both evaluation and synthesis
+  \autocite{bloom_1956_taxonomyeducationalobjectives}.
+\item
+  It should be based on the `data' from your weekly learning journals,
+  and possible insights you have had as a result of providing feedback
+  on others' learning journals; you may also draw on other writing you
+  have done for this course..
+\item
+  It will probably focus on one or two major takeaways/insights. Maybe
+  three, certainly not five. These are the things that have changed the
+  way you think about qualitative research methods and changed your
+  (planned) behaviour.
+\item
+  The summative journal should not focus on being too personal about
+  your experiences throughout the course, but instead focus on how you
+  can apply your learning in the future.
+\end{itemize}
+
+You should strive to demonstrate how you meet the
+\protect\hyperlink{learning-objectives}{learning objectives} of this
+course, in the context of the \protect\hyperlink{profile}{postgraduate
+profile}.
+
+\hypertarget{general-comments-on-the-weekly-and-summative-learning-journals}{%
+\subsection*{General comments on the weekly and summative learning
+journals}\label{general-comments-on-the-weekly-and-summative-learning-journals}}
+\addcontentsline{toc}{subsection}{General comments on the weekly and
+summative learning journals}
+
+\begin{itemize}
+\tightlist
+\item
+  For many in the class, this is the first time they will have had to
+  undertake reflective writing. As a result, some people will approach
+  this assignment with some trepidation. For those people, the article
+  by Daudelin \autocite*{daudelin_1996_learningexperiencereflection}
+  will provide assistance. As you progress, you should find writing
+  journals increasingly easy and natural. As a result, your later
+  journals may be considerably longer than your earlier ones. Because of
+  this, there is no upper word limit for your weekly journal entries.
+\item
+  In your learning journals, it is normal and acceptable to use the
+  first person (e.g., I, me, etc.).
+\item
+  The quality of your writing matters.
+\item
+  Failing to correctly cite/reference material in your journals can
+  incur a 10-percent penalty being applied to your summative learning
+  journal. You should correctly cite your weekly learning journal using
+  an APA formatted references.
+\item
+  If it looks like you have `blown off' doing the weekly learning
+  journals it is impossible to get a passing grade for the summative
+  learning journals.
+\item
+  In this context, meaningful feedback means that the recipient can
+  unambiguously use it to improve their work within the guidelines
+  provided (in the opinion of the recipient, other classmates, or the
+  teaching staff). If you feel unhappy about the quality of the feedback
+  you receive from your peers, let the teaching staff know.
+\end{itemize}
+
+\hypertarget{ass4}{%
+\section{Participation}\label{ass4}}
+
+\hypertarget{task-objectives-3}{%
+\subsection*{Task objectives}\label{task-objectives-3}}
+\addcontentsline{toc}{subsection}{Task objectives}
+
+\begin{itemize}
+\item
+  To provide an opportunity to practice with the tools and techniques of
+  qualitative research.
+\item
+  To gain experience of the consequences of the choice and use of
+  differing tools and techniques of qualitative research.
+\item
+  To better prepare you to \textbf{\emph{do}} qualitative research.
+\end{itemize}
+
+\hypertarget{task-overview-3}{%
+\subsection*{Task overview}\label{task-overview-3}}
+\addcontentsline{toc}{subsection}{Task overview}
+
+I want you to participate so that you can learn from each other. Good
+participation is known to increases what is remembered, how well it is
+assimilated, and how the learning is used in new situations. Through
+participating, you will clarify your own thinking about the content of
+the course, and you will provide your peers with the opportunity to
+provide constructive feedback, further deepening your understanding of
+the material. Likewise, in listening to, and responding to, the
+participation of others, you will have the opportunity to demonstrate
+alternate ways of interpreting and applying class material. In a course
+like this, that stresses the application of material, extensive
+participation an essential element of students' learning and of the
+classes success.
+
+\hypertarget{grading-participation}{%
+\subsection*{Grading participation}\label{grading-participation}}
+\addcontentsline{toc}{subsection}{Grading participation}
+
+I am a holistic marker, and each class, I will evaluate your
+participation using the following guidelines:
+
+\begin{itemize}
+\item
+  \emph{Outstanding Contributor} (3): Contributions in class reflect
+  exceptional preparation. Ideas offered are always substantive, and
+  provide one or more major insights as well as direction for the class.
+  Challenges are well substantiated and persuasively presented. If this
+  person were not a member of the class, the quality of discussion would
+  be diminished markedly.
+\item
+  \emph{Good Contributor} (2): Contributions in class reflect thorough
+  preparation. Ideas offered are usually substantive, provide good
+  insights, and sometimes direction for the class. Challenges are well
+  substantiated and often persuasive. If this person were not a member
+  of the class, the quality of discussion would be diminished.
+\item
+  \emph{Adequate Contributor} (1): Contributions in class reflect
+  satisfactory preparation. Ideas offered are sometimes substantive,
+  provide generally useful insights but seldom offer a new direction for
+  the discussion. Challenges are sometimes presented, fairly well
+  substantiated, and are sometimes persuasive. If this person were not a
+  member of the class, the quality of discussion would be diminished
+  somewhat.
+\item
+  \emph{Non-Participant} (0): This person says little or nothing in
+  class. Hence, there is not an adequate basis for evaluation. If this
+  person were not a member of the class, the quality of discussion would
+  not be changed.
+\item
+  \emph{Unsatisfactory Contributor} (-2): Contributions in class reflect
+  inadequate preparation. Ideas offered are seldom substantive, provide
+  few if any insights, and never a constructive direction for the class.
+  Integrative comments and effective challenges are absent. If this
+  person were not a member of the class, valuable air-time would be
+  saved.
+\end{itemize}
+
+If at the end of the course, the majority of your participation was
+scored with a 3, you mark will reflect a grade in the A-range. I.e., six
+3s or more.
+
+If the majority of your participation was scored as either 3 and 2, you
+mark will reflect a grade in the B-range. I.e., six of your
+participation scores are 3s or 2s --- more 3s move you more towards a
+B+, more 2s move you toward a B-.
+
+Most other combinations of scoring (1s 2s and 3s) will result in a
+C-grade. That said, if you only get 1s and 2s you may get a failing
+grade.
+
+Note, that each instance of a -2 score for participation effectively
+nullifies you highest previous score; it represents a material penalty.
+
+\hypertarget{grading-criteria}{%
+\section{Grading criteria}\label{grading-criteria}}
+
+The table below shows the general criteria against which work is
+assessed. Although `grading on the curve' is not used, it is usual that
+most students work falls within the B-range.
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+Grade\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Description\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+A+\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Rare, outstanding\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+A\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Exceptional and beyond what was expected\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+A-\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Excellent\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+B+\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Polished and very good\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+B\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Covers everything that was expected, comprehensive; demonstrated good
+understanding\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+B-\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Good coverage but minor flaws\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+C+\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Demonstrated adequate understanding of fundamentals, but some gaps\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+C\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Just adequate, some problems\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+C-\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Just adequate, many problems\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+D+\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Inadequate and lack of understanding\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+D\strut
+\end{minipage} & \begin{minipage}[t]{0.86\columnwidth}\raggedright
+Very poor\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Generally, you should be aware that:
+
+\begin{itemize}
+\tightlist
+\item
+  Written work is graded for quality of writing, grammar, etc., as well
+  as content. This includes your learning journals, summative learning
+  journals, and the comments and feedback you give to others.
+\item
+  APA referencing must be used.
+\item
+  In order to be eligible for 100 percent of your course grade, you must
+  participate fully and unequivocally in all of the tasks associated
+  with this course.
+\end{itemize}
+
+Through the assessments you need to demonstrate the depth and the
+quality of your learning about doing qualitative research methods.
+
+\hypertarget{course-structure}{%
+\chapter{Structure of the course}\label{course-structure}}
+
+\hypertarget{course-overview}{%
+\section{An overview}\label{course-overview}}
+
+\hypertarget{some-mechanics}{%
+\subsection{Some mechanics}\label{some-mechanics}}
+
+This course meets twice a week, on Mondays at 13:00, and on Wednesdays
+at 10:00 for three hours; but the course only runs for the first six
+weeks of the semester. Thus, the average student should expect to spend
+20 hours per week on course related activities. My office is in room
+439, of the Owen G. Glenn Building (260-439), and---during term time---I
+have office hours on Wednesday at 15:00. My email address is
+\texttt{mail@petersmith.org}.
+
+\hypertarget{not-so-mechanistic-my-assumptions-about-you}{%
+\subsection{Not so mechanistic: My assumptions about
+you}\label{not-so-mechanistic-my-assumptions-about-you}}
+
+Having completed BUSINESS 710,\footnote{You should have completed some
+  form of research design course before undertaking this course.} you
+should have a sense of the \emph{academic conversation} in which you
+wish to participate. This implies that you can locate that discussion in
+terms of: the discipline/sub-field to which it belongs; the ontology and
+epistemology upon which the conversation is based; the (types) of
+theories that are typically used; the journals that are relevant; and
+the appropriate methodological position \autocite[
+p.~7]{huff_2009_designingresearchpublication}. Everything else being
+equal, your choices regarding research method are a function of your
+choice of academic conversation.
+
+Part of the process of qualitative research is, hopefully, increasing
+clarity regarding that conversation. It is not unusual to still be
+getting clear on your conversation even at the very last stages of doing
+research; e.g., responding to feedback from reviewers of papers when
+trying to publish your research.
+
+\includegraphics{images/warning.png} You do not need to base your work
+in this course on the research proposal you prepared in BUSINESS 710.
+But you do need to have a sense of the conversation to which you want to
+participate.
+
+My second assumption is that---sooner or later in your academic
+career---you will want to make a contribution to that conversation;
+i.e., you will need to design and undertake some research (albeit that
+the specific design of that research will be shaped by a range of
+factors beyond your research question, as shown in Figure
+\ref{fig:huff51}.
+
+\begin{figure}
+\centering
+\includegraphics{images/Huff-2009-fig5.1.pdf}
+\caption{\label{fig:huff51}Design decisions connecting research purpose and
+outcomes \autocite[ p.~86]{huff_2009_designingresearchpublication}.}
+\end{figure}
+
+\hypertarget{the-general-structure-of-the-course}{%
+\section{The general structure of the
+course}\label{the-general-structure-of-the-course}}
+
+This course is divided into five major topics: \emph{You and qualitative
+research}, \emph{Qualitative methods}, \emph{Collecting qualitative
+data}, \emph{Analysing qualitative data}, and \emph{Presenting your
+results}. However, to maximise the amount of time you can spend
+practising with the tools and techniques of qualitative methods, the
+course is structured around three concurrent streams of activities:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Knowledge of qualitative research methods in general.
+\item
+  Skills in using the various techniques and tools of qualitative
+  research.
+\item
+  Knowledge of the position of qualitative research methods in your
+  chosen academic conversation.
+\end{enumerate}
+
+\emph{Work stream 1} activities will largely take place inside the
+class; e.g., practising doing interviews, but will also require work
+outside of the too, such as developing an interview schedule.
+
+Activities relating to \emph{Work stream 2} mainly be addressed through
+tasks regarding specific readings (e.g., from the textbooks).
+
+In contrast, \emph{work stream 3} activities will be based around you
+identifying and reading around your specific research conversation, and
+bringing those insights into the classroom to share with your
+colleagues.
+
+You will do most of the tasks around work streams 2 and 3 outside of the
+classroom.
+
+\hypertarget{topic-guide}{%
+\section{Topic guide}\label{topic-guide}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+Week\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+Knowledge focus\strut
+\end{minipage} & \begin{minipage}[t]{0.54\columnwidth}\raggedright
+Skill focus\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+1\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\textbf{You and qualitative research methods}\strut
+\end{minipage} & \begin{minipage}[t]{0.54\columnwidth}\raggedright
+\textbf{Collecting qualitative data}
+
+\begin{itemize}
+\tightlist
+\item
+  Interviews
+\end{itemize}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+2\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\textbf{Research methods}
+
+\begin{itemize}
+\tightlist
+\item
+  Action research
+\end{itemize}\strut
+\end{minipage} & \begin{minipage}[t]{0.54\columnwidth}\raggedright
+\begin{itemize}
+\tightlist
+\item
+  Focus groups
+\item
+  Participant observation
+\end{itemize}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+3\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{itemize}
+\tightlist
+\item
+  Case study research
+\end{itemize}\strut
+\end{minipage} & \begin{minipage}[t]{0.54\columnwidth}\raggedright
+\begin{itemize}
+\tightlist
+\item
+  Archival research
+\end{itemize}
+
+\textbf{Analysing qualitative data}
+
+\begin{itemize}
+\tightlist
+\item
+  Thematic analysis
+\end{itemize}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+4\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{itemize}
+\tightlist
+\item
+  Ethnographic research
+\end{itemize}\strut
+\end{minipage} & \begin{minipage}[t]{0.54\columnwidth}\raggedright
+\begin{itemize}
+\tightlist
+\item
+  Hermeneutics
+\item
+  Semiotics
+\end{itemize}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+5\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{itemize}
+\tightlist
+\item
+  Grounded theory
+\end{itemize}\strut
+\end{minipage} & \begin{minipage}[t]{0.54\columnwidth}\raggedright
+\begin{itemize}
+\tightlist
+\item
+  Narrative analysis
+\item
+  Discourse analysis
+\end{itemize}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.08\columnwidth}\raggedright
+6\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.54\columnwidth}\raggedright
+\textbf{Presenting your results}\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{pattern-of-work}{%
+\section{Pattern of work}\label{pattern-of-work}}
+
+The pattern of your work in this class, is generally:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Complete the tasks to prepare for the classwork
+\item
+  Do exercises in class
+\item
+  Write your weekly learning journal
+\item
+  Review the learning journals that you have been allocated
+\end{enumerate}
+
+\hypertarget{workload}{%
+\section{Workload}\label{workload}}
+
+As already noted, the average student should expect to spend about 20
+hours each week doing work related to this course (including class
+time). To guide your efforts, I have indicated the approximate time you
+should spend on each of the major tasks described in the week-by-week
+guide (Chapter \ref{week-by-week}).
+
+A typical allocation of time to this course looks like this:
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.42\columnwidth}\raggedright
+Activity\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+Hours\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.42\columnwidth}\raggedright
+Prep for first class\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+6\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.42\columnwidth}\raggedright
+Class time (first class)\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+3\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.42\columnwidth}\raggedright
+Prep for second class\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+6\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.42\columnwidth}\raggedright
+Class time (second class)\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+3\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.42\columnwidth}\raggedright
+Writing learning journal\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+1\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.42\columnwidth}\raggedright
+Reviewing learning journals\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+1\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.42\columnwidth}\raggedright
+Total time\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+20\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+If you find that my estimations of the time you need is widely out,
+please let me know; that way I can either:
+
+\begin{itemize}
+\tightlist
+\item
+  Help with alternate strategies for tackling the tasks, or
+\item
+  Change or remove some of the tasks.
+\end{itemize}
+
+\hypertarget{week-by-week}{%
+\section{Week-by-week in detail}\label{week-by-week}}
+
+My starting point in organising both the class, and the following
+chapters, is to constantly focus on what I want you to be able to do in
+class. Given that, what you need---in terms of resources, support, and
+practice--becomes evident.
+
+As a consequence of that approach, for each week, you will see a
+high-level description (class plan) for each class. You will also see a
+list of tasks that you need to do to be appropriately prepared for the
+class. Whilst `topics' in the class plan are framed as question, your
+preparatory tasks are not necessarily structured to directly answer
+those questions. Instead, they provide the building blocks from which we
+can---together---address those questions.
+
+Note: There are citations scattered throughout this course guide. They
+are not necessarily prompts for you to do extra reading. Rather, they
+point you towards the sources of ideas that are used here (should you be
+so interested). Items that you are expected to read will have that
+expectation explicitly stated.
+
+\hypertarget{the-hidden-agenda}{%
+\section{The hidden agenda}\label{the-hidden-agenda}}
+
+If this course has a hidden agenda it is to foster the development of
+your `qualitative mindset'; a robust link between ones espoused
+epistemology and ontology and how one approaches understanding the
+social world.
+
+\hypertarget{w1-details}{%
+\chapter{Week one}\label{w1-details}}
+
+Having successfully completed the research design course (BUSINESS 710),
+you already know a lot about doing research, and so, as we set the scene
+this week \emph{re} qualitative research methods, many of issues and
+ideas raised this week will be familiar to you.
+
+But we will be going beyond `just' reading and start practising some to
+the tools and techniques of qualitative research.
+
+\hypertarget{first-class}{%
+\section*{First class}\label{first-class}}
+\addcontentsline{toc}{section}{First class}
+
+\hypertarget{overview}{%
+\subsection*{Overview}\label{overview}}
+\addcontentsline{toc}{subsection}{Overview}
+
+In this first session, we hit the ground running and find out about you
+(as a academic) and your research interests (in terms of the academic
+conversation in which you wish to participate).
+
+Thinking about that participation, an important change that you may have
+begun to notice is that staff increasingly treat you as junior
+(academic) colleagues, rather than simply as students
+\autocite{breuer_2007_issueslearningteaching}; well, I certainly do.
+This has many implications from expectations around your self-regulation
+\autocite{schunk_2005_selfregulatedlearningeducational} through to how
+you present yourself as a researcher.
+
+Qualitative research does not take place in a vacuum. It is shaped by
+many factors \autocite[e.g.,][
+p.86]{huff_2009_designingresearchpublication}. Consequently, it makes
+sense for you to have an understanding of how those factors can affect
+your decisions vis-à-vis any qualitative research you might undertake.
+So, the starting point of this course is to surface your understanding
+of the academic conversation in which you wish to participate (see the
+discussion on assumptions in Chapter \ref{course-structure}).
+
+\hypertarget{class-plan}{%
+\subsection*{Class plan}\label{class-plan}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  Welcome to BUSINESS 705
+\item
+  As academics, what would be useful to know about one another?"
+\item
+  What do you want to know about the course?
+\item
+  How are qualitative and quantitative research different?
+\item
+  What role will qualitative research play in your academic life?
+\item
+  What does ethics in qualitative research look like?
+\end{itemize}
+
+\hypertarget{prep-and-tasks}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+Throughout this chapter---and also for subsequent chapters and
+weeks---you should think of the tasks you need to complete as
+`deliverables'; you should bring the product of you work to class in a
+form that you can use and share with others; i.e., for each deliverable,
+a single A4 page will usually suffice (it may comprise notes, diagrams,
+mind maps, etc; whatever works for you and is intelligible to your
+colleagues).
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Review ``Choosing an academic home''
+  \autocite{huff_2009_designingresearchpublication} --- 30 minutes;
+\end{enumerate}
+
+\begin{itemize}
+\item
+  \emph{Describe} the academic conversation to which you wish to make a
+  contribution --- 30 minutes.
+\item
+  Given the characteristics of your choose academic conversation,
+  \emph{discuss} the extent to which there are well understood patterns
+  of research; i.e., is it the case that you are ``in the midst of a
+  conversation where many choices have been previously debated and an
+  overarching agenda has been established'' \autocite[
+  p.~87]{huff_2009_designingresearchpublication}. What are the
+  implications of those patterns for the choice of methods in your
+  conversation? --- 60 minutes.
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Read ``Part I'' and ``Part 2'' of Myers \autocite*[
+  p.~3--56]{myers_2013_qualitativeresearchbusiness} --- 120 minutes.
+\end{enumerate}
+
+\begin{itemize}
+\item
+  \emph{Summarise} the main `big ideas' that underpin Chapter 2 of the
+  textbook. What parallels, if any, are there with other books and
+  articles you have read? --- 20 minutes.
+\item
+  \emph{Compare and contrast} the role of philosophic assumptions as
+  presented by Myers \autocite*{myers_2013_qualitativeresearchbusiness}
+  and Huff \autocite*{huff_2009_designingresearchpublication} --- 40
+  minutes.
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\item
+  The University of Auckland has a processes and policies around
+  conducting research. One of the most important documents is entitled
+  ``Guiding principles for conducting research with human
+  participants.'' A copy of these guidelines can be found on the
+  University's website at:
+  \url{https://www.auckland.ac.nz/en/about/research/re-ethics/re-uahpec.html}.
+  Read the ``Guiding Principles for conducting research with human
+  participants''
+  \autocite{theuniversityofauckland_2013_guidingprinciplesconducting}
+  --- 40 minutes.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Discuss} the relationships that exist---or their
+    lack---between Myers
+    \autocite*{myers_2013_qualitativeresearchbusiness}, Huff
+    \autocite*{huff_2009_designingresearchpublication} and the
+    University's ``Guiding principles \ldots{}'' with regard to ethics
+    in conducting research --- 20 minutes.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{second-class}{%
+\section*{Second class}\label{second-class}}
+\addcontentsline{toc}{section}{Second class}
+
+\hypertarget{overview-1}{%
+\subsection*{Overview}\label{overview-1}}
+\addcontentsline{toc}{subsection}{Overview}
+
+In this class we move from talking about qualitative research into
+actually practising with some of the tools and techniques; and in
+particular doing some interviewing (and hopefully, a lot of doing).
+
+Looking at the big-picture, you need to work out how interviewing fits
+(or does not fit) with your epistemic/ontological position. And, if it
+does fit, in what way does it fit. At a gross level, how you go about
+doing an interview---say, the types of questions--will change depending
+on how critical/interpretivist/positivist is your stance.
+
+\hypertarget{class-plan-1}{%
+\subsection*{Class plan}\label{class-plan-1}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  What questions and comments do you have arising from the first class?
+\item
+  Where do you place yourself and the research conversation that you are
+  interested in? Positivist, interpretivist, critical, something else?
+\item
+  In small groups, who has the best interview guidelines for the
+  structured interview?
+\item
+  How easy is it to do a structured interview?
+\item
+  How easy is it to do a semi-structured interview?
+\item
+  How does note-taking versus recording impact the interview process?
+\item
+  Looking ahead to your learning journals, are you clear what you need
+  to do (as opposed to being clear as to what you will do --- ends and
+  means).
+\end{itemize}
+
+\hypertarget{prep-and-tasks-1}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-1}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Read chapter 9 of Huff
+  \autocite*{huff_2009_designingresearchpublication} --- 20 minutes.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Identify} the likely types of goals when using interviews, for
+    positivist, interpretivist, and critical research --- 40 minutes.
+  \end{itemize}
+\item
+  Read the start of ``Part IV'' of Myers \autocite*[
+  p.~117--135]{myers_2013_qualitativeresearchbusiness} --- 60 minutes.
+\item
+  \emph{Develop} a script \autocite*[
+  p.~129]{myers_2013_qualitativeresearchbusiness} (including an
+  interview guide) for a structured interview on the topic of ``The
+  difference between interpretivist, positivist, and critical forms of
+  research'' --- 30 minutes.
+\item
+  \emph{Develop} a script (including an interview guide) for a
+  semi-structured interview on the topic of ``The most useful article
+  (not book) you ever read about research methods'' --- 30 minutes.
+\item
+  Explore the `little blue books' at SAGE research methods site
+  \url{http://methods.sagepub.com.ezproxy.auckland.ac.nz/}.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Select one book that focuses on interviewing; spend an hour skim
+    reading, and then \emph{summarise} the book --- 90 minutes.
+  \end{itemize}
+\item
+  Use the SAGE research methods site again, and find ``The SAGE Handbook
+  of interview research: The complexity of the craft'' and read Chapter
+  15 \autocite{wang_2017_sagehandbookinterview} --- 60 minutes.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Identify} that chapter's main message --- 10 minutes.
+  \end{itemize}
+\item
+  Having done tasks 4--6, do you need to revise your interview scripts
+  (yes/no)? --- 10 minutes.
+\end{enumerate}
+
+\hypertarget{end-of-week}{%
+\section*{End of week}\label{end-of-week}}
+\addcontentsline{toc}{section}{End of week}
+
+With the week's classes behind you, it is time to do your learning
+journal (Section \ref{ass1} ‐ 60 minutes) and then do your review the
+learning journals of your peers (Section \ref{ass1} ‐ 60 minutes).
+
+\hypertarget{w2-details}{%
+\chapter{Week two}\label{w2-details}}
+
+This week we start to look at our first qualitative research method:
+action research.
+
+For Myers a qualitative research method is ``a strategy of enquiry
+\ldots{} of finding empirical data about the (social) world''
+\autocite*[ p.~4]{myers_2013_qualitativeresearchbusiness}. In a
+practical sense, a qualitative research method might drawn a variety of
+approaches to collecting and analysing qualitative data; for example, a
+case study might use interviews and observations, or may just be
+archival research, with the data being analysed through thematic
+analysis.
+
+That does not mean the researcher necessarily has a free reign to mix
+and match from all of the data collection and analysis techniques.
+Depending on the stricutures of any particular research method, only
+some combinations might be appropriate
+\autocite{gehman_2017_findingtheorymethod}.
+
+Focus groups and participant observation are two approaches to data
+collection that are often employed in action research. So, your in-class
+`doings' will centre on these techniques.
+
+\hypertarget{first-class-1}{%
+\section*{First class}\label{first-class-1}}
+\addcontentsline{toc}{section}{First class}
+
+\hypertarget{overview-2}{%
+\subsection*{Overview}\label{overview-2}}
+\addcontentsline{toc}{subsection}{Overview}
+
+As you are exposed to new research methods, you should think about the
+degree to which they fit with your personal agenda as a researcher.
+Although many approaches to conducting research are intended to not
+materially impact the organisations and individuals who participate in
+the research, some forms of research---such as action research---are
+intended to change the status quo. You may or may not want to take on
+such a responsibility, as organisational interventions may not always
+make things better (and if they do, better for whom).
+
+Last week we explored several forms of interviewing, such as the
+semi-structured interview. In this class we will consider the focus
+group (sometimes called a group interview). A popular approach to
+collecting data in marketing, focus groups are less used in management
+and other disciplines, nevertheless, they an import tool in most
+researchers repertoires.
+
+\hypertarget{class-plan-2}{%
+\subsection*{Class plan}\label{class-plan-2}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  What were your big takeaways, and questions from last week?
+\item
+  Why do you think Peter likes the SAGE Research Methods website so
+  much?
+\item
+  How can you find action research projects?
+\item
+  How would you `do' an action research project?
+\item
+  What makes a good plan for doing a focus group?
+\end{itemize}
+
+\hypertarget{prep-and-tasks-2}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-2}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Read the start of ``Part III'' of Myer \autocite*[
+  p.~57--72]{myers_2013_qualitativeresearchbusiness} --- 40 minutes.
+\end{enumerate}
+
+\begin{itemize}
+\item
+  \emph{Discuss} the pros and cons of doing action research in a
+  60-point dissertation --- 20 minutes.
+\item
+  \emph{Describe} the difference between engaging in a consulting
+  project and a action research project --- 20 minutes.
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+  Go to the SAGE Research Methods website
+  (\url{http://methods.sagepub.com}), and search for `action research',
+  you will see there are a lot of resources (including specialised
+  texts) available to you.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Identify} one of the texts that you think would be
+    appropriately helpful to you if you were to do action research as
+    part of a year long thesis (you may need to make and state, some
+    assumptions). Summarise your reasons for you choice, and be prepared
+    to share it with your colleagues --- 30 minutes.
+  \end{itemize}
+\item
+  Beyond that, the SAGE Research Methods website also has a range of
+  video clips. Find the 45 minute video called ``David Coghlan Discusses
+  Action Research'', and review it --- 50 minutes.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{Describe} the biggest difference between David Coghlan's
+    `take' on action research compared to Myers
+    \autocite*{myers_2013_qualitativeresearchbusiness} --- 10 minutes.
+  \end{itemize}
+\item
+  Search the leading journal in your field (e.g., if you are in
+  `innovation' you might choose Technovation) for research based data
+  from focus groups. If you get no `hits' you might need to widen the
+  scope of your search (note some journals publish little if any
+  qualitative research). Skim read 3 or 4 of the articles, and select
+  one as an exemplar --- 60 minutes.
+
+  \begin{itemize}
+  \item
+    \emph{Sumamrise} the method (not the content), and \emph{evaluate}
+    the quality of the focus groups that were undertaken (include a
+    description of the criteria you used for that evaluation, and why
+    you did not chose the other aritcles you skimmed) --- 60 minutes.
+  \item
+    Hint: You might also look at Huff again \autocite[e.d.,][
+    p.~251--268]{huff_2009_designingresearchpublication}{]}
+  \end{itemize}
+\item
+  Design a focus group session to explore the factors behind the choices
+  of how people travel to work (or university) --- 40 minutes.
+\end{enumerate}
+
+\hypertarget{second-class-1}{%
+\section*{Second class}\label{second-class-1}}
+\addcontentsline{toc}{section}{Second class}
+
+\hypertarget{overview-3}{%
+\subsection*{Overview}\label{overview-3}}
+\addcontentsline{toc}{subsection}{Overview}
+
+I think we all develop favourite ways of collecting data; and
+observation (participant or non-participant) is my personal `weapon of
+choice' when I want to understand what is going on for people. It is
+also the weapon of choice in the particular research conversation in
+which I participate: strategy-as-practice.
+
+In the case of strategy as practice, it is possible to trace its
+`popularity' from strategy-as-practice (as exemplified by the works of
+Jarzabakowsi), back to the process/processual studies of the Warwick
+group (where Jarzabkowsi did her PhD), to Pettigrew (who was at Warwick
+for many years)a and his classic work on ICI
+\autocite{pettigrew_1985_awakinggiant}.
+
+All this provides a rich hinterland of `how to go about' research in
+that research conversation. Of course, there are other
+influences---e.g.~Gioia and his method
+\autocite{gioia_2013_seekingqualitativerigor}---but, it is key figures
+in the strategy-as-practice `converstation' who have, to a greater or
+lesser extent, determined what other methodological influences are seen
+as appropriate.
+
+Over time you should become familiar with the history and trajectory of
+your particular research conversation.
+
+\hypertarget{class-plan-3}{%
+\subsection*{Class plan}\label{class-plan-3}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  Any questions?
+\item
+  What matters in participant observation?
+\item
+  What do we see when we observe?
+\item
+  Do we see the same thing?
+\item
+  Do we see the same thing? Part 2
+\item
+  What are the challenges of participant observation?
+\item
+  What the solution to the need for a \emph{quid pro quo}?
+\item
+  Does going native matter to your conversation? (and what drives that).
+\end{itemize}
+
+\hypertarget{prep-and-tasks-3}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-3}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Read chapter 11 of Myers \autocite*[
+  p.~136--150]{myers_2013_qualitativeresearchbusiness} --- 30 minutes.
+\item
+  Read the chapter in `Social Research: Theory, Methods and Techniques'
+  on participant observation
+  \autocite{corbetta_2003_socialresearchtheory} --- 30 minutes.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Based on the two readings, draw a concept map (look it up if you
+    need to) of the main concepts and their relationship --- 30 minutes.
+  \end{itemize}
+\item
+  Read the methods section of Jarzabkowski's paper on doing ethnography,
+  where she talks about observations
+  \autocite{jarzabkowski_2015_conductingglobalteambased} Read the
+  methods section --- 30 minutes.
+\item
+  How do you know what you are observing? Read ``how I learnt what a
+  crock was'' \autocite{becker_1993_howlearnedwhat} --- 30 minutes.
+
+  \begin{itemize}
+  \item
+    One issue the previous two readings either allude to, or explicitly
+    address is ``How do you know what people are talking about?'' In
+    situations where the people you are observing have significantly
+    different knowledge than you---say, software engineers or
+    lawyers---how do you decide what to pay attention to? How do you
+    know when people a making in-jokes? --- 10 minutes.
+  \item
+    Use the SAGE Research methods site to explore this issue, and
+    develop an approach for overcoming this problem --- 60 minutes.
+  \end{itemize}
+\item
+  Lookup the term ``Going native'' in Dictionary of Statistics \&
+  Methodology, and in The SAGE Encyclopedia of Social Science Research
+  Methods (both available through the SAGE Research Methods website). In
+  the tradition of your desired research conversation, is going-native
+  seen as problematical? --- 60 minutes.
+\item
+  Myers \autocite*{myers_2013_qualitativeresearchbusiness}, in talking
+  about participant observation, talks about the notion of reciprocity.
+  This issue exists almost all the time in qualitative research; what
+  kind of \emph{quid pro quo} can you give participants and what
+  danagers might exist. Hint: Think about the notion of free and
+  informed consent
+  \autocite{theuniversityofauckland_2013_guidingprinciplesconducting}
+  --- 30 minutes.
+\end{enumerate}
+
+\hypertarget{end-of-week-1}{%
+\section*{End of week}\label{end-of-week-1}}
+\addcontentsline{toc}{section}{End of week}
+
+With the week's classes behind you, it is time to do your learning
+journal (Section \ref{ass1} ‐ 60 minutes) and then do your review the
+learning journals of your peers (Section \ref{ass1} ‐ 60 minutes).
+
+\hypertarget{w3-details}{%
+\chapter{Week three}\label{w3-details}}
+
+This week we look at our second qualitative research method, case study
+research. In some disciplines/sub-fields, case study research is perhaps
+the most prevalent way of doing research. However, I think it is
+important not to be side-tracked by the use of cases in teaching (e.g.,
+the Harvard method). Rather, we need to concentrate on case studies as a
+strategy for doing research.
+
+This week sees us rounding out they ways in which with collect data, by
+considering archival (or secondary data) research. We then transition
+into the analysis of qualitative data. For many students (and
+academics), they analysis of the data is the most challenging part of
+qualitative research.
+
+\hypertarget{first-class-2}{%
+\section*{First class}\label{first-class-2}}
+\addcontentsline{toc}{section}{First class}
+
+\hypertarget{overview-4}{%
+\subsection*{Overview}\label{overview-4}}
+\addcontentsline{toc}{subsection}{Overview}
+
+I am somewhat biased as I mainly read in my own area (strategizing in
+professional service firms), and within that milieu the case study reins
+supreme. So, I perhaps over estimate its importance; but it is a very
+important methodology. So this week, you will undertake the first steps
+toward doing a research case study; writing a case-description.
+
+Think back to the journal articles where you have seen case
+descriptions. If you are not sure what a case description is, no
+worries, you have a task to do this week that will address that.
+
+\hypertarget{class-plan-4}{%
+\subsection*{Class plan}\label{class-plan-4}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  In what ways are case study research and action research similar?
+\item
+  How are units of analysis and levels of analysis related?
+\item
+  Review the case studies
+\end{itemize}
+
+\hypertarget{prep-and-tasks-4}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-4}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+For many of these tasks, you will need to engage in some independent
+research.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  What is an embedded case? --- 10 minutes.
+\item
+  What is a concept map? This should be easy as you used looked at them
+  last week --- 10 minutes.
+\item
+  Given your ontological/epistemological position, draw a concept map
+  that connects the ideas of ``unit of analysis'' and ``level of
+  analysis''. Your concept map should contain citations to the sources
+  of the ideas you present --- 30 minutes.
+\item
+  Select an empirically-based journal article you have enjoyed (it
+  should be an article with which you are already familiar). Be prepared
+  to present/discuss/describe the units of analysis and level of
+  analysis --- 30 minutes.
+\item
+  Read Chapter 7 of Myers \autocite*[
+  p.~73--91]{myers_2013_qualitativeresearchbusiness} --- 60 minutes.
+\item
+  Read Chapter 12 of Myers \autocite*[
+  p.~151--162]{myers_2013_qualitativeresearchbusiness} --- 40 minutes.
+\item
+  What is a case description in the context of qualitative research?
+  (Hint, check out Yin's work) --- 10 minutes.
+\item
+  Where would you place Yin on a positivist --- interpretivist spectrum?
+\item
+  Write a short case description. Combine what you know about using
+  documents to collect data, and case study research to write a case
+  description, with a view to investigating focusing on Beca's
+  internationalisation --- 180 minutes.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Your are time constrained; you will only be making a initial/draft
+    case.
+  \item
+    Beca is a New Zealand based engineering consultancy.
+  \item
+    You may only use secondary (archival) data; you must not do any
+    primary data collection
+  \item
+    You should consider this to be the exploratory phase of research
+    into how professional service firms internationalise.
+  \item
+    Spend about one third of your time collecting data, and the rest of
+    it writing the case (mainly as referenced quotes).
+  \item
+    Keep a research log of what you did and why you did it.
+  \item
+    Bring your case description (and research log) to class.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{second-class-2}{%
+\section*{Second class}\label{second-class-2}}
+\addcontentsline{toc}{section}{Second class}
+
+\hypertarget{overview-5}{%
+\subsection*{Overview}\label{overview-5}}
+\addcontentsline{toc}{subsection}{Overview}
+
+Qualitative data analysis (QDA): anecdotally, one of the big differences
+between quantitative research and qualitative research is that, in
+quantitative research one spends a lot of time at the `front-end'
+working out what is to be done, and the analysis is relative quick.
+Whereas, with qualitative research, there is less work at the front-end,
+but the analysis takes much longer. When talking with masters and PhD
+students about their research plans, we often end up doubling or
+tripling the amount of time they set aside to do analysis.
+
+In many ways, thematic analysis, is the swiss-army knife of QDA, and so
+we start our journey with a look at this flexible tool that can be used
+in a variety of paradigms. The `go-to' references for thematic analysis
+are by Miles and Huberman
+\autocites{miles_1994_qualitativedataanalysis}{huberman_2002_qualitativeresearchercompanion}.
+Many qualitative research methods courses have Miles and Huberman's work
+as required reading.
+
+\hypertarget{class-plan-5}{%
+\subsection*{Class plan}\label{class-plan-5}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  How do you do thematic analysis?
+\item
+  Which is the better tool, Dedoose or nVivo?
+\item
+  Is your coding the same?
+\item
+  Is your coding the same?
+\item
+  Is thematic coding essentially positivist, interpretivist, or critical
+  in orientation?
+\item
+  Is thematic analysis geared towards a top-down or bottom-up approach?
+\end{itemize}
+
+\hypertarget{prep-and-tasks-5}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-5}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Read Chapter 13 of Myers \autocite*[
+  p.~165--181]{myers_2013_qualitativeresearchbusiness} --- 40 minutes.
+\item
+  Explore the
+  \href{http://methods.sagepub.com.ezproxy.auckland.ac.nz/}{SAGE
+  Research Methods} site and read about thematic analysis --- 40
+  minutes.
+\item
+  Summarise `thematic analysis' in a paragraph or two, as if it were to
+  be included in chapter 13 of the Myers' text book --- 40 minutes.
+\item
+  Again, using the
+  \href{http://methods.sagepub.com.ezproxy.auckland.ac.nz/}{SAGE
+  Research Methods} site search and examine instructions or videos on
+  `how' to do thematic analysis (rather than `what' it is). You might
+  need to use the word ``coding'' as one of your search terms --- 60
+  minutes.
+\item
+  Sign-up for a free account at \href{http://dedoose.com}{Dedoose}.
+  Spend some time getting familiar with this QDA software by coding the
+  text in Appendix \ref{engineering} --- 90 minutes.
+\item
+  Now, on a PC in one of the labs, do the same thing but try out nVivo
+  --- 90 minutes.
+\end{enumerate}
+
+\hypertarget{end-of-week-2}{%
+\section*{End of week}\label{end-of-week-2}}
+\addcontentsline{toc}{section}{End of week}
+
+With the week's classes behind you, it is time to do your learning
+journal (Section \ref{ass1} ‐ 60 minutes) and then do your review the
+learning journals of your peers (Section \ref{ass1} ‐ 60 minutes).
+
+\hypertarget{w4-details}{%
+\chapter{Week four}\label{w4-details}}
+
+The data collection tools we have explored thus far---interviewing,
+focus groups, participant and non-participant observation, and document
+collection---can (and are) fruitfully employed the research methods of
+action research and case studies. You will find that these tools also
+have their uses in ethnographic research (this week) and ground theory
+(next week).
+
+Following on from your excursion into thematic analysis, this week you
+will be taking a deeper dive into hermeneutics and semiotics.
+
+However, so far, the course has centred on taking research methods (and
+various tools of conducting qualitative research) and looking at
+individual parts; e.g., case studies have been considered somewhat
+separately to interviewing. Thus far, this has led to a rather general
+understanding of the topics of the first half of the course. For
+example, how interviewing fits with something like ethnographic
+research---in particular---has not been considered.
+
+For the remainder of the course, the goal is to start to integrate the
+components that, until now, we have been treating a separate and
+distinct.
+
+\hypertarget{first-class-3}{%
+\section*{First class}\label{first-class-3}}
+\addcontentsline{toc}{section}{First class}
+
+\hypertarget{overview-6}{%
+\subsection*{Overview}\label{overview-6}}
+\addcontentsline{toc}{subsection}{Overview}
+
+In this first week, we obstensively focus on ethnography as a
+qualitative method. However, the goal in this class is to take a more
+wholistic stance, and consider a suite of publications arising from
+group of researchers who collaborated in an ethnographic study.
+
+\hypertarget{class-plan-6}{%
+\subsection*{Class plan}\label{class-plan-6}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  How is interviewing (in general) different to ethnographic
+  interviewing?
+\item
+  What is the reason for those differences?
+\item
+  How have Smet/Jarzabkowski and colleagues addressed the adavantages
+  and disadvantages of ethnographic research?
+\end{itemize}
+
+\hypertarget{prep-and-tasks-6}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-6}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Read Chapter 8 of Myers \autocite*[
+  p.~92--103]{myers_2013_qualitativeresearchbusiness} --- 30 minutes.
+\item
+  Draw a concept map that distinguishes/highlights the differences
+  between interview (as you currently understand it) and ethnographic
+  interviewing (hint: you might find something useful in the Handbook of
+  Ethnography on the SAGE Research Methods website. You should focus on
+  the major features of the two data collection methods, and how those
+  features are connected to one another --- 45 minutes.
+\item
+  Review the notion of transferability on the SAGE Research Methods
+  website --- 30 minutes.
+\item
+  Read Smets \emph{et al}.,
+  \autocite{smets_2015_reinsurancetradinglloyd} and the the
+  complimentary article by Jarzabkowski and colleagues
+  \autocite{jarzabkowski_2015_conductingglobalteambased}. You should
+  concentrate on the methods (data collection and analysis) rather than
+  on the topic of the research --- 60 minutes.
+\item
+  The \emph{quid pro quo} of that research was primarily an industry
+  report which can be found at
+  \url{https://www.sbs.ox.ac.uk/sites/default/files/research_showcase/Smets-lloyds/beyond-borders-resinsurance-industry-cass-knowledge.pdf}.
+  Skim the report --- 15 minutes.
+\item
+  Be prepared to answer the following questions regarding the
+  aforementioned research:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    What was the over-arching research method?
+  \item
+    How was data collected?
+  \item
+    How was the data analyses?
+  \item
+    How much work the academic research probably took?
+  \item
+    How much work the industry report took?
+  \item
+    Evaluate the quality of their research.
+  \item
+    How have they achieved transferability?
+  \item
+    And any other insights about their approach they went about doing
+    qualitative research in that project --- 60 minutes in total.
+  \end{itemize}
+\item
+  Go to Google Scholar and search for ``smets reinsurance'', skim the
+  articles. How many publications (and over what period) can you
+  identify that Smet/Jarzabkowski and colleagues produced from their
+  ethnographic data set? --- 30 minutes.
+\item
+  Consider the advantages and disadvantages of ethnography research
+  identified by Myers. How do you see those playing out in the work of
+  Smets/Jarzabkowski and colleagues? --- 30 minutes.
+\end{enumerate}
+
+\hypertarget{second-class-3}{%
+\section*{Second class}\label{second-class-3}}
+\addcontentsline{toc}{section}{Second class}
+
+\hypertarget{overview-7}{%
+\subsection*{Overview}\label{overview-7}}
+\addcontentsline{toc}{subsection}{Overview}
+
+More analysis of qualitative data :) As a result there are less topics
+for class, and more reviewing how you did the analysis and the results
+that you produced.
+
+In many ways, thematic analysis is one of the most straight forward
+approaches to analysing qualitative data. But it is not without it
+limitations, and so we look to hermeneutics and semiotics.
+
+\hypertarget{class-plan-7}{%
+\subsection*{Class plan}\label{class-plan-7}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  How do hermeneutics and semiotics differ?
+\item
+  How does that play out in the results of your analysis?
+\item
+  Give the three analsyis techniques you have been exposed to, which do
+  you think is the one you are most likely to use?
+\end{itemize}
+
+\hypertarget{prep-and-tasks-7}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-7}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Read Chapter 14 of Myers \autocite*[
+  p.~183--196]{myers_2013_qualitativeresearchbusiness}. Make sure that
+  you track down and read the exemplar discussed on page 191; i.e.,
+  Myers \autocite*{myers_1994_disastereveryonesee} --- 75 minutes.
+\item
+  Read Chapter 15 of Myers \autocite*[
+  p.~197--208]{myers_2013_qualitativeresearchbusiness} --- 60 minutes.
+\item
+  Read the paper by Barley \autocite*{barley_1990_imagesimagingnotes} on
+  his classic study \autocite*[ which you do not need to
+  read]{barley_1986_technologyoccasionstructuring} --- 60 minutes.
+\item
+  Your final reading is by Denzin
+  \autocite*{denzin_1987_semioticssymbolicinteractionism} and locates
+  symbolic interactionism---re, Barley---and semiotics. It is dense at
+  times, and you should skip over the bits that do not make sense to
+  you. Focus on the examples of analysis --- 45 minutes.
+\item
+  Having read about thematic analysis, hermeneutics and semiotics draw a
+  concept map show how they are different from one another (this should
+  help you focus on how they are different in `doing' them as an
+  analysis technique) --- 30 minutes.
+\item
+  Read the `discussion' on StackExchange Academia on work-life balance
+  re teaching and research
+  (\url{https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-resear}).
+  Do a `first cut' analysis, first using hermeneutics, then using
+  semiotics. What insights do you get? --- 120 minutes.
+
+  Note the discussion is not perfectly suited to either form of
+  analysis; then again, what data ever is perfect?
+\end{enumerate}
+
+\hypertarget{end-of-week-3}{%
+\section*{End of week}\label{end-of-week-3}}
+\addcontentsline{toc}{section}{End of week}
+
+With the week's classes behind you, it is time to do your learning
+journal (Section \ref{ass1} ‐ 60 minutes) and then do your review the
+learning journals of your peers (Section \ref{ass1} ‐ 60 minutes).
+
+\hypertarget{w5-details}{%
+\chapter{Week five}\label{w5-details}}
+
+The final research methods we are looking at is grounded theory. When I
+last looked on Google Scholar, the seminal work by Glaser and Straus
+\autocite*{glaser_1967_discoverygroundedtheory} had nearly 10,000
+citation. So, this is a very important strategy in qualitative research.
+That said, the ideas from grounded theory around the analysis of
+qualitative data are perhaps even more important.
+
+Given that, this week we will focus on grounded theory and practice more
+coding.
+
+\hypertarget{first-class-4}{%
+\section*{First class}\label{first-class-4}}
+\addcontentsline{toc}{section}{First class}
+
+\hypertarget{overview-8}{%
+\subsection*{Overview}\label{overview-8}}
+\addcontentsline{toc}{subsection}{Overview}
+
+Our first class of the week will focus on (a) bringing you speed on
+`classical' grounded theory in its many forms.
+
+\hypertarget{class-plan-8}{%
+\subsection*{Class plan}\label{class-plan-8}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  Urquhart argues that the choice between ``Glaserian or Straussin
+  {[}grounded theory{]} --- depends on individual researchers and their
+  preferences'' \autocite{urquhart_2017_groundedtheoryqualitative}.
+  Which is your preference?
+\item
+  How has grounded theory been used in your field?
+\item
+  Thinking back to the paper by Smets and his colleagues
+  \autocite{smets_2015_reinsurancetradinglloyd}, what type of coding do
+  you now think they did?
+\item
+  Looking back, what type of coding did you \emph{actually} do when you
+  first tried thematic analysis of Appendix \ref{engineering} (e.g.,
+  bottom-up, top-down, middle-range, or thematic)?
+\item
+  Regarding your open coding of Appendix \ref{engineering}, which of
+  your codes are descriptive and which are analytical?
+\item
+  What is your theory of academic work-life balance?
+\end{itemize}
+
+\hypertarget{prep-and-tasks-8}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-8}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Read Chapter 9 of Myers \autocite*[
+  p.~209--220]{myers_2013_qualitativeresearchbusiness} to get an
+  overview on Grounded Theory --- 30 minutes.
+\item
+  For the leading two or three journals in your own field, say,
+  entrepreneurship, do a search and see how grounded theory has been
+  used. Be prepared to report back on your findings --- 30 minutes
+\item
+  Visit the SAGE Research methods website: read chapters 1--3 and
+  chapter 5 of
+  \href{\%5Bhttp://methods.sagepub.com/book/grounded-theory-for-qualitative-research}{Urquhart's
+  book} \autocite{urquhart_2017_groundedtheoryqualitative} on grounded
+  theory --- 210 minutes.
+\item
+  Review the coding by Smets and his colleagues, how would you describe
+  it now (bottom-up, top-down, middle-range, or thematic)? --- 30
+  minutes.
+\item
+  Using whichever QDA tool you feel most comfortable with, go back to
+  Appendix \ref{engineering} and try open coding it --- 30 minutes.
+\item
+  Return to the `discussion' on
+  \href{https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-resear}{StackExchange
+  Academia on work-life balance re teaching and research}. Apply the
+  stages of open, selective, and theoretical coding to it? Start with a
+  general research problem. Draw some diagrams and make a few
+  theoretical notes. Generate some research questions based on your
+  theoretical coding? Can you come up with a theory about academics and
+  work-life balance? --- 120 minutes.
+\end{enumerate}
+
+\hypertarget{second-class-4}{%
+\section*{Second class}\label{second-class-4}}
+\addcontentsline{toc}{section}{Second class}
+
+\hypertarget{overview-9}{%
+\subsection*{Overview}\label{overview-9}}
+\addcontentsline{toc}{subsection}{Overview}
+
+We now move on to what is often called the Gioia method; a more
+contemporary expression of many of the ideas of grounded theory. This
+approach to coding (and reporting results) has become immensely popular
+of late.
+
+\hypertarget{class-plan-9}{%
+\subsection*{Class plan}\label{class-plan-9}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  How is the Gioia method related to grounded theory?
+\item
+  To what extent do the exemplars of the Gioia method that you have
+  read, achieve rigour?
+\item
+  To what extent do the exemplars of the Gioia method that you have
+  read, achieve transferability?
+\item
+  What lessons do you take away about presenting qualitative research,
+  in general?
+\item
+  What lessons do you take away about presenting qualitative research,
+  \emph{vis-á-vis} your work on academic work-life balance? (To be
+  effective, you will need to show your `Gioia' write-up)
+\end{itemize}
+
+\hypertarget{prep-and-tasks-9}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-9}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Read the paper by Gioia and his co-authors on the `Gioia method'
+  \autocite{gioia_2013_seekingqualitativerigor} --- 30 minutes.
+\item
+  Draw a concept map linking the key tenets of the Gioia method to
+  grounded theory? --- 15 minutes.
+\item
+  Review the article by Gioia and Thomas
+  \autocite*{gioia_1996_identityimageissuea}---it one of Gioia's
+  exemplars and was published in one of the leading \emph{quantitative}
+  journals, which is quite an achievement for a piece of qualitative
+  research. How closely do Gioia and Thomas follow the Gioia method? ---
+  45 minutes.
+
+  If you are not familiar with the idea of sensemaking, there is a
+  nice/short literature review by Brown et al.
+  \autocite{brown_2015_makingsensesensemaking}.
+\item
+  The paper by Anand et al.
+  \autocite{anand_2007_knowledgebasedinnovationemergence}, is also one
+  of the exemplars cited by Gioia et al,
+  \autocite*{gioia_2013_seekingqualitativerigor}. Review the paper and
+  evaluate how close it follows Gioia's method --- 45 minutes.
+\item
+  For the exemplars you have read assess their transferability. Do you
+  agree with the stance taken by Gioia et al
+  \autocite*{gioia_2013_seekingqualitativerigor}? --- 30 minutes.
+\item
+  For a third time, return to the `discussion' on StackExchange Academia
+  on work-life balance re teaching and research
+  (\url{https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-researc}),
+  which you should be rather familiar now, and apply the Gioia method.
+  Write-up your results following the advice of Gioia et al.
+  \autocite*{gioia_2013_seekingqualitativerigor} --- 120 minutes.
+\end{enumerate}
+
+\hypertarget{end-of-week-4}{%
+\section*{End of week}\label{end-of-week-4}}
+\addcontentsline{toc}{section}{End of week}
+
+With the week's classes behind you, it is time to do your learning
+journal (60 minutes) and then review the learning journals of your peers
+(60 minutes).
+
+\hypertarget{w6-details}{%
+\chapter{Week six}\label{w6-details}}
+
+\hypertarget{first-class-5}{%
+\section*{First class}\label{first-class-5}}
+\addcontentsline{toc}{section}{First class}
+
+\hypertarget{overview-10}{%
+\subsection*{Overview}\label{overview-10}}
+\addcontentsline{toc}{subsection}{Overview}
+
+As we head into the `home stretch' of the course, and the topic of
+`Presenting your research' it is tempting to think that we have come to
+the end of the research process; the data has been collected, analysed,
+and all that is left is to present our findings. Alas, it is often the
+case that in writing-up our work, we find that we need new literature,
+extra data, more analysis. Writing up can often be the trigger for
+further iterations through the research cycle. It is not unusual, having
+submitted a piece of work that we thought was `perfectly fine', to have
+reviewers ask for ``an additional comparative case'', or for the
+inclusion of a particular piece of literature that then means additional
+interviews have to be done. It is also the case that there are few
+researchers who haven't been told ``There are two papers here'', or
+``Your research question needs some work'', resulting in almost new
+papers being written.
+
+So, writing-up is not always the end.
+
+Even so, as your summative learning journal looms large on the horizon,
+the plan for this week is relatively light to allow you to focus on that
+task.
+
+\hypertarget{class-plan-10}{%
+\subsection*{Class plan}\label{class-plan-10}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  Reflecting on the readings by Gioia and Jarzabkowski, what is their
+  impact on how you think about qualitative research design?
+\item
+  What tools and techniques from the course will you use in completing
+  your summative learning journal?
+\item
+  What lessons from Myers \autocite*[
+  p.~221--250]{myers_2013_qualitativeresearchbusiness} will you bring
+  through to your summative learning journal?
+\item
+  What question do you have about your summative learning?
+\item
+  `Pair and share' the outlines of your summative learning journal. What
+  actionable feedback can you give to help your colleagues?
+\end{itemize}
+
+\hypertarget{prep-and-tasks-10}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-10}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Read ``Part IV'' of Myers \autocite*[
+  p.~221--250]{myers_2013_qualitativeresearchbusiness} --- 30 minutes.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{List} two or three ideas from this reading, that you will
+    apply to your summative learning journal --- 10 minutes.
+  \end{itemize}
+\item
+  \emph{Discuss} the idea that, ``As used in this course, a summative
+  learning journal is a form of auto-ethnography''. --- 30 minutes.
+\item
+  \emph{Discuss} the question, ``Does an auto-ethnographic study require
+  approval from the University of Auckland Human Participants Ethics
+  Committee?'' --- 20 minutes.
+\item
+  There are many papers on presenting your research. These often spill
+  over into how you should collect and analyse your data. You have
+  already read one by Gioia et al.
+  \autocite*{gioia_2013_seekingqualitativerigor}. Review the paper by
+  Jarazabkowski and her colleagues on producing persausive findings
+  \autocite{jarzabkowski_2014_producingpersuasivefindings}. How do
+  papers like these shape how you intend to present your summative
+  learning journal ? --- 90 minutes.
+\item
+  Write a detailed \emph{outline} (not a draft, unless you are feeling
+  ambitious) of your summative learning journal and bring it to class
+  --- 180 minutes.
+\end{enumerate}
+
+\hypertarget{second-class-5}{%
+\section*{Second class}\label{second-class-5}}
+\addcontentsline{toc}{section}{Second class}
+
+\hypertarget{overview-11}{%
+\subsection*{Overview}\label{overview-11}}
+\addcontentsline{toc}{subsection}{Overview}
+
+This class is dedicated to your summative learning journals. If you have
+no question or concerns, can consider spending the time working on your
+final piece of work.
+
+\hypertarget{class-plan-11}{%
+\subsection*{Class plan}\label{class-plan-11}}
+\addcontentsline{toc}{subsection}{Class plan}
+
+\begin{itemize}
+\item
+  Foreshadowing your summative learning journals, what are your big
+  takeaways?
+\item
+  Wrapping it up
+\item
+  Class party? (Class lunch?)
+\end{itemize}
+
+\hypertarget{prep-and-tasks-11}{%
+\subsection*{Prep and tasks}\label{prep-and-tasks-11}}
+\addcontentsline{toc}{subsection}{Prep and tasks}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Do more revisions/iterations on your summative learning journal ---
+  360 minutes.
+\end{enumerate}
+
+\hypertarget{end-of-week-5}{%
+\section*{End of week}\label{end-of-week-5}}
+\addcontentsline{toc}{section}{End of week}
+
+The course is pretty much over now. All you need to do now is polish up
+your summative learning journal (Section \ref{ass3}) --- 120 minutes.
+
+\hypertarget{todo-checklist}{%
+\chapter{To Do checklist}\label{todo-checklist}}
+
+{[} {]} Get the required text book
+
+{[} {]} Do lots of work
+
+\hypertarget{appendix-appendix}{%
+\appendix}
+
+
+\hypertarget{profile}{%
+\chapter{Postgraduate profile}\label{profile}}
+
+\hypertarget{preamble}{%
+\section{Preamble}\label{preamble}}
+
+The University of Auckland has developed a collection of Graduate
+Profiles for students in postgraduate level programmes that expresses an
+aspiration for its graduates through a set of university-wide attributes
+and values which it considers to be attainable by graduates of a leading
+research university. They communicate to current and potential students
+and faculty, employers, the community, and other academic institutions
+the qualities that The University of Auckland seeks to impart to, or
+foster in, its graduates. The Graduate Profiles that have been developed
+are for: (i) Postgraduate Coursework Graduates; (ii) Postgraduate
+Research Graduates (masters level or equivalent); and (iii) Doctoral
+Graduates.
+
+The University of Auckland is committed to provide an educational
+experience of the highest standards to its students. In addition, The
+University of Auckland recognises the needs of a diverse and
+multi-cultural student population, including its special responsibility
+under Te Tiriti o Waitangi / The Treaty of Waitangi.
+
+The implementation of the Graduate Profiles rests with the faculties,
+departments, and other teaching and learning support divisions of the
+University, which may develop more specific profiles that are suitable
+for their subject fields and/or student population. As the student
+learning environment changes, the Graduate Profiles will be reviewed.
+
+\hypertarget{description}{%
+\section{Description}\label{description}}
+
+A Postgraduate Research Graduate (ie, masters level or equivalent) will
+demonstrate welldeveloped skills in the definition, management, and
+communication of research in a specialist area. On completing their
+studies at a satisfactory level, Postgraduate Research Graduates will
+have attained a core set of attributes and values that provide a
+platform to allow them: (i) to undertake advanced and original research
+at the doctoral level in their chosen subject field; (ii) to continue
+developing personally and professionally in their careers; and (iii) to
+make potentially innovative, and important contributions to the
+communities and societies in which they reside. The University of
+Auckland expects its Postgraduate Research Graduates to obtain the
+following attributes and values:
+
+\hypertarget{specialist-knowledge}{%
+\subsection{Specialist knowledge}\label{specialist-knowledge}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A mastery of a body of knowledge, including a high level understanding
+  of conceptual and theoretical elements, in the field of study.
+\item
+  An understanding and appreciation of current issues and debates in the
+  field of study.
+\item
+  An understanding and appreciation of the philosophical bases,
+  methodologies and characteristics of scholarship, research, and
+  creative work.
+\item
+  An understanding of the relevance and value of their contribution to
+  the local and global communities' knowledge of fact, theory, and/or
+  mastery of practice
+\end{enumerate}
+
+\hypertarget{effective-communication}{%
+\subsection{Effective communication}\label{effective-communication}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A capacity to communicate ideas effectively in suitable formats to a
+  range of audiences inside the field of study or discipline and to the
+  wider community.
+\item
+  An ability to communicate effectively using written and spoken English
+  and/or Māori, and where appropriate, other languages.
+\end{enumerate}
+
+\hypertarget{general-intellectual-skills-and-capacities}{%
+\subsection{General intellectual skills and
+capacities}\label{general-intellectual-skills-and-capacities}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A capacity for critical, conceptual, and reflective thinking.
+\item
+  A capacity to locate, contextualise, critically evaluate, synthesise,
+  and use information effectively.
+\item
+  An ability to analyse information, where relevant, using appropriate
+  tools, technologies, and methods.
+\item
+  A capacity for critical appraisal of relevant scholarly literature.
+\item
+  An ability to initiate, design, conduct, sustain, and report research.
+\item
+  A willingness to seek continuous improvement in research skills and
+  quality of research.
+\item
+  Interdisciplinary perspectives.
+\item
+  The self-awareness to identify one's professional, personal, and
+  research skills, the ability to market these appropriately in the
+  employment market.
+\item
+  An understanding of career and professional development strategies.
+\item
+  The ability to work independently, as well as collaboratively and
+  effectively with others, as appropriate.
+\end{enumerate}
+
+\hypertarget{independence-creativity-and-learning}{%
+\subsection{Independence, creativity and
+learning}\label{independence-creativity-and-learning}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  An intellectual openness and curiosity.
+\item
+  A capacity for creativity and originality.
+\item
+  An ability to identify, define, analyse, and solve problems in a
+  flexible manner and the skill to adapt innovatively to changing
+  environments and outcomes.
+\item
+  An appreciation for ideas, discovery, and learning.
+\item
+  Self discipline and an ability to plan and achieve goals (personal and
+  professional), including career advancement and identifying
+  appropriate opportunities in the chosen field.
+\end{enumerate}
+
+\hypertarget{ethical-and-social-understanding}{%
+\subsection{5. Ethical and social
+understanding}\label{ethical-and-social-understanding}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Personal, professional and intellectual integrity, and respect for the
+  ethics of research and scholarly activity.
+\item
+  An awareness of local and global dimensions of intellectual,
+  political, and economic activities.
+\item
+  An appreciation of human and cultural diversity and respect for the
+  values of individuals and different cultural groups.
+\item
+  An awareness of the implications and potential of their research in
+  terms of intellectual property and commercialisation.
+\end{enumerate}
+
+\hypertarget{course-design}{%
+\chapter{Course design}\label{course-design}}
+
+\hypertarget{my-teaching-and-your-learning}{%
+\section{My teaching and your
+learning}\label{my-teaching-and-your-learning}}
+
+My approach to teaching is shaped by three concerns. First, ``What is it
+that I want you to be able to do at the end of the course?'' What
+skills, knowledge, and attitudes am I seeking to engender---what do I
+hope you will have learn? This is articulated through the learning
+outcomes for the course.
+
+When I talk of learning, I following Terry Doyle, in that:
+
+\begin{quote}
+Learning is the ability to use information after a significant period of
+disuse
+
+and
+
+It is the ability to use the information to solve problems in a context
+different (if only slightly) from the context in which the information
+was originally learnt.
+\end{quote}
+
+In a nutshell, I want you to be able apply what you have learnt here to
+your own (future) research project(s).
+
+My second concern is ``What is the best use of our time together?''.
+Implicitly, this also addresses the use of your individual study time).
+The result of this concern is a preference for a `flipped' classroom,
+where delivery of the content of the course takes place outside of the
+classroom, and where time in the classroom is spent working with that
+content to refining your understanding.
+
+Finally, ``What are effective ways of learning?'' As noted earlier,
+praticing something is one way to become more accomplished at it. That
+process can be accelerated by engaging in explicit reflection of ones
+practice(s), on your `doings' and `sayings'
+\autocite{schatzki_2001_practiceturncontemporary}.
+
+\hypertarget{history}{%
+\chapter{History of the course}\label{history}}
+
+\hypertarget{the-current-course}{%
+\section{The current course}\label{the-current-course}}
+
+Why do yet another qualitative methods course? Many---and maybe even
+most---universities offer qualitative research methods course. There are
+also a plethora of textbooks on the subject. Then, there are a wide
+array of on-line resources; videos, web pages, and so on.
+
+So, there has to be a question about why re-invent the wheel.
+
+Part of the answer is about fitting the needs of our students as they
+head into their dissertations and theses. Part of the answer is, that I
+have tried to avoid reinventing anything. To that end, this course is
+the result of the input of many people including Brigid Carroll, Michael
+Myers, Cathy Urquhart, Margarita Mooney, and Ann Langley; drawing on
+existing expertise and resources.
+
+And so. I have tried to take their advice and ideas and synthesis
+something that is a good fit for students in Management \& International
+Business, here at the University of Auckland.
+
+\hypertarget{the-history-of-the-course}{%
+\section{The history of the course}\label{the-history-of-the-course}}
+
+Research has been taught in this department, at a postgraduate level,
+for at least 20 years that I know of. In 1997, there were two courses,
+Research Methods I and II, that sought to ``ensure that all \ldots{}
+master's students have the basic research skills and concepts to enable
+them to do a master's thesis''.
+
+By 2000, the courses had morphed into on the \emph{Foundations of
+Research}, addressing the ``theory and philosophy of social science
+research methods'' and \emph{Research Practice}, focusing on ``applying
+research methods in organisational contexts''.
+
+With the change from being MGMT courses to BUSINESS courses, the focus
+of became something that would be familiar to current students, a
+courses on \emph{Research design}, \emph{Qualitative research}, and
+\emph{Quantitative research}.
+
+It was only in 2017 that the \emph{Advanced qualitative research} and
+\emph{Advanced qualitative research} courses were introduced to meet
+needs of PhD candidates.
+
+\hypertarget{pis}{%
+\chapter{Participant information sheet}\label{pis}}
+
+Participant information sheet for individuals Title: BUSINESS 705
+
+Dear Participant,
+
+My name is Peter Smith, and I am the course director for the course
+BUSINESS 705 (Qualitative Research Methods), and I would like to invite
+you to participate the research activities of the course.
+
+\hypertarget{introduction}{%
+\section{Introduction}\label{introduction}}
+
+The purpose of this Participant Information Sheet, and the important
+information it contains is to provide you with enough detail so you can
+make an informed decision about taking part in the research activities
+in BUSINESS 705. The goal here is one of informed consent; that is good
+ethics practice.
+
+If you review the course's learning objectives, you will see that
+participating in the research activities of the course will lead to you
+becoming a better qualitative researcher, and to better understand the
+implications of doing qualitative research. That is the goal of the
+research activities in class.
+
+If having read everything here, you decide this is not the course for
+you, as with any course, you can withdraw from the course without
+penalty for the first two weeks. In that case, you should contact either
+the MCom advisor or the BComHons advisor to find an alternative methods
+course.
+
+Note, that if you are planning to do BUSINESS 712 (Advanced Qualitative
+Methods), the timing of that course may mean you will not be able to do
+it this semester (remember, BUSINESS 705 is in the first half of this
+semester, and BUSINESS 712 is in the second half of the semester).
+
+\hypertarget{research-in-business-705}{%
+\section{Research in BUSINESS 705}\label{research-in-business-705}}
+
+There is an old saw says that practice makes perfect. As this course is
+about qualitative research methods---and in particular, about preparing
+you to undertake your own research in the future---an important part of
+this course is actually doing the stuff of qualitative research. To
+build your skills in this area, you will practice common qualitative
+research techniques. For example, you will design an interview guide and
+then conduct interviews using that guide.
+
+More formally, you will act as an investigator and actually use the
+tools of qualitative research to collect data from your classmates; this
+implies that you will also act as a participant when it is the turn of
+your classmates to act as investigators. As a participant, you need to
+be fully informed about the consequences of your participation in the
+research activities that will take place within the BUSINESS 705
+classroom. In what follows, the research activities that will take place
+in BUSINESS 705 are explained.
+
+To be explicit, you---and your classmates---will be the ones carrying
+out the research procedures (e.g., conducting the interviews). Peter,
+your lecturer, is there to help and assist, but not to `do'; he is not
+collecting any research data.
+
+\hypertarget{the-nature-of-your-participation}{%
+\section{The nature of your
+participation}\label{the-nature-of-your-participation}}
+
+As described in the section on Assessments (in the course guide), a
+significant method of assessing your learning is through a reflective
+learning journal, centered the nature of your learning about qualitative
+research methods. Such work has auto-ethnographical components, and so
+is a form of participant observation that combines the roles of
+investigator and participant. Thus, being both an investigator and as a
+participant are integral parts of this course. Your enrollment in this
+course is taken as implicit consent to this.
+
+As part of your work in the class you will be party to, and participate
+in:
+
+\begin{itemize}
+\tightlist
+\item
+  Participant and non-participant observations
+\item
+  Interviews
+\item
+  Focus groups
+\end{itemize}
+
+Given that you will be doing participant observation, everything that
+you, and your peers, do and say in the class---either formally or
+informally---may become data.
+
+At times your participation may be recorded (either by video or by
+digital audio). This is so you can compare and contrast the impact of
+recording (versus note taking) both from the perspective of the
+participant and that of the investigator. Such recordings will not be
+kept; at the end of the class they will be deleted. Even so, you should
+assume that everything you do and say in the class may be recorded; as
+novice researchers, it is possible that someone (when acting as an
+investigator) neglects to notify participants that they are being
+recorded.
+
+At any time---without giving any reason---you may:
+
+\begin{itemize}
+\tightlist
+\item
+  Withdraw from participation
+\item
+  Elect not to be recorded
+\end{itemize}
+
+If you opt-out you will be given alternative work to do (typically
+involving readings and videos from the SAGE Research Methods website).
+It is not possible to replicate the learning that comes from `doing' and
+so if you do opt-out you will have a qualitatively different experience
+and probably a different type of learning.
+
+\hypertarget{purpose-of-the-research}{%
+\section{Purpose of the research}\label{purpose-of-the-research}}
+
+The primary purpose of the research activities in BUSINESS 705 is to
+give you and your peers the opportunity to practice techniques of
+qualitative research. There is no intent on Peter's part that the data
+collected will lead to a published output, say, a journal article.
+
+The overarching topic that frames activities in which you will
+participate in is ``My learning of qualitative research methods''.
+
+\hypertarget{location-of-the-research}{%
+\section{Location of the research}\label{location-of-the-research}}
+
+You will only be acting as a participant during the scheduled class time
+of BUSINESS 705.
+
+\hypertarget{confidentiality}{%
+\section{Confidentiality}\label{confidentiality}}
+
+Given the nature of the class, it is not possible to promise
+confidentiality around either your participation in general or your data
+in particular. Your classmates will know that you are `in the class',
+they will see, for example, the interviews in which you participate, and
+thus everyone in the class will---to some degree or other---have access
+to the data that is elicited from one other.
+
+Furthermore, other people not in the class will know that you have
+(mostly like) participated in the research activities in the class;
+e.g., administrative staff with access to details of the course on
+Canvas.
+
+\hypertarget{potential-risks}{%
+\section{Potential risks}\label{potential-risks}}
+
+Give the topic of the research activities, and the nature of those
+research activities, it is anticipated that there are no potential risks
+of significance that are materially different from any other class where
+you might be required to keep a learning journal or other reflective
+pieces of work.
+
+\hypertarget{data-retention}{%
+\section{Data retention}\label{data-retention}}
+
+You should be aware that the data collected by your peers may be
+retained by them (as part of their learning journals) indefinitely.
+
+As noted earlier, electronic recordings are to be deleted at the end of
+the classes in which they are made.
+
+\hypertarget{if-you-have-questions-or-concerns}{%
+\section{If you have questions or
+concerns}\label{if-you-have-questions-or-concerns}}
+
+If you have any queries about what is discussed here, you can email me,
+phone me, visit me in my office, or talk to me in class.
+
+You may also contact my Head of Department, Professor Rod McNaughton,
+Department of Management and International Business, The University of
+Auckland Business School, Private Bag 92019, Auckland; Telephone 09 923
+7524.
+
+For any queries regarding ethical concerns, you may contact the Chair,
+The University of Auckland Human Participants Ethics Committee, The
+University of Auckland, Research Office, Private Bag 92019, Auckland
+1142. Telephone 09 373-7599 ext. 83711. Email:
+\href{mailto:ro-thics@auckland.ac.nz}{\nolinkurl{ro-thics@auckland.ac.nz}}
+
+\hypertarget{approvals}{%
+\section{Approvals}\label{approvals}}
+
+Approved by the University of Auckland Human Participants Committee on
+28 July 2017 for three (3) years, Reference number 019395.
+
+\hypertarget{engineering}{%
+\chapter{The historical roots of engineering}\label{engineering}}
+
+The purpose of this section is to provide an overview of the historical
+context from which a variety of engineering disciplines have emerged.
+The compilation of any history of engineering requires the researcher to
+make choices as to what is, and what is not, included. This applies as
+much to the selection of which disciplines of engineering to review, as
+to the events and pressures that shaped the profession. Consequently,
+this history does not address the role of engineers in, for instance,
+nuclear engineering or microelectronics. Instead, the disciplines with
+greater relevance to Arlington are emphasised. Such editing is a
+necessity of space and time.
+
+The etymology of engineer is found in the notion of one who does
+something ingenious (Oxford University Press, 1989); that is, ``a person
+possessing an innovative mind and skilful hands'', an ``ingeniator''
+(Harms, 2004, p.~3). Though some engineers, trace their heritage as
+ingeniators to prehistoric tool making (Harms, 2004), it is during the
+Renaissance (circa 1300--1699), that the beginning of modern engineering
+becomes more apparent (Garrison, 1998). During that time, engineers
+adopted mathematical methods to tackle a variety of problems such as
+statics (the mechanics of rigid bodies), ballistics, and topographical
+surveying. They drew on systematic empirical investigation and adopted
+scientific language (Armytage, 1976; Garrison, 1998; Norrie, 1956). The
+use of mathematical methods, together with the adoption of scientific
+method marks, the transition of engineering from an occupation based on
+artisanship towards one more resembling the modern profession. During
+the seventeenth and eighteen centuries, engineers progressively
+formalised their training. Until about 1760, most engineering was
+associated with governmental works including ``the constructional
+requirements of \ldots{} dockyards and harbours, of land fortifications
+and of roads built for the better travel of troops rather than for civil
+needs'' (Norrie, 1956, p.~6). The need for such military engineering led
+to the establishment of the French corps of engineers. The formation of
+the Corps de Ponts et Chaussées (of bridges and roads) in 1716 was
+followed by the founding of an engineering school, L'École des Ponts et
+Chaussées in 1747 (Armytage, 1976). The creation of this school was
+followed a by number of others and it became the model for L'École
+Polytechnique both in and beyond France (Garrison, 1998). The academic
+leadership of French engineering led to the publication of the first
+civil engineering reference books. Two of the most notable are Science
+des Ingénieurs in 1729 and Architecture Hydraulique in 1737. The first
+of these were in print for over one-hundred years (Norrie, 1956).
+
+Engineers were also involved in the formation of professional societies.
+In England, a meeting in 1660 to discuss ``the founding of a colledge
+for the promoting of Physico-Mathematicall Experimentall Learning''
+culminated in the creation of the Royal Society in 1662 (Armytage, 1976,
+p.~77). During the eighteenth century, the meaning of engineer grew to
+encompass those undertaking civil works. The applications of civil
+engineering included the construction of canals, bridges, and wharves
+(Garrison, 1998). John Smeaton, the builder of the Eddystone Lighthouse,
+founded the Society for Civil Engineers in 1771. The Smeatonian Society,
+as it was sometimes called, the first of its kind, was an expression of
+the professional interests of its members in civil engineering (Norrie,
+1956). It led to the establishment of the Institution of Civil Engineers
+in 1818 and, in turn, to the first English school of engineering in 1827
+at King's College in London (Norrie, 1956). In America, civil engineers
+created their professional society, the American Society of Civil
+Engineers and Architects, in 1852.
+
+Aside from civil engineering, other engineering specialisations arose.
+Mechanical engineers were at the forefront of the industrial revolution
+(Garrison, 1998). They brought their knowledge and skill to improving
+waterpower and to the development of steam power. Alongside these
+advances, engineers created new processes for manufacturing iron and
+steel. Mining engineers, in expediting the supply of coal and iron ore,
+facilitated this. Mass-production of iron and steel, together with steam
+power, enabled the creation of much of the of transportation
+infrastructure in the form of steamships and railways (Garrison, 1998).
+With the expansion of the railways came greater demand for bridges,
+often constructed from the new mass-produced iron and steel. The rise of
+the steamship also produced the new engineering discipline of naval
+engineering (Armytage, 1976). These new engineers drew on the practices
+of other engineering disciplines. For example, similar to bridge
+designers, they utilised physical models to predict more accurately the
+performance of their designs using a combination of mathematics,
+experimentation, and intuition.
+
+In Germany, a new breed of engineers, chemical engineers, were advancing
+industrial chemistry (Armytage, 1976; Harms, 2004). The variety of
+products produced by chemical engineering include dyes, drugs,
+explosives, acids, organic chemicals and other ``fine chemicals''
+(Garrison, 1998). Nevertheless, engineers were not concerned solely with
+commerce; epidemiological studies in the mid-1800s highlighted the
+necessity of potable water supplies and separate sewage disposal
+resulting in the emergence of sanitary and hydraulic engineers. The
+first electrical engineers also appeared during this period. The work of
+Michael Faraday, André-Marie Ampere, and others, led to the emergence,
+and widespread distribution, of the electrical industry (Garrison,
+1998). Innovations such as electric lighting, the telegraph, and the
+accompanying electrification of cities changed the way people worked and
+lived. Power for the new electrical networks came from steam turbines or
+from waterpower. For example, in 1893, Westinghouse won the contract to
+build generators powered by the water from Niagara Falls. Such
+large-scale projects necessitated the effort of many engineers across
+many specialisations, working together with those contracted for
+construction.
+
+During the nineteenth century, there were significant changes in the way
+that construction was undertaken. Until that time, casual labour was
+utilised to undertake public works. However, those who funded such works
+increasingly sought ``binding commitments to cover all the risks and
+responsibilities of construction'' (Norrie, 1956, p.~89) and guarantees
+against contractors failing to complete the contracted work. As a
+result, contractors changed from being simple suppliers of organised
+labour to ``men of greater calibre to carry the executive burden''
+(Norrie, 1956, p.~89). As British engineers and navvies were employed
+overseas, the new contracting methods spread to France and beyond.
+Contracting for construction work developed into a project-based
+business. Even in the early days the ``contractor's assets could
+generally be easily realized and a business be wound up without undue
+loss, and many with good profits took advantage of this'' (Norrie, 1956,
+p.~97). One result of the move to contracting was that for any project
+there were often three parties involved: the client, who would fund the
+project; the engineer who would do the design work; and the contractor,
+who would actually build the project, often under the partial
+supervision of the engineer. Such tripartite arrangements predominate
+even to this day. The traditional approach is for the client to select a
+designer (an engineering firm or an architectural firm) and a contractor
+(who will actual build what is designed) through a process of
+competitive bidding (Beard, Loulakis, \& Wundram, 2001). If multiple
+forms of design work are required, such as structural engineering and
+fire engineering, then a lead design firm may tender for the work in
+conjunction with other, subcontracted, firms. Similarly, if the
+construction of the project requires multiple contractors, a lead
+contractor will engage sub-contractors and sub-trades as necessary. This
+process is known as the design-bid-build project delivery method. The
+twentieth century saw the rise of new forms of engineering, including
+petroleum engineering, aeronautical or aerospace engineering, electronic
+engineering, biomedical engineering, and other specialties.
+Classification of engineers, such as mechanical or civil engineers, is
+illustrative of how engineering is associated with the classes of
+devices they produce (Harms, 2004). For the purpose of this thesis, the
+major categorisations of contemporary engineering are civil, mechanical,
+electrical, structural, water, material, surveying, transportation,
+urban, and industrial.
+
+\hypertarget{course-outline}{%
+\chapter{Course outline}\label{course-outline}}
+
+\hypertarget{course-prescription}{%
+\section{Course prescription}\label{course-prescription}}
+
+Students will become familiar with current theory and practice as well
+as methodological debates in the use of qualitative methodologies,
+including ethnography, case studies, archival research, participant
+observation, interview and focus group methods, as well as transcription
+and analysis. A workshop on coding qualitative data will be included.
+
+TODO: Insert the formal PDF here
+
+\hypertarget{references}{%
+\chapter{References}\label{references}}
+
+\printbibliography
+
+
+\end{document}

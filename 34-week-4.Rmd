@@ -45,26 +45,26 @@ group of researchers who collaborated in an ethnographic study.
 
 
 1. Read Chapter 8 of Myers
-  [-@myers_2013_qualitativeresearchbusiness p. 92--103] &mdash; 30 minutes.
+  [-@myers_2013_qualitativeresearchbusiness p. 92--103] --- 30 minutes.
 
 2. Draw a concept map that distinguishes/highlights the differences
    between interview (as you currently understand it) and ethnographic
    interviewing (hint: you might find something useful in the Handbook
    of Ethnography on the SAGE Research Methods website. You should
    focus on the major features of the two data collection methods, and
-   how those features are connected to one another &mdash; 45 minutes.
+   how those features are connected to one another --- 45 minutes.
 
 3. Review the notion of transferability on the SAGE Research Methods
-   website &mdash; 30 minutes.
+   website --- 30 minutes.
 
 4. Read Smets _et al_., [@smets_2015_reinsurancetradinglloyd] and the
    the complimentary article by Jarzabkowski and colleagues
    [@jarzabkowski_2015_conductingglobalteambased]. You should
    concentrate on the methods (data collection and analysis) rather
-   than on the topic of the research &mdash; 60 minutes.
+   than on the topic of the research --- 60 minutes.
 
 5. The _quid pro quo_ of that research was primarily an industry
-   report which can be found at  https://www.sbs.ox.ac.uk/sites/default/files/research_showcase/Smets-lloyds/beyond-borders-resinsurance-industry-cass-knowledge.pdf. Skim the report &mdash; 15 minutes.
+   report which can be found at  https://www.sbs.ox.ac.uk/sites/default/files/research_showcase/Smets-lloyds/beyond-borders-resinsurance-industry-cass-knowledge.pdf. Skim the report --- 15 minutes.
    
    
 6. Be prepared to answer the following questions regarding the aforementioned research:
@@ -77,16 +77,16 @@ group of researchers who collaborated in an ethnographic study.
    - Evaluate the quality of their research.
    - How have they achieved transferability?
    - And any other insights about their approach they went about doing
-     qualitative research in that project &mdash; 60 minutes in total.
+     qualitative research in that project --- 60 minutes in total.
 
 7. Go to Google Scholar and search for "smets reinsurance", skim the
    articles. How many publications (and over what period) can you identify that
    Smet/Jarzabkowski and colleagues produced from their ethnographic
-   data set? &mdash; 30 minutes.
+   data set? --- 30 minutes.
    
 8. Consider the advantages and disadvantages of ethnography research
    identified by Myers. How do you see those playing out in the work
-   of Smets/Jarzabkowski and colleagues? &mdash; 30 minutes.
+   of Smets/Jarzabkowski and colleagues? --- 30 minutes.
    
 
 ## Second class {-}
@@ -116,33 +116,33 @@ limitations, and so we look to hermeneutics and semiotics.
 1. Read Chapter 14 of Myers [-@myers_2013_qualitativeresearchbusiness
   p. 183--196]. Make sure that you track down and read the exemplar
   discussed on page 191; i.e., Myers
-  [-@myers_1994_disastereveryonesee] &mdash; 75 minutes.
+  [-@myers_1994_disastereveryonesee] --- 75 minutes.
 
 
 2. Read Chapter 15 of Myers [-@myers_2013_qualitativeresearchbusiness
-  p. 197--208] &mdash; 60 minutes.
+  p. 197--208] --- 60 minutes.
 
 3. Read the paper by Barley [-@barley_1990_imagesimagingnotes] on his
-   classic study [-@barley_1986_technologyoccasionstructuring  whic
-   you do not need to read] &mdash; 60 minutes.
+   classic study [-@barley_1986_technologyoccasionstructuring  which
+   you do not need to read] --- 60 minutes.
 
 4. Your final reading is by Denzin
    [-@denzin_1987_semioticssymbolicinteractionism] and locates
    symbolic interactionism---re, Barley---and semiotics. It is dense at
    times, and you should skip over the bits that do not make sense to
-   you. Focus on the examples of analysis &mdash; 45 minutes.
+   you. Focus on the examples of analysis --- 45 minutes.
 
 3. Having read about thematic analysis, hermeneutics and semiotics
    draw a concept map show how they are different from one another
    (this should help you focus on how they are different in 'doing'
-   them as an analysis technique) &mdash; 30 minutes.
+   them as an analysis technique) --- 30 minutes.
    
 
 4. Read the 'discussion' on StackExchange Academia on work-life
    balance re teaching and research
    (https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-resear).
    Do a 'first cut' analysis, first using hermeneutics, then using
-   semiotics. What insights do you get? &mdash; 120 minutes.
+   semiotics. What insights do you get? --- 120 minutes.
    
    Note the discussion is not perfectly suited to either form of
    analysis; then again, what data ever is perfect?

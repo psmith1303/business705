@@ -13,9 +13,9 @@ Arlington are emphasised. Such editing is a necessity of space and
 time.
 
 The etymology of engineer is found in the notion of one who does
-something ingenious (Oxford University Press, 1989); that is, “a
-person possessing an innovative mind and skilful hands”, an
-“ingeniator” (Harms, 2004, p. 3). Though some engineers, trace their
+something ingenious (Oxford University Press, 1989); that is, "a
+person possessing an innovative mind and skilful hands", an
+"ingeniator" (Harms, 2004, p. 3). Though some engineers, trace their
 heritage as ingeniators to prehistoric tool making (Harms, 2004), it
 is during the Renaissance (circa 1300–1699), that the beginning of
 modern engineering becomes more apparent (Garrison, 1998). During that
@@ -29,15 +29,15 @@ of engineering from an occupation based on artisanship towards one
 more resembling the modern profession. During the seventeenth and
 eighteen centuries, engineers progressively formalised their training.
 Until about 1760, most engineering was associated with governmental
-works including “the constructional requirements of … dockyards and
+works including "the constructional requirements of … dockyards and
 harbours, of land fortifications and of roads built for the better
-travel of troops rather than for civil needs” (Norrie, 1956, p. 6).
+travel of troops rather than for civil needs" (Norrie, 1956, p. 6).
 The need for such military engineering led to the establishment of the
 French corps of engineers. The formation of the Corps de Ponts et
 Chaussées (of bridges and roads) in 1716 was followed by the founding
-of an engineering school, L’École des Ponts et Chaussées in 1747
+of an engineering school, L'École des Ponts et Chaussées in 1747
 (Armytage, 1976). The creation of this school was followed a by number
-of others and it became the model for L’École Polytechnique both in
+of others and it became the model for L'École Polytechnique both in
 and beyond France (Garrison, 1998). The academic leadership of French
 engineering led to the publication of the first civil engineering
 reference books. Two of the most notable are Science des Ingénieurs in
@@ -45,9 +45,9 @@ reference books. Two of the most notable are Science des Ingénieurs in
 print for over one-hundred years (Norrie, 1956).
 
 Engineers were also involved in the formation of professional
-societies. In England, a meeting in 1660 to discuss “the founding of a
+societies. In England, a meeting in 1660 to discuss "the founding of a
 colledge for the promoting of Physico-Mathematicall Experimentall
-Learning” culminated in the creation of the Royal Society in 1662
+Learning" culminated in the creation of the Royal Society in 1662
 (Armytage, 1976, p. 77). During the eighteenth century, the meaning of
 engineer grew to encompass those undertaking civil works. The
 applications of civil engineering included the construction of canals,
@@ -57,7 +57,7 @@ in 1771. The Smeatonian Society, as it was sometimes called, the first
 of its kind, was an expression of the professional interests of its
 members in civil engineering (Norrie, 1956). It led to the
 establishment of the Institution of Civil Engineers in 1818 and, in
-turn, to the first English school of engineering in 1827 at King’s
+turn, to the first English school of engineering in 1827 at King's
 College in London (Norrie, 1956). In America, civil engineers created
 their professional society, the American Society of Civil Engineers
 and Architects, in 1852.
@@ -83,7 +83,7 @@ of mathematics, experimentation, and intuition.
 In Germany, a new breed of engineers, chemical engineers, were
 advancing industrial chemistry (Armytage, 1976; Harms, 2004). The
 variety of products produced by chemical engineering include dyes,
-drugs, explosives, acids, organic chemicals and other “fine chemicals”
+drugs, explosives, acids, organic chemicals and other "fine chemicals"
 (Garrison, 1998). Nevertheless, engineers were not concerned solely
 with commerce; epidemiological studies in the mid-1800s highlighted
 the necessity of potable water supplies and separate sewage disposal
@@ -103,17 +103,17 @@ those contracted for construction.
 During the nineteenth century, there were significant changes in the
 way that construction was undertaken. Until that time, casual labour
 was utilised to undertake public works. However, those who funded such
-works increasingly sought “binding commitments to cover all the risks
-and responsibilities of construction” (Norrie, 1956, p. 89) and
+works increasingly sought "binding commitments to cover all the risks
+and responsibilities of construction" (Norrie, 1956, p. 89) and
 guarantees against contractors failing to complete the contracted
 work. As a result, contractors changed from being simple suppliers of
-organised labour to “men of greater calibre to carry the executive
-burden” (Norrie, 1956, p. 89). As British engineers and navvies were
+organised labour to "men of greater calibre to carry the executive
+burden" (Norrie, 1956, p. 89). As British engineers and navvies were
 employed overseas, the new contracting methods spread to France and
 beyond. Contracting for construction work developed into a
-project-based business. Even in the early days the “contractor’s
+project-based business. Even in the early days the "contractor's
 assets could generally be easily realized and a business be wound up
-without undue loss, and many with good profits took advantage of this”
+without undue loss, and many with good profits took advantage of this"
 (Norrie, 1956, p. 97). One result of the move to contracting was that
 for any project there were often three parties involved: the client,
 who would fund the project; the engineer who would do the design work;

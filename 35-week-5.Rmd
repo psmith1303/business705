@@ -42,25 +42,25 @@ Our first class of the week will focus on (a) bringing you speed on
 ### Prep and tasks {-}
 
 1. Read Chapter 9 of Myers [-@myers_2013_qualitativeresearchbusiness
-  p. 209--220] to get an overview on Grounded Theory &mdash; 30
+  p. 209--220] to get an overview on Grounded Theory --- 30
   minutes.
 
 2. For the leading two or three journals in your own field, say,
    entrepreneurship, do a search and see how grounded theory has been
-   used. Be prepared to report back on your findings &mdash; 30 minutes
+   used. Be prepared to report back on your findings --- 30 minutes
 
 3. Visit the SAGE Research methods website: read chapters 1--3 and
    chapter 5 of [Urquhart's
    book]([http://methods.sagepub.com/book/grounded-theory-for-qualitative-research) [@urquhart_2017_groundedtheoryqualitative] on
-   grounded theory &mdash 210 minutes.
+   grounded theory --- 210 minutes.
    
    
 4. Review the coding by Smets and his colleagues, how would you
    describe it now (bottom-up, top-down, middle-range, or thematic)?
-   &mdash; 30 minutes.
+   --- 30 minutes.
 
 5. Using whichever QDA tool you feel most comfortable with, go back to
-   Appendix \@ref(engineering) and try open coding it &mdash; 30
+   Appendix \@ref(engineering) and try open coding it --- 30
    minutes.
 
 6. Return to the 'discussion'
@@ -70,7 +70,7 @@ Our first class of the week will focus on (a) bringing you speed on
    Start with a general research problem. Draw some diagrams and make
    a few theoretical notes. Generate some research questions based on
    your theoretical coding? Can you come up with a theory about
-   academics and work-life balance? &mdash; 120 minutes.
+   academics and work-life balance? --- 120 minutes.
    
 
 ## Second class {-}
@@ -103,17 +103,17 @@ of late.
 ### Prep and tasks {-}
 
 1. Read the paper by Gioia and his co-authors on the 'Gioia method'
-   [@gioia_2013_seekingqualitativerigor] &mdash; 30 minutes.
+   [@gioia_2013_seekingqualitativerigor] --- 30 minutes.
 
 2. Draw a concept map linking the key tenets of the Gioia method to
-   grounded theory? &mdash; 15 minutes.
+   grounded theory? --- 15 minutes.
    
 3. Review the article by Gioia and Thomas
-   [-@gioia_1996_identityimageissue]&mdash;it one of Gioia's exemplars
+   [-@gioia_1996_identityimageissuea]---it one of Gioia's exemplars
    and was published in one of the leading _quantitative_ journals,
    which is quite an achievement for a piece of qualitative research.
-   How closely do Gioia and Thomas follow the Gioia method? &mdash 45
-   minutes.
+   How closely do Gioia and Thomas follow the Gioia method? --- 45
+   minutes. 
    
    If you are not familiar with the idea of sensemaking, there is a
    nice/short literature review by Brown et al.
@@ -123,11 +123,11 @@ of late.
    [@anand_2007_knowledgebasedinnovationemergence], is also one of the
    exemplars cited by Gioia et al,
    [-@gioia_2013_seekingqualitativerigor]. Review the paper and
-   evaluate how close it follows Gioia's method &mdash 45 minutes.
+   evaluate how close it follows Gioia's method --- 45 minutes.
    
 4. For the exemplars you have read assess their transferability. Do
    you agree with the stance taken by Gioia et al
-   [-@gioia_2013_seekingqualitativerigor]? &mdash 30 minutes.
+   [-@gioia_2013_seekingqualitativerigor]? --- 30 minutes.
 
    
 4. For a third time, return to the 'discussion' on StackExchange
@@ -135,9 +135,8 @@ of late.
    (https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-researc),
    which you should be rather familiar now, and apply the Gioia
    method. Write-up your results following the advice of Gioia et al.
-   [-@gioia_2013_seekingqualitativerigor] &mdash; 120 minutes.
+   [-@gioia_2013_seekingqualitativerigor] --- 120 minutes.
    
-5. 
 
 ## End of week {-}
 

@@ -85,10 +85,10 @@ intelligible to your colleagues).
 
 1. Review "Choosing an academic home"
   [@huff_2009_designingresearchpublication]
-  &mdash; 30 minutes;
+  --- 30 minutes;
 
   - *Describe* the academic conversation to which you wish to make a
-    contribution &mdash; 30 minutes.
+    contribution --- 30 minutes.
 
   - Given the characteristics of your choose academic conversation,
     *discuss* the extent to which there are well understood patterns
@@ -97,20 +97,20 @@ intelligible to your colleagues).
     an overarching agenda has been established"
     [@huff_2009_designingresearchpublication p. 87]. What are the
     implications of those patterns for the choice of methods in your
-    conversation? &mdash; 60 minutes.
+    conversation? --- 60 minutes.
 	  
 
 2. Read "Part I" and "Part 2" of Myers
-  [-@myers_2013_qualitativeresearchbusiness p. 3--56] &mdash; 120
+  [-@myers_2013_qualitativeresearchbusiness p. 3--56] --- 120
   minutes.
 
   - *Summarise* the main 'big ideas' that underpin Chapter 2 of the
     textbook. What parallels, if any, are there with other books and
-    articles you have read? &mdash; 20 minutes.
+    articles you have read? --- 20 minutes.
   
   - *Compare and contrast* the role of philosophic assumptions as
 	presented by Myers [-@myers_2013_qualitativeresearchbusiness] and
-	Huff [-@huff_2009_designingresearchpublication] &mdash; 40
+	Huff [-@huff_2009_designingresearchpublication] --- 40
 	minutes.
 
 3. The University of Auckland has a processes and policies around
@@ -121,14 +121,14 @@ intelligible to your colleagues).
    https://www.auckland.ac.nz/en/about/research/re-ethics/re-uahpec.html.
    Read the "Guiding Principles for conducting research with human
    participants"
-   [@theuniversityofauckland_2013_guidingprinciplesconducting] &mdash;
+   [@theuniversityofauckland_2013_guidingprinciplesconducting] ---
    40 minutes.
 
    - *Discuss* the relationships that exist---or their lack---between
 	  Myers [-@myers_2013_qualitativeresearchbusiness], Huff
 	  [-@huff_2009_designingresearchpublication] and the University's
 	  "Guiding principles ..." with regard to ethics in conducting
-	  research &mdash; 20 minutes.
+	  research --- 20 minutes.
 
 ## Second class {-}
 
@@ -201,40 +201,40 @@ What are the pros and cons of each (and both)
 ### Prep and tasks {-}
 
 1. Read chapter 9 of Huff [-@huff_2009_designingresearchpublication]
-   &mdash; 20 minutes.
+   --- 20 minutes.
    
    - *Identify* the likely types of goals when using interviews, for
-     positivist, interpretivist, and critical research &mdash; 40
+     positivist, interpretivist, and critical research --- 40
      minutes.
 
 
 2. Read the start of "Part IV" of Myers
-  [-@myers_2013_qualitativeresearchbusiness p. 117--135] &mdash; 60 minutes.
+  [-@myers_2013_qualitativeresearchbusiness p. 117--135] --- 60 minutes.
   
 3. *Develop* a script [-@myers_2013_qualitativeresearchbusiness p. 129]
    (including an interview guide) for a structured interview on the
    topic of "The difference between interpretivist, positivist, and
-   critical forms of research" &mdash; 30 minutes.
+   critical forms of research" --- 30 minutes.
 
 4. *Develop* a script (including an interview guide) for a
    semi-structured interview on the topic of "The most useful article
-   (not book) you ever read about research methods" &mdash; 30 minutes.
+   (not book) you ever read about research methods" --- 30 minutes.
 
 
 5. Explore the 'little blue books' at SAGE research methods site
    http://methods.sagepub.com.ezproxy.auckland.ac.nz/.
    - Select one book that focuses on interviewing; spend an hour skim
-     reading, and then *summarise* the book &mdash; 90 minutes.
+     reading, and then *summarise* the book --- 90 minutes.
 
 6. Use the SAGE research methods site again, and find "The SAGE
    Handbook of interview research: The complexity of the craft" and
-   read Chapter 15 [@wang_2017_sagehandbookinterview] &mdash; 60
+   read Chapter 15 [@wang_2017_sagehandbookinterview] --- 60
    minutes.
    
-   - *Identify* that chapter's main message &mdash; 10 minutes.
+   - *Identify* that chapter's main message --- 10 minutes.
    
 7. Having done tasks 4--6, do you need to revise your interview
-   scripts (yes/no)? &mdash; 10 minutes.
+   scripts (yes/no)? --- 10 minutes.
 
 ## End of week {-}
 

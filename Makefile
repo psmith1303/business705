@@ -4,8 +4,10 @@
 BIB_MASTER=/home/psmith/NAS/Work/Research/Citations/bibs/psmithLibrary.bib
 BIB_LOCAL=book.bib
 TEMPFILE=temp.tmp
+IMAGES=images
 
-all: book pdf epub bibliography
+
+all: $(IMAGES) book pdf epub bibliography 
 
 book: bibliography
 	Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
@@ -26,7 +28,13 @@ bibliography:
 
 	rm -f business705.Rmd $(TEMPFILE)
 
-
-
-
 .PHONY: book
+
+.PHONY: images $(IMAGES)
+
+
+images: $(IMAGES)
+
+$(IMAGES):
+	$(MAKE) -C $@
+
