@@ -5,21 +5,22 @@
 
 There are four types of assessment in this course:
 
-+---+---------------------------------------+--------------------------------+-------------+
-|   |                                       |                                | Approximate |
-|   | Assessment                            | When and where due             | Weighting   |
-+---+---------------------------------------+--------------------------------+-------------+
-| 1 | [Weekly learning journal (LJ)](#ass1) | 17:00 on Thursday (weeks 1--5) | 25 %        |
-|   |                                       | Via canvas                     |             |
-+---+---------------------------------------+--------------------------------+-------------+
-| 2 | [Peer evaluation of LJs](#ass2)       | 17:00 on Friday (weeks 1--5)   | 15 %        |
-|   |                                       | Via canvas                     |             |
-+---+---------------------------------------+--------------------------------+-------------+
-| 3 | [Summative learning journal](#ass3)   | 17:00 on 1 September           | 50 %        |
-|   |                                       | Via canvas                     |             |
-+---+---------------------------------------+--------------------------------+-------------+
-| 4 | [Participation](#ass4)                | In-class, every class          | 10 %        |
-+---+---------------------------------------+--------------------------------+-------------+
++---+---------------------------------------+-------------+
+|   |                                       | Approximate |
+|   | Assessment                            | Weighting   |
++---+---------------------------------------+-------------+
+| 1 | [Weekly learning journal (LJ)](#ass1) | 25 %        |
+|   |                                       |             |
++---+---------------------------------------+-------------+
+| 2 | [Peer evaluation of LJs](#ass2)       | 15 %        |
+|   |                                       |             |
++---+---------------------------------------+-------------+
+| 3 | [Summative learning journal](#ass3)   | 50 %        |
+|   |                                       |             |
++---+---------------------------------------+-------------+
+| 4 | [Participation](#ass4)                | 10 %        |
++---+---------------------------------------+-------------+
+
 
 All of the assessments are relevant to
 the [learning objectives](#learning-objectives).
@@ -31,42 +32,79 @@ the six weeks of the course.
 
 All of the assessment takes place within the six weeks that the course runs.
 
-| Week  | Day | Date | Class Participation | Learning journal activity | Due |
-| 1 | Monday | 16-Jul |  |  |  |
-|  | Tuesday | 17-Jul |  |  |  |
-|  | Wednesday | 18-Jul | 16:00-19:00 |  |  |
-|  | Thursday | 19-Jul |  | Learning 01 journal due | 17:00 |
-|  | Friday | 20-Jul | 09:00-12:00 | Peer review 01 due | 17:00 |
-|  |  |  |  |  |  |
-| 2 | Monday | 23-Jul |  | Learning 02 journal due | 17:00 |
-|  | Tuesday | 24-Jul |  | Peer review 02 due | 17:00 |
-|  | Wednesday | 25-Jul | 16:00-19:00 |  |  |
-|  | Thursday | 26-Jul |  | Learning 03 journal due | 17:00 |
-|  | Friday | 27-Jul | 09:00-12:00 | Peer review 03 due | 17:00 |
-|  |  |  |  |  |  |
-| 3 | Monday | 30-Jul |  | Learning 04 journal due | 17:00 |
-|  | Tuesday | 31-Jul |  | Peer review 04 due | 17:00 |
-|  | Wednesday | 01-Aug | 16:00-19:00 |  |  |
-|  | Thursday | 02-Aug |  | Learning 05 journal due | 17:00 |
-|  | Friday | 03-Aug | 09:00-12:00 | Peer review 05 due | 17:00 |
-|  |  |  |  |  |  |
-| 4 | Monday | 06-Aug |  | Learning 06 journal due | 17:00 |
-|  | Tuesday | 07-Aug |  | Peer review 06 due | 17:00 |
-|  | Wednesday | 08-Aug | 16:00-19:00 |  |  |
-|  | Thursday | 09-Aug |  | Learning 07 journal due | 17:00 |
-|  | Friday | 10-Aug | 09:00-12:00 | Peer review 07 due | 17:00 |
-|  |  |  |  |  |  |
-| 5 | Monday | 13-Aug |  | Learning 08 journal due | 17:00 |
-|  | Tuesday | 14-Aug |  | Peer review 08 due | 17:00 |
-|  | Wednesday | 15-Aug | 16:00-19:00 |  |  |
-|  | Thursday | 16-Aug |  | Learning 09 journal due | 17:00 |
-|  | Friday | 17-Aug | 09:00-12:00 | Peer review 09 due | 17:00 |
-|  |  |  |  |  |  |
-| 6 | Monday | 20-Aug |  | Learning 10 journal due | 17:00 |
-|  | Tuesday | 21-Aug |  | Peer review 10 due | 17:00 |
-|  | Wednesday | 22-Aug | 16:00-19:00 |  |  |
-|  | Thursday | 23-Aug |  |  |  |
-|  | Friday | 24-Aug | 09:00-12:00 | Summative learning journal | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+| Week  | Day       | Date   | Class Participation | Learning journal activity | Due   |
++-------+-----------+--------+---------------------+---------------------------+-------+
+| 1     | Monday    | 16-Jul |                     |                           |       |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Tuesday   | 17-Jul |  |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Wednesday | 18-Jul | 16:00-19:00 |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Thursday  | 19-Jul |  | Learning 01 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Friday    | 20-Jul | 09:00-12:00 | Peer review 01 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       |  |  |  |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+| 2     | Monday    | 23-Jul |  | Learning 02 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Tuesday   | 24-Jul |  | Peer review 02 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Wednesday | 25-Jul | 16:00-19:00 |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Thursday  | 26-Jul |  | Learning 03 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Friday    | 27-Jul | 09:00-12:00 | Peer review 03 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       |  |  |  |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+| 3     | Monday    | 30-Jul |  | Learning 04 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Tuesday   | 31-Jul |  | Peer review 04 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Wednesday | 01-Aug | 16:00-19:00 |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Thursday  | 02-Aug |  | Learning 05 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Friday    | 03-Aug | 09:00-12:00 | Peer review 05 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       |  |  |  |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+| 4     | Monday    | 06-Aug |  | Learning 06 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Tuesday   | 07-Aug |  | Peer review 06 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Wednesday | 08-Aug | 16:00-19:00 |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Thursday  | 09-Aug |  | Learning 07 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Friday    | 10-Aug | 09:00-12:00 | Peer review 07 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       |  |  |  |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+| 5     | Monday    | 13-Aug |  | Learning 08 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Tuesday   | 14-Aug |  | Peer review 08 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Wednesday | 15-Aug | 16:00-19:00 |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Thursday  | 16-Aug |  | Learning 09 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Friday    | 17-Aug | 09:00-12:00 | Peer review 09 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       |  |  |  |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+| 6     | Monday    | 20-Aug |  | Learning 10 journal due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Tuesday   | 21-Aug |  | Peer review 10 due | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Wednesday | 22-Aug | 16:00-19:00 |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Thursday  | 23-Aug |  |  |  |
++-------+-----------+--------+---------------------+---------------------------+-------+
+|       | Friday    | 24-Aug | 09:00-12:00 | Summative learning journal | 17:00 |
++-------+-----------+--------+---------------------+---------------------------+-------+
 
 
 ## Learning objectives {#LO}
@@ -81,18 +119,12 @@ to:
 
 1. select qualitative research methods that are appropriate to the
    research conversation in which the student wishes to participate;
-2. be proficient in use tools and techniques to collect qualitative
-   data;
-3. be proficient in use tools and techniques to analyse qualitative
-   data;
-4. effectively communicate the findings arising from the collection and
-   analysis of qualitative data;
-5. describe how the choices you make around the collection, analysis,
-   and presentation of qualitative data is congruent with your chosen
-   research conversation;
-6. evaluate the quality of qualitatively-based research methods; while,
-7. employing the tools and techniques of qualitative research methods
-   in a manner that is ethical.
+2. be proficient in use tools and techniques in qualitative
+   research;
+3. effectively communicate the findings arising from qualitative research;
+4. justify the choices made around the collection, analysis, and
+   presentation of qualitative data, congruent with your chosen
+   research conversation.
 
 ## Weekly learning journals {#ass1}
 
@@ -109,16 +141,16 @@ plethora of articles extolling their virtues. Broadly, learning
 journals foster high quality self-reflection and increase critical
 thinking. 
 
-You are to maintain a weekly learning journal. Later, you are to use
-the your weekly journal as the 'data' for
+You are to maintain a learning journal. Later, you are to use
+the your journal entries as the 'data' for
 a [summative learning journal](#ass4)/essay on your major learnings
 from this course.
 
 ### Task overview {-}
 
-For each of the first five weeks of the course you are to write a
-learning journal entry of at least 300 words. The more you write the
-more grist you will have for your [summative learning journal](#ass4).
+During the course you are to write 10 learning journals of at least
+400 words. The more you write the more grist you will have for your
+[summative learning journal](#ass4).
 
 In each of your learning journal entries, you are to explore the
 linkages between the theoretical content of the course; e.g., the
@@ -129,7 +161,7 @@ material from other courses; indeed, you should make linkages to
 BUSINESS 710.
 
 Ultimately, you should be considering the real difference the course
-is making to your thinking and behaviour.
+is making to your thinking and behaviour around qualitative research.
 
 ### What does a good learning journal look like? {-}
 
@@ -179,7 +211,7 @@ characteristic of qualitative research and its researchers
 
 Each week you must review, provide feedback on, and evaluate the
 learning journals of two of your colleagues. Over the course you will
-write 10 sets of feedback. Your primary goal in providing feedback is to help
+write 20 sets of feedback. Your primary goal in providing feedback is to help
 the author do a better job next time. If you feedback does not achieve
 that, then the author can rightly complain about the quality of your
 feedback (and that will affect your marks).
