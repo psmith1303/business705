@@ -94,6 +94,13 @@ For many of these tasks, you will need to engage in some independent research.
     - Keep a research log of what you did and why you did it.
     - Bring your case description (and research log) to class.
 
+### Post class reflection
+
+With the first class of the week behind you, it is time for you to reflect on what
+you have learnt and write-up your learning journal (Section
+\@ref(ass1) &dash; 90 minutes). You can then do your review your allocated learning
+journals of you  peers (Section \@ref(ass1) &dash; 60 minutes).
+
 
 ## Second class {-}
 
@@ -175,9 +182,13 @@ Make a crib-sheet.
 5. Now, on a PC in one of the labs, do the same thing but try out
    nVivo --- 90 minutes.
 
-## End of week {-}
+## Post class reflection {-}
 
-With the week's classes behind you, it is time to do your learning
-journal (Section \@ref(ass1) &dash; 60 minutes) and then do your
-review the learning journals of your peers (Section \@ref(ass1) &dash;
-60 minutes).
+With the second class of the week behind you, it is time for you to
+reflect on what you have learnt and write-up your learning journal
+(Section \@ref(ass1) &dash; 90 minutes). You can then do your review
+of your allocated peers' learning (Section \@ref(ass1) &dash; 60
+minutes).
+
+Given the scheduling, you might choose to do this at the start of the next week.
+

@@ -71,6 +71,14 @@ focus on that task.
 5. Write a detailed *outline* (not a draft, unless you are feeling
    ambitious) of your summative learning journal and bring it to class
    --- 180 minutes.
+   
+### Post class reflection
+
+With the first class of the week behind you, it is time for you to reflect on what
+you have learnt and write-up your learning journal (Section
+\@ref(ass1) &dash; 90 minutes). You can then do your review your allocated learning
+journals of you  peers (Section \@ref(ass1) &dash; 60 minutes).
+
 
 ## Second class {-}
 
@@ -92,7 +100,7 @@ This class is dedicated to your summative learning journals. If you have no ques
    --- 360 minutes.
 
 
-## End of week {-}
+## End of the course {-}
 
 The course is pretty much over now. All you need to do now is polish
 up your summative learning journal (Section \@ref(ass3)) --- 120

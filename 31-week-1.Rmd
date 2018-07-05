@@ -1,4 +1,4 @@
-cd# Week one {#w1-details}
+# Week one {#w1-details}
 
 Having successfully completed the research design course (BUSINESS
 710), you already know a lot about doing research, and so, as we set
@@ -42,6 +42,11 @@ you wish to participate (see the discussion on assumptions in Chapter
 ```{theorem, echo=FALSE}
 Go round the class and ask them to introduce themselves. Prompt: What 
 does an 'academic' introduction look like?
+
+The students should share thee concept maps of the their academic conversations.
+
+If they don't have it, ask them why (given the pros and cons) they don't have it.
+
 ```
 * What do you want to know about the course?
 ```{theorem, echo=FALSE}
@@ -80,15 +85,45 @@ weeks---you should think of the tasks you need to complete as
 'deliverables'; you should bring the product of you work to class in a
 form that you can use and share with others; i.e., for each
 deliverable, a single A4 page will usually suffice (it may comprise
-notes, diagrams, mind maps, etc; whatever works for you and is
-intelligible to your colleagues).
+notes, diagrams, *concept maps*, mind maps, etc; whatever works for you
+and is intelligible to your colleagues).
 
-1. Review "Choosing an academic home"
+I have highlighted concept maps as they are a powerful way to deepen your
+understanding of the topics at hand. As with  _learning journals_,  _concept
+maps_ foster reflexivity
+[@hibbert_2010_reflexivityrecursionrelationality], an important
+characteristic of those who aspire to be qualitative researchers.
+
+This chapter explores concept mapping, with a view of providing enough
+background so that you can successful 'do' concept mapping.
+
+1. Get to grips with concept mapping? --- 90 minutes 
+
+	- A concept map is a diagram that shows 'ideas' and th
+      relationship between those ideas. An example of a concept map is
+      shown in Figure \@ref(fig:exampleCM).
+
+
+	```{r exampleCM, fig.show='hold', fig.cap='An example concept map --- Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/d/df/Conceptmap.png "Concept Map from Wikipedia")', echo=FALSE}
+
+	knitr::include_graphics('images/ConceptMap.png')
+
+	```
+
+	- Novak is often cited as the orginator of concept maps [for
+      example, @novak_2006_originsconceptmapping]. Read his [paper on
+      concept maps](https://msu.edu/~luckie/ctools/).
+	
+	- Now produce a concept map show the uses of concept maps together
+      with the pros and cons of concept mapping.
+
+
+2. Review "Choosing an academic home"
   [@huff_2009_designingresearchpublication]
   --- 30 minutes;
 
   - *Describe* the academic conversation to which you wish to make a
-    contribution --- 30 minutes.
+    contribution. Do this by means of a concept map --- 90 minutes.
 
   - Given the characteristics of your choose academic conversation,
     *discuss* the extent to which there are well understood patterns
@@ -100,7 +135,7 @@ intelligible to your colleagues).
     conversation? --- 60 minutes.
 	  
 
-2. Read "Part I" and "Part 2" of Myers
+3. Read "Part I" and "Part 2" of Myers
   [-@myers_2013_qualitativeresearchbusiness p. 3--56] --- 120
   minutes.
 
@@ -113,7 +148,7 @@ intelligible to your colleagues).
 	Huff [-@huff_2009_designingresearchpublication] --- 40
 	minutes.
 
-3. The University of Auckland has a processes and policies around
+4. The University of Auckland has a processes and policies around
    conducting research. One of the most important documents is
    entitled "Guiding principles for conducting research with human
    participants." A copy of these guidelines can be found on the
@@ -129,6 +164,16 @@ intelligible to your colleagues).
 	  [-@huff_2009_designingresearchpublication] and the University's
 	  "Guiding principles ..." with regard to ethics in conducting
 	  research --- 20 minutes.
+
+### Post class reflection
+
+With the first class of the week behind you, it is time for you to reflect on what
+you have learnt and write-up your learning journal (Section
+\@ref(ass1) &dash; 90 minutes). You can then do your review your allocated learning
+journals of you  peers (Section \@ref(ass1) &dash; 60 minutes).
+
+
+With the class behind you, i
 
 ## Second class {-}
 
@@ -235,9 +280,12 @@ What are the pros and cons of each (and both)
 7. Having done tasks 4--6, do you need to revise your interview
    scripts (yes/no)? --- 10 minutes.
 
-## End of week {-}
+## Post class reflection {-}
 
-With the week's classes behind you, it is time to do your learning
-journal (Section \@ref(ass1) &dash; 60 minutes) and then do your
-review the learning journals of your peers (Section \@ref(ass1) &dash;
-60 minutes).
+With the second class of the week behind you, it is time for you to
+reflect on what you have learnt and write-up your learning journal
+(Section \@ref(ass1) &dash; 90 minutes). You can then do your review
+of your allocated peers' learning (Section \@ref(ass1) &dash; 60
+minutes).
+
+Given the scheduling, you might choose to do this at the start of the next week.

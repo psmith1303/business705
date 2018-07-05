@@ -71,7 +71,14 @@ Our first class of the week will focus on (a) bringing you speed on
    a few theoretical notes. Generate some research questions based on
    your theoretical coding? Can you come up with a theory about
    academics and work-life balance? --- 120 minutes.
-   
+
+### Post class reflection
+
+With the first class of the week behind you, it is time for you to reflect on what
+you have learnt and write-up your learning journal (Section
+\@ref(ass1) &dash; 90 minutes). You can then do your review your allocated learning
+journals of you  peers (Section \@ref(ass1) &dash; 60 minutes).
+
 
 ## Second class {-}
 
@@ -138,8 +145,12 @@ of late.
    [-@gioia_2013_seekingqualitativerigor] --- 120 minutes.
    
 
-## End of week {-}
+## Post class reflection {-}
 
-With the week's classes behind you, it is time to do your learning
-journal (60 minutes) and then review the learning journals of your
-peers (60 minutes).
+With the second class of the week behind you, it is time for you to
+reflect on what you have learnt and write-up your learning journal
+(Section \@ref(ass1) &dash; 90 minutes). You can then do your review
+of your allocated peers' learning (Section \@ref(ass1) &dash; 60
+minutes).
+
+Given the scheduling, you might choose to do this at the start of the next week.

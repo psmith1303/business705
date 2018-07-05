@@ -5,7 +5,7 @@
 ### Some mechanics
 
 This course meets twice a week, on Wednesdays at 16:00, and on Fridays
-at 9:00 for three hours; but the course only runs for the first six
+at 9:00 for three hours; but, the course only runs for the first six
 weeks of the semester. Thus, the average student should expect to
 spend 25 hours per week on course related activities. My office is in
 room 439, of the Owen G. Glenn Building (260-439), and---during term
@@ -84,7 +84,7 @@ the classroom.
 
 +------+-------------------------+----------------------------------------------+
 | Week | Knowledge focus         | Skill focus                                  |
-+------+-------------------------+----------------------------------------------+
++======+=========================+==============================================+
 | 1    | **You and qualitative   | **Collecting qualitative data**              |
 |      | research methods**      |                                              |
 |      |                         |  * Interviews                                |
@@ -115,7 +115,7 @@ The pattern of your work in this class, is generally:
 
 1. Complete the tasks to prepare for the classwork
 3. Do exercises in class
-4. Write your weekly learning journal
+4. Write your  learning journal
 5. Review the learning journals that you have been allocated
 
 ## Workload
@@ -130,7 +130,7 @@ A typical allocation of time to this course looks like this:
 
 +-------------------------------+-------+
 | Activity                      | Hours |
-+-------------------------------+-------+
++===============================+=======+
 | Prep for first class          |   7   |
 +-------------------------------+-------+
 | Class time (first class)      |   3   |
@@ -143,7 +143,7 @@ A typical allocation of time to this course looks like this:
 +-------------------------------+-------+
 | Reviewing learning journals   |   2   |
 +-------------------------------+-------+
-| Total time                    |  20   |
+| Total time                    |  25   |
 +-------------------------------+-------+
 
 If you find that my estimations of the time you need is widely out,

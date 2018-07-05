@@ -76,9 +76,13 @@ of the course. This includes:
 ### The toolbar {-}
 
 If you are using the website version of this e-book, you should see a
-toolbar at the top of the screen. Something like this:
+toolbar at the top of the screen, see Figure \@ref(fig:toolbar).
 
-![warning](images/toolbar.png)
+
+```{r toolbar, fig.show='hold', fig.cap='The Bookdown toolbar', echo=FALSE}
+
+knitr::include_graphics('images/toolbar.png')
+```
 
 The first 'button' turns the table of contents display on and off.
 
