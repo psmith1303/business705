@@ -5,8 +5,8 @@ Having successfully completed the research design course (BUSINESS
 the scene this week _re_ qualitative research methods, many of issues
 and ideas raised this week will be familiar to you.
 
-But we will be going beyond 'just' reading and start practising some
-to the tools and techniques of qualitative research.
+But we will be going beyond 'just' reading about qualitative research
+(QR) and start practising with some the tools and techniques of QR.
 
 ## First class {-}
 
@@ -78,6 +78,10 @@ Question: if you undertake an auto-ethnography, are you required to get
 approval from UAHPEC?
 ```
 
+* Looking ahead to your learning journals, are you clear what you need
+  to do (as opposed to being clear as to what you will do --- ends and
+  means).
+
 ### Prep and tasks {-}
 
 Throughout this chapter---and also for subsequent chapters and
@@ -93,9 +97,6 @@ understanding of the topics at hand. As with  _learning journals_,  _concept
 maps_ foster reflexivity
 [@hibbert_2010_reflexivityrecursionrelationality], an important
 characteristic of those who aspire to be qualitative researchers.
-
-This chapter explores concept mapping, with a view of providing enough
-background so that you can successful 'do' concept mapping.
 
 1. Get to grips with concept mapping? --- 90 minutes 
 
@@ -167,13 +168,11 @@ background so that you can successful 'do' concept mapping.
 
 ### Post class reflection
 
-With the first class of the week behind you, it is time for you to reflect on what
-you have learnt and write-up your learning journal (Section
-\@ref(ass1) &dash; 90 minutes). You can then do your review your allocated learning
-journals of you  peers (Section \@ref(ass1) &dash; 60 minutes).
-
-
-With the class behind you, i
+With the first class of the week behind you, it is time for you to
+reflect on what you have learnt and write-up your learning journal
+(Section \@ref(ass1) &dash; 90 minutes). You can then do your review
+your allocated learning journals of you peers (Section \@ref(ass1)
+&dash; 60 minutes).
 
 ## Second class {-}
 
@@ -238,9 +237,6 @@ This time record the interview using a recorder.
 What are the pros and cons of each (and both)
 
 ```
-* Looking ahead to your learning journals, are you clear what you need
-  to do (as opposed to being clear as to what you will do --- ends and
-  means).
 
 ### Prep and tasks {-}
 
@@ -288,4 +284,5 @@ reflect on what you have learnt and write-up your learning journal
 of your allocated peers' learning (Section \@ref(ass1) &dash; 60
 minutes).
 
-Given the scheduling, you might choose to do this at the start of the next week.
+Given the scheduling, you might choose to do this at the start of the
+next week.
