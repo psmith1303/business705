@@ -20,7 +20,6 @@ Focus groups and participant observation are two approaches to data
 collection that are often employed in action research. So, your
 in-class 'doings' will centre on these techniques.
 
-
 ## First class {-}
 
 ### Overview {-}
@@ -65,6 +64,8 @@ How could you re-frame this as an action research project; what
 challenges would be introduced in so doing? This should touch on the
 ethical consequences (e.g., of making changes to the status quo).
 
+
+What about doing action reseach at scale; e.g., the NHS with 1.7m employees.
 ```
 *  What makes a good plan for doing a focus group?
 ```{theorem, echo=FALSE}
@@ -93,19 +94,27 @@ Choose the best plan, and two or three people run the focus group.
    will see there are a lot of resources (including specialised texts)
    available to you. 
    
-   - *Identify* one of the texts that you think would be appropriately
-     helpful to you if you were to do action research as part of a
-     year long thesis (you may need to make and state, some
-     assumptions). Summarise your reasons for you choice, and be
-     prepared to share it with your colleagues --- 30 minutes.
+   - *Identify* one of the texts that you think would be helpful to
+     you if you were to do action research as part of a year long
+     thesis (you may need to make and state, some assumptions).
+     Summarise your reasons for you choice, and be prepared to share
+     it with your colleagues --- 30 minutes.
    
-3. Beyond that, the SAGE Research Methods website also has a range of
-   video clips. Find the 45 minute video called "David Coghlan
-   Discusses Action Research", and review it --- 50 minutes.
+3. Beyond that, review the video by Prof Danny Burns on Action
+   Research on [YouTube](https://www.youtube.com/watch?v=tnnfWuud7J8)
+   --- 30 minutes.
 
-   - *Describe* the biggest difference between David Coghlan's 'take' on
+   - *Describe* the biggest difference between Prof Burns's 'take' on
      action research compared to Myers
      [-@myers_2013_qualitativeresearchbusiness] --- 10 minutes.
+	 
+   - *Evaluate* the academic standing of Prof Burns to talk about
+     Action Research --- 20 minutes.
+	 
+   - *Draft* an approach for doing action research at scale, say,
+     around the topic of 'continuous improvement' at the NHS (the UKs
+     main medical provider with about 1.5m employees). Think about the
+     issues you'll face --- 15 minutes.
 	 
  4. Search the leading journal in your field (e.g., if you are in
     'innovation' you might choose Technovation) for research based
@@ -176,6 +185,7 @@ Small group sharing of the concept maps. Draw a new and better map.
 * What do we see when we observe?
 ```{theorem, echo=FALSE}
 Do the HEC exercise with objects.
+
 ```
 * Do we see the same thing?
 ```{theorem, echo=FALSE}
@@ -216,8 +226,8 @@ What was challenging about being participant observer?
 1. Read chapter 11 of Myers [-@myers_2013_qualitativeresearchbusiness
    p. 136--150] --- 30 minutes.
    
-2. Read the chapter in 'Social Research: Theory, Methods and
-   Techniques' on participant observation
+2. Read the chapter in 'Social research: Theory, methods and
+   techniques' on participant observation
    [@corbetta_2003_socialresearchtheory] --- 30 minutes.
 
    - Based on the two readings, draw a concept map (look it up if you
@@ -229,7 +239,7 @@ What was challenging about being participant observer?
    [@jarzabkowski_2015_conductingglobalteambased] Read the methods
    section --- 30 minutes.
    
-4. How do you know what you are observing? Read "how I learnt what a
+4. How do you know what you are observing? Read "How I learnt what a
    crock was" [@becker_1993_howlearnedwhat] --- 30 minutes.
 
    - One issue the previous two readings either allude to, or
@@ -242,13 +252,13 @@ What was challenging about being participant observer?
    - Use the SAGE Research methods site to explore this issue, and
      develop an approach for overcoming this problem --- 60 minutes.
 
-5. Lookup the term "Going native" in Dictionary of Statistics &
+5. Lookup the term "Going native" in the Dictionary of Statistics &
    Methodology, and in The SAGE Encyclopedia of Social Science
    Research Methods (both available through the SAGE Research Methods
    website). In the tradition of your desired research conversation,
    is going-native seen as problematical?  --- 60 minutes.
    
-6. Myers [-@myers_2013_qualitativeresearchbusiness], in talking about
+6. Myers [-@myers_2013_qualitativeresearchbusiness], in discussing about
    participant observation, talks about the notion of reciprocity.
    This issue exists almost all the time in qualitative research; what
    kind of *quid pro quo* can you give participants and what danagers
@@ -256,7 +266,7 @@ What was challenging about being participant observer?
    consent
    [@theuniversityofauckland_2013_guidingprinciplesconducting]  --- 30 minutes.
 
-## Post class reflection {-}
+### Post class reflection {-}
 
 With the second class of the week behind you, it is time for you to
 reflect on what you have learnt and write-up your learning journal

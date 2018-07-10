@@ -98,6 +98,8 @@ maps_ foster reflexivity
 [@hibbert_2010_reflexivityrecursionrelationality], an important
 characteristic of those who aspire to be qualitative researchers.
 
+(ref:foo) An example concept map --- Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/d/df/Conceptmap.png "Concept Map from Wikipedia")
+
 1. Get to grips with concept mapping? --- 90 minutes 
 
 	- A concept map is a diagram that shows 'ideas' and th
@@ -105,7 +107,7 @@ characteristic of those who aspire to be qualitative researchers.
       shown in Figure \@ref(fig:exampleCM).
 
 
-	```{r exampleCM, fig.show='hold', fig.cap='An example concept map --- Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/d/df/Conceptmap.png "Concept Map from Wikipedia")', echo=FALSE}
+	```{r exampleCM, fig.show='hold', fig.cap='(ref:foo)', echo=FALSE}
 
 	knitr::include_graphics('images/ConceptMap.png')
 
@@ -126,7 +128,7 @@ characteristic of those who aspire to be qualitative researchers.
   - *Describe* the academic conversation to which you wish to make a
     contribution. Do this by means of a concept map --- 90 minutes.
 
-  - Given the characteristics of your choose academic conversation,
+  - Given the characteristics of your choosen academic conversation,
     *discuss* the extent to which there are well understood patterns
     of research; i.e., is it the case that you are "in the midst of a
     conversation where many choices have been previously debated and
@@ -140,7 +142,7 @@ characteristic of those who aspire to be qualitative researchers.
   [-@myers_2013_qualitativeresearchbusiness p. 3--56] --- 120
   minutes.
 
-  - *Summarise* the main 'big ideas' that underpin Chapter 2 of the
+  - *Summarise* the 'big ideas' that underpin Chapter 2 of the
     textbook. What parallels, if any, are there with other books and
     articles you have read? --- 20 minutes.
   
@@ -185,7 +187,7 @@ particular doing some interviewing (and hopefully, a lot of doing).
 Looking at the big-picture, you need to work out how interviewing fits
 (or does not fit) with your epistemic/ontological position. And, if it
 does fit, in what way does it fit. At a gross level, how you go about
-doing an interview---say, the types of questions--will change
+doing an interview---for example, the types of questions--will change
 depending on how critical/interpretivist/positivist is your stance.
 
 ### Class plan {-}
@@ -196,7 +198,7 @@ depending on how critical/interpretivist/positivist is your stance.
   are interested in? Positivist, interpretivist, critical, something
   else? 
 ```{theorem, echo=FALSE}
-In terms of it being positivist (yes, one can do positivist qualitative research; see chapter 1 of the 4th edition of The SAGE Handbook of Qualitative Research **DENZIN 2011 REF**), interpretivist, critical, or something else?
+In terms of it being positivist (yes, one can do positivist qualitative research; see chapter 1 of the 4th edition of The SAGE Handbook of Qualitative Research [@denzin_2011_sagehandbookqualitative]), interpretivist, critical, or something else?
   
 Does the 'criticality' of your stance impact on the ethical
 requirements of the University of Auckland.
@@ -258,7 +260,7 @@ What are the pros and cons of each (and both)
 
 4. *Develop* a script (including an interview guide) for a
    semi-structured interview on the topic of "The most useful article
-   (not book) you ever read about research methods" --- 30 minutes.
+   (not book) you have ever read about research methods" --- 30 minutes.
 
 
 5. Explore the 'little blue books' at SAGE research methods site
@@ -276,7 +278,7 @@ What are the pros and cons of each (and both)
 7. Having done tasks 4--6, do you need to revise your interview
    scripts (yes/no)? --- 10 minutes.
 
-## Post class reflection {-}
+### Post class reflection {-}
 
 With the second class of the week behind you, it is time for you to
 reflect on what you have learnt and write-up your learning journal
