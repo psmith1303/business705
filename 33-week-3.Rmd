@@ -2,8 +2,8 @@
 
 This week we look at our second qualitative research method, case
 study research. In some disciplines/sub-fields, case study research is
-perhaps the most prevalent way of doing research. However, I think it
-is important not to be side-tracked by the use of cases in teaching
+perhaps the most prevalent method for doing research. However, it is
+important not to be side-tracked by the use of cases in teaching
 (e.g., the Harvard method). Rather, we need to concentrate on case
 studies as a strategy for doing research.
 
@@ -19,9 +19,10 @@ part of qualitative research.
 
 I am somewhat biased as I mainly read in my own area (strategizing in
 professional service firms), and within that milieu the case study
-reins supreme. So, I perhaps over estimate its importance; but it is a
-very important methodology. So this week, you will undertake the first
-steps toward doing a research case study; writing a case-description.
+reins supreme. So, I perhaps over estimate its importance;
+nevertheless it is a very important methodology. So this week, you
+will undertake the first steps toward doing a research case study;
+writing a case-description.
 
 Think back to the journal articles where you have seen case
 descriptions. If you are not sure what a case description is, no
@@ -55,31 +56,28 @@ For many of these tasks, you will need to engage in some independent research.
 
 1. What is an embedded case? --- 10 minutes.
 
-2. What is a concept map? This should be easy as you used looked at
-   them last week --- 10 minutes.
-
-3. Given your ontological/epistemological position, draw a concept map
+2. Given your ontological/epistemological position, draw a concept map
    that connects the ideas of "unit of analysis" and "level of
    analysis". Your concept map should contain citations to the
    sources of the ideas you present --- 30 minutes.
    
-4. Select an empirically-based journal article you have enjoyed (it
+3. Select an empirically-based journal article you have enjoyed (it
    should be an article with which you are already familiar). Be
    prepared to present/discuss/describe the units of analysis and
    level of analysis --- 30 minutes.
 
-5. Read Chapter 7 of Myers
+4. Read Chapter 7 of Myers
   [-@myers_2013_qualitativeresearchbusiness p. 73--91] --- 60 minutes.
 
-6. Read Chapter 12 of Myers
+5. Read Chapter 12 of Myers
   [-@myers_2013_qualitativeresearchbusiness p. 151--162] --- 40 minutes.
 
-7. What is a case description in the context of qualitative research?
+6. What is a case description in the context of qualitative research?
    (Hint, check out Yin's work) --- 10 minutes.
    
-8. Where would you place Yin on a positivist --- interpretivist spectrum?
+7. Where would you place Yin on a positivist --- interpretivist spectrum?
 
-9. Write a short case description. Combine what you know about using
+8. Write a short case description. Combine what you know about using
    documents to collect data, and case study research to write a case
    description, with a view to investigating focusing on Beca's
    internationalisation --- 180 minutes.
@@ -106,15 +104,15 @@ journals of you  peers (Section \@ref(ass1) &dash; 60 minutes).
 
 ### Overview {-}
 
-Qualitative data analysis (QDA): anecdotally, one of the big
+Qualitative data analysis (QDA) --- Anecdotally, one of the big
 differences between quantitative research and qualitative research is
 that, in quantitative research one spends a lot of time at the
 'front-end' working out what is to be done, and the analysis is
 relative quick. Whereas, with qualitative research, there is less work
 at the front-end, but the analysis takes much longer. When talking
-with masters and PhD students about their research plans, we often end
-up doubling or tripling the amount of time they set aside to do
-analysis.
+with masters and PhD students about their qualitative research plans,
+we often end up doubling or tripling the amount of time they set aside
+to do analysis.
 
 In many ways, thematic analysis, is the swiss-army knife of QDA, and
 so we start our journey with a look at this flexible tool that can be
@@ -151,7 +149,7 @@ Make a crib-sheet.
 * Is thematic coding essentially positivist, interpretivist, or
   critical in orientation?
   
-* Is thematic analysis geared towards a top-down or bottom-up
+* Is thematic analysis more of a top-down or bottom-up
   approach?
 
 
@@ -176,7 +174,7 @@ Make a crib-sheet.
    of your search terms --- 60 minutes.
       
 4. Sign-up for a free account at [Dedoose](http://dedoose.com). Spend
-   some time getting familiar with this QDA software by coding the text
+   some time getting familiar with this QDA software by doing thematic analysis and coding the text
    in Appendix \@ref(engineering) --- 90 minutes.
    
 5. Now, on a PC in one of the labs, do the same thing but try out
@@ -190,5 +188,6 @@ reflect on what you have learnt and write-up your learning journal
 of your allocated peers' learning (Section \@ref(ass1) &dash; 60
 minutes).
 
-Given the scheduling, you might choose to do this at the start of the next week.
+Given the scheduling, you might choose to do this at the start of the
+next week.
 

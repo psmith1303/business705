@@ -21,8 +21,8 @@ Our first class of the week will focus on (a) bringing you speed on
 
 * Urquhart argues that the choice between "Glaserian or Straussin
   [grounded theory] --- depends on individual researchers and their
-  preferences" [@urquhart_2017_groundedtheoryqualitative]. Which is
-  your preference?
+  preferences" [@urquhart_2017_groundedtheoryqualitative]. Explain
+  your preference.
   
 * How has grounded theory been used in your field?
 
@@ -47,7 +47,8 @@ Our first class of the week will focus on (a) bringing you speed on
 
 2. For the leading two or three journals in your own field, say,
    entrepreneurship, do a search and see how grounded theory has been
-   used. Be prepared to report back on your findings --- 30 minutes
+   used (in the past 5 years and in the past 10 years). Be prepared to
+   report back on your findings --- 90 minutes
 
 3. Visit the SAGE Research methods website: read chapters 1--3 and
    chapter 5 of [Urquhart's
@@ -74,10 +75,11 @@ Our first class of the week will focus on (a) bringing you speed on
 
 ### Post class reflection
 
-With the first class of the week behind you, it is time for you to reflect on what
-you have learnt and write-up your learning journal (Section
-\@ref(ass1) &dash; 90 minutes). You can then do your review your allocated learning
-journals of you  peers (Section \@ref(ass1) &dash; 60 minutes).
+With the first class of the week behind you, it is time for you to
+reflect on what you have learnt and write-up your learning journal
+(Section \@ref(ass1) &dash; 90 minutes). You can then do your review
+your allocated learning journals of you peers (Section \@ref(ass1)
+&dash; 60 minutes).
 
 
 ## Second class {-}
@@ -112,8 +114,8 @@ of late.
 1. Read the paper by Gioia and his co-authors on the 'Gioia method'
    [@gioia_2013_seekingqualitativerigor] --- 30 minutes.
 
-2. Draw a concept map linking the key tenets of the Gioia method to
-   grounded theory? --- 15 minutes.
+2. Draw a concept map relating the key tenets of the Gioia method to
+   those of grounded theory? --- 15 minutes.
    
 3. Review the article by Gioia and Thomas
    [-@gioia_1996_identityimageissuea]---it one of Gioia's exemplars
@@ -153,4 +155,5 @@ reflect on what you have learnt and write-up your learning journal
 of your allocated peers' learning (Section \@ref(ass1) &dash; 60
 minutes).
 
-Given the scheduling, you might choose to do this at the start of the next week.
+Given the scheduling, you might choose to do this at the start of the
+next week.

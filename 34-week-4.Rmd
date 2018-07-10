@@ -37,8 +37,8 @@ group of researchers who collaborated in an ethnographic study.
 
 * What is the reason for those differences?
 
-* How have Smet/Jarzabkowski and colleagues addressed the adavantages
-  and disadvantages of ethnographic research?
+* How have Smets/Jarzabkowski and their colleagues addressed the
+  adavantages and disadvantages of ethnographic research?
 
 
 ### Prep and tasks {-}
@@ -72,11 +72,11 @@ group of researchers who collaborated in an ethnographic study.
    - What was the over-arching research method?
    - How was data collected?
    - How was the data analyses?
-   - How much work the academic research probably took?
-   - How much work the industry report took?
+   - How much work did the academic research probably take?
+   - How much work did the industry report take?
    - Evaluate the quality of their research.
    - How have they achieved transferability?
-   - And any other insights about their approach they went about doing
+   - And, any other insights about their approach they went about doing
      qualitative research in that project --- 60 minutes in total.
 
 7. Go to Google Scholar and search for "smets reinsurance", skim the
@@ -148,10 +148,15 @@ limitations, and so we look to hermeneutics and semiotics.
    balance re teaching and research
    (https://academia.stackexchange.com/questions/89362/how-do-academics-with-teaching-responsibilities-etc-find-the-time-to-do-resear).
    Do a 'first cut' analysis, first using hermeneutics, then using
-   semiotics. What insights do you get? --- 120 minutes.
+   semiotics. What insights do you get? --- 180 minutes (this is a big
+   task, as you'll need to really work to understand hermeneutics and
+   semiotics).
    
-   Note the discussion is not perfectly suited to either form of
-   analysis; then again, what data ever is perfect?
+   Note: The discussion is not perfectly suited to either form of
+   analysis; then again, what data is ever perfect?
+   
+   Note: Think about if you should be using something like Dedoose or
+   NVivo as you analyse the data.
 
 ### Post class reflection {-}
 

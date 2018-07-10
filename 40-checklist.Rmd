@@ -1,5 +1,7 @@
 # To Do checklist {#todo-checklist}
 
-[ ] Get the required text book
+[ ] Get the required text book(s)
+
+[ ] Make sure you know the research conversation in which you wish to participate.
 
 [ ] Do lots of work

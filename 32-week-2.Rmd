@@ -217,9 +217,9 @@ Get the observers to report what they found particularly 'noteworthy'.
 What was challenging about being participant observer?
 
 ```
-* What the solution to the need for a *quid pro quo*?
+* What is the solution to the need for a *quid pro quo*?
 
-* Does going native matter to your conversation? (and what drives that).
+* Does going native matter to your conversation (and what drives that)?
 
 ### Prep and tasks {-}
 
@@ -230,9 +230,8 @@ What was challenging about being participant observer?
    techniques' on participant observation
    [@corbetta_2003_socialresearchtheory] --- 30 minutes.
 
-   - Based on the two readings, draw a concept map (look it up if you
-     need to) of the main concepts and their relationship --- 30
-     minutes.
+   - Based on the two readings, draw a concept map of the main
+     concepts and their relationship --- 30 minutes.
 
 3. Read the methods section of Jarzabkowski's paper on doing
    ethnography, where she talks about observations
