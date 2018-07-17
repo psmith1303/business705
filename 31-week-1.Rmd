@@ -38,7 +38,7 @@ you wish to participate (see the discussion on assumptions in Chapter
 
 * Welcome to BUSINESS 705
 
-* As academics, what would be useful to know about one another?"
+* As academics, what would be useful to know about one another?
 ```{theorem, echo=FALSE}
 Go round the class and ask them to introduce themselves. Prompt: What 
 does an 'academic' introduction look like?
@@ -102,7 +102,7 @@ characteristic of those who aspire to be qualitative researchers.
 
 1. Get to grips with concept mapping? --- 90 minutes 
 
-	- A concept map is a diagram that shows 'ideas' and th
+	- A concept map is a diagram that shows 'ideas' and the
       relationship between those ideas. An example of a concept map is
       shown in Figure \@ref(fig:exampleCM).
 
@@ -117,7 +117,7 @@ characteristic of those who aspire to be qualitative researchers.
       example, @novak_2006_originsconceptmapping]. Read his [paper on
       concept maps](https://msu.edu/~luckie/ctools/).
 	
-	- Now produce a concept map show the uses of concept maps together
+	- Now produce a concept map showing the uses of concept maps together
       with the pros and cons of concept mapping.
 
 
