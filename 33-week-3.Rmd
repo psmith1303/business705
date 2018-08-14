@@ -19,7 +19,7 @@ part of qualitative research.
 
 I am somewhat biased as I mainly read in my own area (strategizing in
 professional service firms), and within that milieu the case study
-reins supreme. So, I perhaps over estimate its importance;
+reigns supreme. So, I perhaps over estimate its importance;
 nevertheless it is a very important methodology. So this week, you
 will undertake the first steps toward doing a research case study;
 writing a case-description.
